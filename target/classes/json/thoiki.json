@@ -1,0 +1,5441 @@
+[ {
+  "tenThoiKi" : "Thời tiền sử",
+  "namBatDau" : "Không rõ",
+  "namKetThuc" : "Không rõ",
+  "danhSachNhanVat" : [ ],
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenThoiKi" : "Dựng nước",
+  "namBatDau" : "2000 trCN",
+  "namKetThuc" : "258 trCN",
+  "danhSachNhanVat" : [ {
+    "hoTen" : "An Tiêm",
+    "tenGoiKhac" : [ "An Tiêm" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Âu Cơ",
+    "tenGoiKhac" : [ "Âu Cơ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Bạch Hoa",
+    "tenGoiKhac" : [ "Bạch Hoa", "Ngọc Hoa" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Cao Sơn Đại Vương",
+    "tenGoiKhac" : [ "Cao Sơn Đại Vương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Chử Đồng Tử",
+    "tenGoiKhac" : [ "Chử Đồng Tử" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Cường Bạo Đại Vương",
+    "tenGoiKhac" : [ "Cường Bạo Đại Vương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Hồng Bàng",
+    "tenGoiKhac" : [ "Hồng Bàng" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Hùng Vương",
+    "tenGoiKhac" : [ "Hùng Vương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Kinh Dương Vương",
+    "tenGoiKhac" : [ "Kinh Dương Vương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "La Viện",
+    "tenGoiKhac" : [ "La Viện" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Lý Ông Trọng",
+    "tenGoiKhac" : [ "Lý Ông Trọng" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Phù Đổng Thiên Vương",
+    "tenGoiKhac" : [ "Phù Đổng Thiên Vương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Sùng Lãm",
+    "tenGoiKhac" : [ "Sùng Lãm", "Lạc Long Quân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  } ],
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Nhân vật: An Tiêm", "Nhân vật: Âu Cơ", "Nhân vật: Bạch Hoa", "Nhân vật: Cao Sơn Đại Vương", "Nhân vật: Chử Đồng Tử", "Nhân vật: Cường Bạo Đại Vương", "Nhân vật: Hồng Bàng", "Nhân vật: Hùng Vương", "Nhân vật: Kinh Dương Vương", "Nhân vật: La Viện", "Nhân vật: Lý Ông Trọng", "Nhân vật: Phù Đổng Thiên Vương", "Nhân vật: Sùng Lãm" ]
+}, {
+  "tenThoiKi" : "Nhà Thục",
+  "namBatDau" : "257 trCN",
+  "namKetThuc" : "208 trCN",
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Cao Thông",
+    "tenGoiKhac" : [ "Cao Thông", "Cao Lỗ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "180 TrCN",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Thục Phán",
+    "tenGoiKhac" : [ "Thục Phán", "An Dương Vương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  } ],
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Nhân vật: Cao Thông", "Nhân vật: Thục Phán" ]
+}, {
+  "tenThoiKi" : "Bắc thuộc lần 1",
+  "namBatDau" : "207 trCN",
+  "namKetThuc" : "39",
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Bốc Long",
+    "tenGoiKhac" : [ "Bốc Long" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Châu Đạt",
+    "tenGoiKhac" : [ "Châu Đạt" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Lữ Gia",
+    "tenGoiKhac" : [ "Lữ Gia" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  } ],
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Nhân vật: Bốc Long", "Nhân vật: Châu Đạt", "Nhân vật: Lữ Gia" ]
+}, {
+  "tenThoiKi" : "Trưng Nữ Vương",
+  "namBatDau" : "40",
+  "namKetThuc" : "43",
+  "danhSachNhanVat" : [ {
+    "hoTen" : "An Bình Lý",
+    "tenGoiKhac" : [ "An Bình Lý" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Vĩnh Phúc"
+  }, {
+    "hoTen" : "Bát Nạn",
+    "tenGoiKhac" : [ "Bát Nạn", "Bát Nàn", "Bát Não" ],
+    "namSinh" : "17",
+    "namMat" : "43",
+    "queQuan" : "Vĩnh Phúc"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Kháng chiến của nhân dân ta chống quân xâm lược Hán",
+    "namBatDau" : "42",
+    "namKetThuc" : "43"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Hai Bà Trưng bùng nổ",
+    "namBatDau" : "40",
+    "namKetThuc" : "40"
+  }, {
+    "tenSuKien" : "Nhà Hán cử Mã Viện cùng với Đoàn Chí đem quân sang đánh Trưng Vương",
+    "namBatDau" : "41",
+    "namKetThuc" : "41"
+  }, {
+    "tenSuKien" : "Mã Viện đánh vào Giao Chỉ",
+    "namBatDau" : "42",
+    "namKetThuc" : "42"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: An Bình Lý", "Nhân vật: Bát Nạn", "Sự kiện: Kháng chiến của nhân dân ta chống quân xâm lược Hán", "Sự kiện: Khởi nghĩa Hai Bà Trưng bùng nổ", "Sự kiện: Nhà Hán cử Mã Viện cùng với Đoàn Chí đem quân sang đánh Trưng Vương", "Sự kiện: Mã Viện đánh vào Giao Chỉ" ]
+}, {
+  "tenThoiKi" : "Bắc thuộc lần 2",
+  "namBatDau" : "43",
+  "namKetThuc" : "542",
+  "danhSachNhanVat" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Lý Bí bùng nổ",
+    "namBatDau" : "542",
+    "namKetThuc" : "542"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Bà Triệu",
+    "namBatDau" : "248",
+    "namKetThuc" : "248"
+  }, {
+    "tenSuKien" : "Nước Âu lạc bị quân Triệu Đà xâm chiếm",
+    "namBatDau" : "179",
+    "namKetThuc" : "179"
+  }, {
+    "tenSuKien" : "Nước Âu lạc của An Dương Vương thành lập",
+    "namBatDau" : "207",
+    "namKetThuc" : "207"
+  }, {
+    "tenSuKien" : "Nhà Hán đánh bại nhà Triệu, đô hộ Âu Lạc",
+    "namBatDau" : "111",
+    "namKetThuc" : "111"
+  }, {
+    "tenSuKien" : "Nhà Hán lập Giao Chỉ Bộ",
+    "namBatDau" : "106",
+    "namKetThuc" : "106"
+  }, {
+    "tenSuKien" : "Hơn 2000 dân Tượng Lâm quận Nhật Nam khởi nghĩa chống chính quyền đô hộ nhà Hán",
+    "namBatDau" : "100",
+    "namKetThuc" : "100"
+  }, {
+    "tenSuKien" : "Khởi nghĩa ở quận Nhật Nam",
+    "namBatDau" : "137",
+    "namKetThuc" : "137"
+  }, {
+    "tenSuKien" : "Nhà Hán suy yếu Nho giáo bắt đầu du nhập vào nước ta",
+    "namBatDau" : "187",
+    "namKetThuc" : "187"
+  }, {
+    "tenSuKien" : "Nhà nước Lâm Ấp được thành lập",
+    "namBatDau" : "190",
+    "namKetThuc" : "190"
+  }, {
+    "tenSuKien" : "Nhà Hán đặt Giao Chỉ thành Giao Châu",
+    "namBatDau" : "203",
+    "namKetThuc" : "203"
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Lý Bí bùng nổ", "Sự kiện: Khởi nghĩa Bà Triệu", "Sự kiện: Nước Âu lạc bị quân Triệu Đà xâm chiếm", "Sự kiện: Nước Âu lạc của An Dương Vương thành lập", "Sự kiện: Nhà Hán đánh bại nhà Triệu, đô hộ Âu Lạc", "Sự kiện: Nhà Hán lập Giao Chỉ Bộ", "Sự kiện: Hơn 2000 dân Tượng Lâm quận Nhật Nam khởi nghĩa chống chính quyền đô hộ nhà Hán", "Sự kiện: Khởi nghĩa ở quận Nhật Nam", "Sự kiện: Nhà Hán suy yếu Nho giáo bắt đầu du nhập vào nước ta", "Sự kiện: Nhà nước Lâm Ấp được thành lập", "Sự kiện: Nhà Hán đặt Giao Chỉ thành Giao Châu" ]
+}, {
+  "tenThoiKi" : "Nhà Tiền Lý, Triệu",
+  "namBatDau" : "544",
+  "namKetThuc" : "602",
+  "danhSachNhanVat" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Triệu Quang Phục giành lại độc lập",
+    "namBatDau" : "550",
+    "namKetThuc" : "550"
+  }, {
+    "tenSuKien" : "Nước Vạn Xuân thành lập",
+    "namBatDau" : "544",
+    "namKetThuc" : "544"
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Triệu Quang Phục giành lại độc lập", "Sự kiện: Nước Vạn Xuân thành lập" ]
+}, {
+  "tenThoiKi" : "Bắc thuộc lần lần 3",
+  "namBatDau" : "603",
+  "namKetThuc" : "939",
+  "danhSachNhanVat" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Nhà nước Văn Lang ra đời",
+    "namBatDau" : "700",
+    "namKetThuc" : "700"
+  }, {
+    "tenSuKien" : "Ngô Quyền xưng vương, đóng đô ở Cổ Loa",
+    "namBatDau" : "939",
+    "namKetThuc" : "939"
+  }, {
+    "tenSuKien" : "Kháng chiến chống quân Nam Hán lần thứ nhất",
+    "namBatDau" : "930",
+    "namKetThuc" : "931"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Phùng Hưng",
+    "namBatDau" : "776",
+    "namKetThuc" : "791"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Mai Thúc Loan",
+    "namBatDau" : "713",
+    "namKetThuc" : "713"
+  }, {
+    "tenSuKien" : "Khúc Thừa Dụ khởi nghĩa giành chính quyền tự chủ",
+    "namBatDau" : "905",
+    "namKetThuc" : "905"
+  }, {
+    "tenSuKien" : "Nhà Đường đổi Giao Châu thành An Nam đô hộ phủ",
+    "namBatDau" : "679",
+    "namKetThuc" : "679"
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Nhà nước Văn Lang ra đời", "Sự kiện: Ngô Quyền xưng vương, đóng đô ở Cổ Loa", "Sự kiện: Kháng chiến chống quân Nam Hán lần thứ nhất", "Sự kiện: Khởi nghĩa Phùng Hưng", "Sự kiện: Khởi nghĩa Mai Thúc Loan", "Sự kiện: Khúc Thừa Dụ khởi nghĩa giành chính quyền tự chủ", "Sự kiện: Nhà Đường đổi Giao Châu thành An Nam đô hộ phủ" ]
+}, {
+  "tenThoiKi" : "Xây nền tự chủ",
+  "namBatDau" : "905",
+  "namKetThuc" : "938",
+  "danhSachNhanVat" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Kháng chiến chống quân Nam Hán lần thứ nhất",
+    "namBatDau" : "930",
+    "namKetThuc" : "931"
+  }, {
+    "tenSuKien" : "Khúc Thừa Dụ khởi nghĩa giành chính quyền tự chủ",
+    "namBatDau" : "905",
+    "namKetThuc" : "905"
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Kháng chiến chống quân Nam Hán lần thứ nhất", "Sự kiện: Khúc Thừa Dụ khởi nghĩa giành chính quyền tự chủ" ]
+}, {
+  "tenThoiKi" : "Nhà Ngô",
+  "namBatDau" : "939",
+  "namKetThuc" : "965",
+  "danhSachNhanVat" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Ngô Quyền xưng vương, đóng đô ở Cổ Loa",
+    "namBatDau" : "939",
+    "namKetThuc" : "939"
+  }, {
+    "tenSuKien" : "Loạn 12 sứ quân",
+    "namBatDau" : "965",
+    "namKetThuc" : "967"
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Ngô Quyền xưng vương, đóng đô ở Cổ Loa", "Sự kiện: Loạn 12 sứ quân" ]
+}, {
+  "tenThoiKi" : "Nhà Đinh",
+  "namBatDau" : "968",
+  "namKetThuc" : "980",
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Phạm Hạp",
+    "tenGoiKhac" : [ "Phạm Hạp" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "981",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Đinh Duệ",
+    "tenGoiKhac" : [ "Đinh Duệ", "Đinh Tuệ", "Đinh Toàn" ],
+    "namSinh" : "974",
+    "namMat" : "1001",
+    "queQuan" : "Ninh Bình"
+  }, {
+    "hoTen" : "Đỗ Pháp Thuận",
+    "tenGoiKhac" : [ "Đỗ Pháp Thuận" ],
+    "namSinh" : "916",
+    "namMat" : "991",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Hoàn",
+    "tenGoiKhac" : [ "Lê Hoàn" ],
+    "namSinh" : "941",
+    "namMat" : "1005",
+    "queQuan" : "Nam Định"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, thống nhất đất nước, lên ngôi vua",
+    "namBatDau" : "968",
+    "namKetThuc" : "968"
+  }, {
+    "tenSuKien" : "Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư",
+    "namBatDau" : "980",
+    "namKetThuc" : "1009"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Phạm Hạp", "Nhân vật: Đinh Duệ", "Nhân vật: Đỗ Pháp Thuận", "Nhân vật: Lê Hoàn", "Sự kiện: Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, thống nhất đất nước, lên ngôi vua", "Sự kiện: Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư" ]
+}, {
+  "tenThoiKi" : "Nhà Tiền Lê",
+  "namBatDau" : "980",
+  "namKetThuc" : "1009",
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Đinh Duệ",
+    "tenGoiKhac" : [ "Đinh Duệ", "Đinh Tuệ", "Đinh Toàn" ],
+    "namSinh" : "974",
+    "namMat" : "1001",
+    "queQuan" : "Ninh Bình"
+  }, {
+    "hoTen" : "Đỗ Pháp Thuận",
+    "tenGoiKhac" : [ "Đỗ Pháp Thuận" ],
+    "namSinh" : "916",
+    "namMat" : "991",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Hoàn",
+    "tenGoiKhac" : [ "Lê Hoàn" ],
+    "namSinh" : "941",
+    "namMat" : "1005",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Bạch Hoa",
+    "tenGoiKhac" : [ "Bạch Hoa" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Đinh Lễ",
+    "tenGoiKhac" : [ "Đinh Lễ", "Nguyên Sinh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Giang Cự Vọng",
+    "tenGoiKhac" : [ "Giang Cự Vọng" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Hoàng Thành Nhã",
+    "tenGoiKhac" : [ "Hoàng Thành Nhã" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Long Cảnh",
+    "tenGoiKhac" : [ "Lê Long Cảnh", "Lê Long Kính" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Lê Long Đinh",
+    "tenGoiKhac" : [ "Lê Long Đinh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Lê Long Đĩnh",
+    "tenGoiKhac" : [ "Lê Long Đĩnh" ],
+    "namSinh" : "985",
+    "namMat" : "1009",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Lê Long Việt",
+    "tenGoiKhac" : [ "Lê Long Việt", "Lê Trung Tông" ],
+    "namSinh" : "983",
+    "namMat" : "1005",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Lê Ngân Tích",
+    "tenGoiKhac" : [ "Lê Ngân Tích" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Ngô Chân Lưu",
+    "tenGoiKhac" : [ "Ngô Chân Lưu", "Khuông Việt" ],
+    "namSinh" : "933",
+    "namMat" : "1011",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Ngô Tử An",
+    "tenGoiKhac" : [ "Ngô Tử An" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Ngô Tử Canh",
+    "tenGoiKhac" : [ "Ngô Tử Canh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Đào Cam Mộc",
+    "tenGoiKhac" : [ "Đào Cam Mộc" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1015",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Vạn Hạnh",
+    "tenGoiKhac" : [ "Vạn Hạnh", "Nguyễn Vạn Hạnh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1018",
+    "queQuan" : "Bắc Ninh"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Lê Hoàn đánh bại quân Tống",
+    "namBatDau" : "981",
+    "namKetThuc" : "981"
+  }, {
+    "tenSuKien" : "Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư",
+    "namBatDau" : "980",
+    "namKetThuc" : "1009"
+  }, {
+    "tenSuKien" : "Lý Công Uẩn lên ngôi, lập ra nhà Lý",
+    "namBatDau" : "1009",
+    "namKetThuc" : "1009"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Đinh Duệ", "Nhân vật: Đỗ Pháp Thuận", "Nhân vật: Lê Hoàn", "Nhân vật: Bạch Hoa", "Nhân vật: Đinh Lễ", "Nhân vật: Giang Cự Vọng", "Nhân vật: Hoàng Thành Nhã", "Nhân vật: Lê Long Cảnh", "Nhân vật: Lê Long Đinh", "Nhân vật: Lê Long Đĩnh", "Nhân vật: Lê Long Việt", "Nhân vật: Lê Ngân Tích", "Nhân vật: Ngô Chân Lưu", "Nhân vật: Ngô Tử An", "Nhân vật: Ngô Tử Canh", "Nhân vật: Đào Cam Mộc", "Nhân vật: Vạn Hạnh", "Sự kiện: Lê Hoàn đánh bại quân Tống", "Sự kiện: Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư", "Sự kiện: Lý Công Uẩn lên ngôi, lập ra nhà Lý" ]
+}, {
+  "tenThoiKi" : "Nhà Lý",
+  "namBatDau" : "1010",
+  "namKetThuc" : "1225",
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Đào Cam Mộc",
+    "tenGoiKhac" : [ "Đào Cam Mộc" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1015",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Vạn Hạnh",
+    "tenGoiKhac" : [ "Vạn Hạnh", "Nguyễn Vạn Hạnh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1018",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Âu Đạo Huệ",
+    "tenGoiKhac" : [ "Âu Đạo Huệ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1173",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Bản Tịch",
+    "tenGoiKhac" : [ "Bản Tịch", "Pháp Mật" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1139",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Nguyễn Nộn",
+    "tenGoiKhac" : [ "Nguyễn Nộn" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1229",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nguyễn Quảng Nghiêm",
+    "tenGoiKhac" : [ "Nguyễn Quảng Nghiêm", "Quảng Nghiêm" ],
+    "namSinh" : "1121",
+    "namMat" : "1190",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nguyễn Trí Bảo",
+    "tenGoiKhac" : [ "Nguyễn Trí Bảo" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1190",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Tuân",
+    "tenGoiKhac" : [ "Nguyễn Tuân", "Giới Không" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Nguyễn Y Sơn",
+    "tenGoiKhac" : [ "Nguyễn Y Sơn" ],
+    "namSinh" : "1121",
+    "namMat" : "1213",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Nhan Quảng Trí",
+    "tenGoiKhac" : [ "Nhan Quảng Trí", "Quảng Trí" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1090",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Phạm Bỉnh Di",
+    "tenGoiKhac" : [ "Phạm Bỉnh Di" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Phạm Thường Chiếu",
+    "tenGoiKhac" : [ "Phạm Thường Chiếu", "Thường Chiếu" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1203",
+    "queQuan" : "Phú Thọ"
+  }, {
+    "hoTen" : "Phan Trường Nguyên",
+    "tenGoiKhac" : [ "Phan Trường Nguyên" ],
+    "namSinh" : "1110",
+    "namMat" : "1165",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Pháp Bảo",
+    "tenGoiKhac" : [ "Pháp Bảo" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Phùng Tá Chu",
+    "tenGoiKhac" : [ "Phùng Tá Chu" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Quách Bốc",
+    "tenGoiKhac" : [ "Quách Bốc" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Tô Hiến Thành",
+    "tenGoiKhac" : [ "Tô Hiến Thành" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1179",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Tô Minh Trí",
+    "tenGoiKhac" : [ "Tô Minh Trí" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1196",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Tôn Đản",
+    "tenGoiKhac" : [ "Tôn Đản" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Từ Lộ",
+    "tenGoiKhac" : [ "Từ Lộ", "Đạo Hạnh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1117",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Vạn Trì Bát",
+    "tenGoiKhac" : [ "Vạn Trì Bát" ],
+    "namSinh" : "1049",
+    "namMat" : "1117",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Viên Thông",
+    "tenGoiKhac" : [ "Viên Thông" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1151",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Vương Hải Thiềm",
+    "tenGoiKhac" : [ "Vương Hải Thiềm" ],
+    "namSinh" : "1046",
+    "namMat" : "1100",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Ỷ Lan",
+    "tenGoiKhac" : [ "Ỷ Lan", "Lê Thị Yến Loan" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1117",
+    "queQuan" : "Bắc Ninh"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Lý Thái Tổ dời đô về Đại la, đổi tên thành Thăng Long",
+    "namBatDau" : "1010",
+    "namKetThuc" : "1010"
+  }, {
+    "tenSuKien" : "Nhà Lý ban hành bộ luật Hình thư",
+    "namBatDau" : "1042",
+    "namKetThuc" : "1042"
+  }, {
+    "tenSuKien" : "Nhà Lý đổi tên nước thành Đại Việt",
+    "namBatDau" : "1054",
+    "namKetThuc" : "1054"
+  }, {
+    "tenSuKien" : "Nhà Lý lập Văn Miếu thờ Khổng Tử",
+    "namBatDau" : "1070",
+    "namKetThuc" : "1070"
+  }, {
+    "tenSuKien" : "Nhà Lý mở khoa thi đầu tiên, Lê Văn Thịnh đỗ đầu",
+    "namBatDau" : "1075",
+    "namKetThuc" : "1075"
+  }, {
+    "tenSuKien" : "Lập Quốc tử giám ở kinh đô Thăng Long",
+    "namBatDau" : "1076",
+    "namKetThuc" : "1076"
+  }, {
+    "tenSuKien" : "Lý Thường Kiệt lãnh đạo kháng chiến chống Tống thắng lợi",
+    "namBatDau" : "1077",
+    "namKetThuc" : "1077"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Đào Cam Mộc", "Nhân vật: Vạn Hạnh", "Nhân vật: Âu Đạo Huệ", "Nhân vật: Bản Tịch", "Nhân vật: Nguyễn Nộn", "Nhân vật: Nguyễn Quảng Nghiêm", "Nhân vật: Nguyễn Trí Bảo", "Nhân vật: Nguyễn Tuân", "Nhân vật: Nguyễn Y Sơn", "Nhân vật: Nhan Quảng Trí", "Nhân vật: Phạm Bỉnh Di", "Nhân vật: Phạm Thường Chiếu", "Nhân vật: Phan Trường Nguyên", "Nhân vật: Pháp Bảo", "Nhân vật: Phùng Tá Chu", "Nhân vật: Quách Bốc", "Nhân vật: Tô Hiến Thành", "Nhân vật: Tô Minh Trí", "Nhân vật: Tôn Đản", "Nhân vật: Từ Lộ", "Nhân vật: Vạn Trì Bát", "Nhân vật: Viên Thông", "Nhân vật: Vương Hải Thiềm", "Nhân vật: Ỷ Lan", "Sự kiện: Lý Thái Tổ dời đô về Đại la, đổi tên thành Thăng Long", "Sự kiện: Nhà Lý ban hành bộ luật Hình thư", "Sự kiện: Nhà Lý đổi tên nước thành Đại Việt", "Sự kiện: Nhà Lý lập Văn Miếu thờ Khổng Tử", "Sự kiện: Nhà Lý mở khoa thi đầu tiên, Lê Văn Thịnh đỗ đầu", "Sự kiện: Lập Quốc tử giám ở kinh đô Thăng Long", "Sự kiện: Lý Thường Kiệt lãnh đạo kháng chiến chống Tống thắng lợi" ]
+}, {
+  "tenThoiKi" : "Nhà Trần",
+  "namBatDau" : "1225",
+  "namKetThuc" : "1400",
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Nguyễn Thuyên",
+    "tenGoiKhac" : [ "Nguyễn Thuyên" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Nguyễn Trung Ngạn",
+    "tenGoiKhac" : [ "Nguyễn Trung Ngạn", "Bang Trực", "Giới Hiên" ],
+    "namSinh" : "1289",
+    "namMat" : "1370",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Phạm Bân",
+    "tenGoiKhac" : [ "Phạm Bân", "Phạm Công Bân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Phạm Cư Sĩ",
+    "tenGoiKhac" : [ "Phạm Cư Sĩ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Phạm Cụ Trích",
+    "tenGoiKhac" : [ "Phạm Cụ Trích" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1275",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Phạm Ngũ Lão",
+    "tenGoiKhac" : [ "Phạm Ngũ Lão" ],
+    "namSinh" : "1255",
+    "namMat" : "1320",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Phạm Nhân Khanh",
+    "tenGoiKhac" : [ "Phạm Nhân Khanh", "Cổ Sơn" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Sử Hy Nhan",
+    "tenGoiKhac" : [ "Sử Hy Nhan" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Trần Anh Tông",
+    "tenGoiKhac" : [ "Trần Anh Tông", "Trần Thuyên" ],
+    "namSinh" : "1276",
+    "namMat" : "1320",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Trần Bình Trọng",
+    "tenGoiKhac" : [ "Trần Bình Trọng" ],
+    "namSinh" : "1259",
+    "namMat" : "1295",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Trần Cảnh",
+    "tenGoiKhac" : [ "Trần Cảnh", "Trần Thái Tông" ],
+    "namSinh" : "1218",
+    "namMat" : "1277",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Trần Hạo",
+    "tenGoiKhac" : [ "Trần Hạo", "Trần Dụ Tông" ],
+    "namSinh" : "1336",
+    "namMat" : "1369",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Trần Hoảng",
+    "tenGoiKhac" : [ "Trần Hoảng", "Trần Thánh Tông" ],
+    "namSinh" : "1240",
+    "namMat" : "1290",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Trần Ích Tắc",
+    "tenGoiKhac" : [ "Trần Ích Tắc" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Trần Khâm",
+    "tenGoiKhac" : [ "Trần Khâm", "Trần Nhân Tông" ],
+    "namSinh" : "1258",
+    "namMat" : "1308",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Trần Khánh Dư",
+    "tenGoiKhac" : [ "Trần Khánh Dư" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1339",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Trần Khát Chân",
+    "tenGoiKhac" : [ "Trần Khát Chân" ],
+    "namSinh" : "1370",
+    "namMat" : "1399",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trần Kính",
+    "tenGoiKhac" : [ "Trần Kính", "Trần Duệ Tông" ],
+    "namSinh" : "1336",
+    "namMat" : "1377",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Trần Mạnh",
+    "tenGoiKhac" : [ "Trần Mạnh", "Trần Minh Tông" ],
+    "namSinh" : "1300",
+    "namMat" : "1357",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Trần Ngạc",
+    "tenGoiKhac" : [ "Trần Ngạc" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1391",
+    "queQuan" : "Không rõ"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Trần Cảnh lên ngôi vua, nhà Trần thành lập",
+    "namBatDau" : "1226",
+    "namKetThuc" : "1226"
+  }, {
+    "tenSuKien" : "Ban hành Quốc triều hình luật",
+    "namBatDau" : "1230",
+    "namKetThuc" : "1230"
+  }, {
+    "tenSuKien" : "Lập Quốc học viện và Giảng võ đường",
+    "namBatDau" : "1253",
+    "namKetThuc" : "1253"
+  }, {
+    "tenSuKien" : "Chiến thắng quân xâm lược Mông Cổ lần thứ nhất",
+    "namBatDau" : "1258",
+    "namKetThuc" : "1258"
+  }, {
+    "tenSuKien" : "Chiến thắng quân Nguyên lần hai",
+    "namBatDau" : "1285",
+    "namKetThuc" : "1285"
+  }, {
+    "tenSuKien" : "Trận Hàm Tử",
+    "namBatDau" : "1285",
+    "namKetThuc" : "1285"
+  }, {
+    "tenSuKien" : "Chiến thắng quân Nguyên lần ba",
+    "namBatDau" : "1288",
+    "namKetThuc" : "1288"
+  }, {
+    "tenSuKien" : "Trận Vân Đồn",
+    "namBatDau" : "1288",
+    "namKetThuc" : "1288"
+  }, {
+    "tenSuKien" : "Chiến Thắng Bạch Đằng năm 1288",
+    "namBatDau" : "1288",
+    "namKetThuc" : "1288"
+  }, {
+    "tenSuKien" : "Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ",
+    "namBatDau" : "1400",
+    "namKetThuc" : "1400"
+  }, {
+    "tenSuKien" : "Nhà Hồ quản lí đất nước, đổi quốc hiệu là Đại Ngu",
+    "namBatDau" : "1400",
+    "namKetThuc" : "1407"
+  }, {
+    "tenSuKien" : "Chiến tranh Việt Chiêm 1400-1407",
+    "namBatDau" : "1400",
+    "namKetThuc" : "1407"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Nguyễn Thuyên", "Nhân vật: Nguyễn Trung Ngạn", "Nhân vật: Phạm Bân", "Nhân vật: Phạm Cư Sĩ", "Nhân vật: Phạm Cụ Trích", "Nhân vật: Phạm Ngũ Lão", "Nhân vật: Phạm Nhân Khanh", "Nhân vật: Sử Hy Nhan", "Nhân vật: Trần Anh Tông", "Nhân vật: Trần Bình Trọng", "Nhân vật: Trần Cảnh", "Nhân vật: Trần Hạo", "Nhân vật: Trần Hoảng", "Nhân vật: Trần Ích Tắc", "Nhân vật: Trần Khâm", "Nhân vật: Trần Khánh Dư", "Nhân vật: Trần Khát Chân", "Nhân vật: Trần Kính", "Nhân vật: Trần Mạnh", "Nhân vật: Trần Ngạc", "Sự kiện: Trần Cảnh lên ngôi vua, nhà Trần thành lập", "Sự kiện: Ban hành Quốc triều hình luật", "Sự kiện: Lập Quốc học viện và Giảng võ đường", "Sự kiện: Chiến thắng quân xâm lược Mông Cổ lần thứ nhất", "Sự kiện: Chiến thắng quân Nguyên lần hai", "Sự kiện: Trận Hàm Tử", "Sự kiện: Chiến thắng quân Nguyên lần ba", "Sự kiện: Trận Vân Đồn", "Sự kiện: Chiến Thắng Bạch Đằng năm 1288", "Sự kiện: Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ", "Sự kiện: Nhà Hồ quản lí đất nước, đổi quốc hiệu là Đại Ngu", "Sự kiện: Chiến tranh Việt Chiêm 1400-1407" ]
+}, {
+  "tenThoiKi" : "Nhà Hồ",
+  "namBatDau" : "1400",
+  "namKetThuc" : "1407",
+  "danhSachNhanVat" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ",
+    "namBatDau" : "1400",
+    "namKetThuc" : "1400"
+  }, {
+    "tenSuKien" : "Nhà Hồ quản lí đất nước, đổi quốc hiệu là Đại Ngu",
+    "namBatDau" : "1400",
+    "namKetThuc" : "1407"
+  }, {
+    "tenSuKien" : "Định quan chế và hình luật của nước Đại Ngu",
+    "namBatDau" : "1401",
+    "namKetThuc" : "1401"
+  }, {
+    "tenSuKien" : "Chiến tranh Việt Chiêm 1400-1407",
+    "namBatDau" : "1400",
+    "namKetThuc" : "1407"
+  }, {
+    "tenSuKien" : "Cuộc xâm lược của nhà Minh 1406-1407",
+    "namBatDau" : "1406",
+    "namKetThuc" : "1407"
+  }, {
+    "tenSuKien" : "Cuộc khởi nghĩa Trần Ngỗi",
+    "namBatDau" : "1407",
+    "namKetThuc" : "1409"
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ", "Sự kiện: Nhà Hồ quản lí đất nước, đổi quốc hiệu là Đại Ngu", "Sự kiện: Định quan chế và hình luật của nước Đại Ngu", "Sự kiện: Chiến tranh Việt Chiêm 1400-1407", "Sự kiện: Cuộc xâm lược của nhà Minh 1406-1407", "Sự kiện: Cuộc khởi nghĩa Trần Ngỗi" ]
+}, {
+  "tenThoiKi" : "Hậu Trần",
+  "namBatDau" : "1407",
+  "namKetThuc" : "1413",
+  "danhSachNhanVat" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Cuộc khởi nghĩa Trần Ngỗi",
+    "namBatDau" : "1407",
+    "namKetThuc" : "1409"
+  }, {
+    "tenSuKien" : "Cuộc khởi nghĩa Trần Quý Khoáng",
+    "namBatDau" : "1409",
+    "namKetThuc" : "1414"
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Cuộc khởi nghĩa Trần Ngỗi", "Sự kiện: Cuộc khởi nghĩa Trần Quý Khoáng" ]
+}, {
+  "tenThoiKi" : "Thuộc Minh",
+  "namBatDau" : "1414",
+  "namKetThuc" : "1427",
+  "danhSachNhanVat" : [ ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Lam Sơn",
+    "namBatDau" : "1418",
+    "namKetThuc" : "1427"
+  }, {
+    "tenSuKien" : "Quân Lam Sơn giải phóng Nghệ An",
+    "namBatDau" : "1424",
+    "namKetThuc" : "1424"
+  }, {
+    "tenSuKien" : "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc",
+    "namBatDau" : "1425",
+    "namKetThuc" : "1426"
+  }, {
+    "tenSuKien" : "Trận Tốt Động – Chúc Động",
+    "namBatDau" : "1426",
+    "namKetThuc" : "1426"
+  }, {
+    "tenSuKien" : "Trận Chi Lăng – Xương Giang",
+    "namBatDau" : "1427",
+    "namKetThuc" : "1427"
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Lam Sơn", "Sự kiện: Quân Lam Sơn giải phóng Nghệ An", "Sự kiện: Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc", "Sự kiện: Trận Tốt Động – Chúc Động", "Sự kiện: Trận Chi Lăng – Xương Giang" ]
+}, {
+  "tenThoiKi" : "Triều Lê Sơ",
+  "namBatDau" : "1428",
+  "namKetThuc" : "1527",
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Bùi Công Hành",
+    "tenGoiKhac" : [ "Bùi Công Hành" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Bùi Công Phụ",
+    "tenGoiKhac" : [ "Bùi Công Phụ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Bùi Dục Tài",
+    "tenGoiKhac" : [ "Bùi Dục Tài" ],
+    "namSinh" : "1477",
+    "namMat" : "1518",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Bùi Đạt",
+    "tenGoiKhac" : [ "Bùi Đạt" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Bùi Đoan Giáo",
+    "tenGoiKhac" : [ "Bùi Đoan Giáo" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Bùi Hoàn Khánh",
+    "tenGoiKhac" : [ "Bùi Hoàn Khánh" ],
+    "namSinh" : "1473",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Bùi Tấn Diên",
+    "tenGoiKhac" : [ "Bùi Tấn Diên" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Bùi Xương Trạch",
+    "tenGoiKhac" : [ "Bùi Xương Trạch" ],
+    "namSinh" : "1451",
+    "namMat" : "1529",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Cái Phùng",
+    "tenGoiKhac" : [ "Cái Phùng" ],
+    "namSinh" : "1440",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Cao Quýnh",
+    "tenGoiKhac" : [ "Cao Quýnh" ],
+    "namSinh" : "1449",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Châu Doãn Văn",
+    "tenGoiKhac" : [ "Châu Doãn Văn" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Diêu Viễn",
+    "tenGoiKhac" : [ "Diêu Viễn" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Dương Đúc Nhan",
+    "tenGoiKhac" : [ "Dương Đúc Nhan" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Dương Như Châu",
+    "tenGoiKhac" : [ "Dương Như Châu" ],
+    "namSinh" : "1448",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Dương Tôn Hải",
+    "tenGoiKhac" : [ "Dương Tôn Hải" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Dương Trực Nguyên",
+    "tenGoiKhac" : [ "Dương Trực Nguyên" ],
+    "namSinh" : "1469",
+    "namMat" : "1509",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Dương Tử Do",
+    "tenGoiKhac" : [ "Dương Tử Do" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Đàm Thận Huy",
+    "tenGoiKhac" : [ "Đàm Thận Huy" ],
+    "namSinh" : "1463",
+    "namMat" : "1528",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Đàm Văn Lễ",
+    "tenGoiKhac" : [ "Đàm Văn Lễ" ],
+    "namSinh" : "1452",
+    "namMat" : "1505",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Đặng Chiêm",
+    "tenGoiKhac" : [ "Đặng Chiêm" ],
+    "namSinh" : "1429",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Lưu Xuân Tín",
+    "tenGoiKhac" : [ "Lưu Xuân Tín" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Lý Tử Tấn",
+    "tenGoiKhac" : [ "Lý Tử Tấn", "Chuyết Am" ],
+    "namSinh" : "1378",
+    "namMat" : "1454",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Mạc Bang Hộ",
+    "tenGoiKhac" : [ "Mạc Bang Hộ", "Võ Hộ" ],
+    "namSinh" : "1481",
+    "namMat" : "1534",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Nghiêm Bá Ký",
+    "tenGoiKhac" : [ "Nghiêm Bá Ký" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1530",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nghiêm Hiến",
+    "tenGoiKhac" : [ "Nghiêm Hiến" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nghiêm Ích Khiêm",
+    "tenGoiKhac" : [ "Nghiêm Ích Khiêm" ],
+    "namSinh" : "1459",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nghiêm Viến",
+    "tenGoiKhac" : [ "Nghiêm Viến" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Ngô Chi Lan",
+    "tenGoiKhac" : [ "Ngô Chi Lan", "Nguyễn Hạ Huệ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Ngô Hoán",
+    "tenGoiKhac" : [ "Ngô Hoán" ],
+    "namSinh" : "1460",
+    "namMat" : "1528",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Ngô Sĩ Liên",
+    "tenGoiKhac" : [ "Ngô Sĩ Liên" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Ngô Thị Ngọc Dao",
+    "tenGoiKhac" : [ "Ngô Thị Ngọc Dao" ],
+    "namSinh" : "1421",
+    "namMat" : "1496",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Ngô Từ",
+    "tenGoiKhac" : [ "Ngô Từ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Anh Võ",
+    "tenGoiKhac" : [ "Nguyễn Anh Võ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Bá Kí",
+    "tenGoiKhac" : [ "Nguyễn Bá Kí" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1465",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Bảo",
+    "tenGoiKhac" : [ "Nguyễn Bảo", "Châu Khê" ],
+    "namSinh" : "1452",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Nguyễn Địch Tâm",
+    "tenGoiKhac" : [ "Nguyễn Địch Tâm" ],
+    "namSinh" : "1461",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Đức Trung",
+    "tenGoiKhac" : [ "Nguyễn Đức Trung", "Nguyễn Văn Thường" ],
+    "namSinh" : "1404",
+    "namMat" : "1477",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Nguyễn Giản Thanh",
+    "tenGoiKhac" : [ "Nguyễn Giản Thanh", "Nguyễn Giản Liêm", "Cự Nguyên", "Phác Hiên", "Trạng Me" ],
+    "namSinh" : "1481",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nguyễn Hãng",
+    "tenGoiKhac" : [ "Nguyễn Hãng", "Nại Hiên" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Phú Thọ"
+  }, {
+    "hoTen" : "Nguyễn Lí",
+    "tenGoiKhac" : [ "Nguyễn Lí" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Lê Lợi lên ngôi vua ở Đông đô, đặt lại quốc hiệu là Đại Việt",
+    "namBatDau" : "1428",
+    "namKetThuc" : "1428"
+  }, {
+    "tenSuKien" : "Lê Thánh Tông cho biên soạn và ban hành bộ luật Hồng Đức",
+    "namBatDau" : "1483",
+    "namKetThuc" : "1483"
+  }, {
+    "tenSuKien" : "Khởi Nghĩa Trần Tuân",
+    "namBatDau" : "1511",
+    "namKetThuc" : "1511"
+  }, {
+    "tenSuKien" : "Khởi Nghĩa Trần Cảo",
+    "namBatDau" : "1516",
+    "namKetThuc" : "1516"
+  }, {
+    "tenSuKien" : "Mạc Đăng Dung lật đổ nhà Lê Sơ, thành lập nhà Mạc",
+    "namBatDau" : "1527",
+    "namKetThuc" : "1527"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Nguyễn Hữu Cầu",
+    "namBatDau" : "1471",
+    "namKetThuc" : "1751"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Bùi Công Hành", "Nhân vật: Bùi Công Phụ", "Nhân vật: Bùi Dục Tài", "Nhân vật: Bùi Đạt", "Nhân vật: Bùi Đoan Giáo", "Nhân vật: Bùi Hoàn Khánh", "Nhân vật: Bùi Tấn Diên", "Nhân vật: Bùi Xương Trạch", "Nhân vật: Cái Phùng", "Nhân vật: Cao Quýnh", "Nhân vật: Châu Doãn Văn", "Nhân vật: Diêu Viễn", "Nhân vật: Dương Đúc Nhan", "Nhân vật: Dương Như Châu", "Nhân vật: Dương Tôn Hải", "Nhân vật: Dương Trực Nguyên", "Nhân vật: Dương Tử Do", "Nhân vật: Đàm Thận Huy", "Nhân vật: Đàm Văn Lễ", "Nhân vật: Đặng Chiêm", "Nhân vật: Lưu Xuân Tín", "Nhân vật: Lý Tử Tấn", "Nhân vật: Mạc Bang Hộ", "Nhân vật: Nghiêm Bá Ký", "Nhân vật: Nghiêm Hiến", "Nhân vật: Nghiêm Ích Khiêm", "Nhân vật: Nghiêm Viến", "Nhân vật: Ngô Chi Lan", "Nhân vật: Ngô Hoán", "Nhân vật: Ngô Sĩ Liên", "Nhân vật: Ngô Thị Ngọc Dao", "Nhân vật: Ngô Từ", "Nhân vật: Nguyễn Anh Võ", "Nhân vật: Nguyễn Bá Kí", "Nhân vật: Nguyễn Bảo", "Nhân vật: Nguyễn Địch Tâm", "Nhân vật: Nguyễn Đức Trung", "Nhân vật: Nguyễn Giản Thanh", "Nhân vật: Nguyễn Hãng", "Nhân vật: Nguyễn Lí", "Sự kiện: Lê Lợi lên ngôi vua ở Đông đô, đặt lại quốc hiệu là Đại Việt", "Sự kiện: Lê Thánh Tông cho biên soạn và ban hành bộ luật Hồng Đức", "Sự kiện: Khởi Nghĩa Trần Tuân", "Sự kiện: Khởi Nghĩa Trần Cảo", "Sự kiện: Mạc Đăng Dung lật đổ nhà Lê Sơ, thành lập nhà Mạc", "Sự kiện: Khởi nghĩa Nguyễn Hữu Cầu" ]
+}, {
+  "tenThoiKi" : "Nam - Bắc Triều",
+  "namBatDau" : "1527",
+  "namKetThuc" : "1592",
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Giáp Hải",
+    "tenGoiKhac" : [ "Giáp Hải", "Giáp Trưng", "Tiêm Phu", "Tuyết Trai" ],
+    "namSinh" : "1516",
+    "namMat" : "1588",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Hà Nhậm Đại",
+    "tenGoiKhac" : [ "Hà Nhậm Đại" ],
+    "namSinh" : "1525",
+    "namMat" : "Không rõ",
+    "queQuan" : "Vĩnh Phúc"
+  }, {
+    "hoTen" : "Hoàng Bôi",
+    "tenGoiKhac" : [ "Hoàng Bôi" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Hoàng Công Châu",
+    "tenGoiKhac" : [ "Hoàng Công Châu" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Bình"
+  }, {
+    "hoTen" : "Hoàng Nghĩa Thân",
+    "tenGoiKhac" : [ "Hoàng Nghĩa Thân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1591",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Hoàng Sầm",
+    "tenGoiKhac" : [ "Hoàng Sầm", "Trần Diệm" ],
+    "namSinh" : "1521",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Hoàng Sĩ Khải",
+    "tenGoiKhac" : [ "Hoàng Sĩ Khải" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Lại Thế Khanh",
+    "tenGoiKhac" : [ "Lại Thế Khanh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1597",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Lê Bá Ly",
+    "tenGoiKhac" : [ "Lê Bá Ly" ],
+    "namSinh" : "1476",
+    "namMat" : "1557",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Lê Duy Bang",
+    "tenGoiKhac" : [ "Lê Duy Bang", "Lê Anh Tông" ],
+    "namSinh" : "1532",
+    "namMat" : "1573",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Duy Đàm",
+    "tenGoiKhac" : [ "Lê Duy Đàm", "Lê Thái Tông" ],
+    "namSinh" : "1567",
+    "namMat" : "1599",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Duy Huyên",
+    "tenGoiKhac" : [ "Lê Duy Huyên", "Lê Trung Tông" ],
+    "namSinh" : "1535",
+    "namMat" : "1556",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Nhu Hổ",
+    "tenGoiKhac" : [ "Lê Nhu Hổ" ],
+    "namSinh" : "1511",
+    "namMat" : "1581",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Lê Quang Bí",
+    "tenGoiKhac" : [ "Lê Quang Bí", "Lê Quang Bôn" ],
+    "namSinh" : "1504",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Lê Vô Cương",
+    "tenGoiKhac" : [ "Lê Vô Cương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Lương Hữu Khánh",
+    "tenGoiKhac" : [ "Lương Hữu Khánh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Mạc Chính Trung",
+    "tenGoiKhac" : [ "Mạc Chính Trung" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Mạc Đăng Doanh",
+    "tenGoiKhac" : [ "Mạc Đăng Doanh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1540",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Mạc Đăng Dung",
+    "tenGoiKhac" : [ "Mạc Đăng Dung" ],
+    "namSinh" : "1483",
+    "namMat" : "1541",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Mạc Đôn Nhượng",
+    "tenGoiKhac" : [ "Mạc Đôn Nhượng" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1593",
+    "queQuan" : "Không rõ"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Mạc Đăng Dung lật đổ nhà Lê Sơ, thành lập nhà Mạc",
+    "namBatDau" : "1527",
+    "namKetThuc" : "1527"
+  }, {
+    "tenSuKien" : "Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều",
+    "namBatDau" : "1543",
+    "namKetThuc" : "1592"
+  }, {
+    "tenSuKien" : "Nhà Mạc sụp đổ",
+    "namBatDau" : "1592",
+    "namKetThuc" : "1592"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Giáp Hải", "Nhân vật: Hà Nhậm Đại", "Nhân vật: Hoàng Bôi", "Nhân vật: Hoàng Công Châu", "Nhân vật: Hoàng Nghĩa Thân", "Nhân vật: Hoàng Sầm", "Nhân vật: Hoàng Sĩ Khải", "Nhân vật: Lại Thế Khanh", "Nhân vật: Lê Bá Ly", "Nhân vật: Lê Duy Bang", "Nhân vật: Lê Duy Đàm", "Nhân vật: Lê Duy Huyên", "Nhân vật: Lê Nhu Hổ", "Nhân vật: Lê Quang Bí", "Nhân vật: Lê Vô Cương", "Nhân vật: Lương Hữu Khánh", "Nhân vật: Mạc Chính Trung", "Nhân vật: Mạc Đăng Doanh", "Nhân vật: Mạc Đăng Dung", "Nhân vật: Mạc Đôn Nhượng", "Sự kiện: Mạc Đăng Dung lật đổ nhà Lê Sơ, thành lập nhà Mạc", "Sự kiện: Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều", "Sự kiện: Nhà Mạc sụp đổ" ]
+}, {
+  "tenThoiKi" : "Trịnh - Nguyễn",
+  "namBatDau" : "1533",
+  "namKetThuc" : "1788",
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Dương Trọng Khiêm",
+    "tenGoiKhac" : [ "Dương Trọng Khiêm" ],
+    "namSinh" : "1727",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Đặng Chất",
+    "tenGoiKhac" : [ "Đặng Chất" ],
+    "namSinh" : "1622",
+    "namMat" : "1683",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Đặng Đại Độ",
+    "tenGoiKhac" : [ "Đặng Đại Độ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Đặng Đình Đông",
+    "tenGoiKhac" : [ "Đặng Đình Đông", "Đặng Tiến Đông" ],
+    "namSinh" : "1738",
+    "namMat" : "1787",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Đặng Đình Gián",
+    "tenGoiKhac" : [ "Đặng Đình Gián" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Đặng Đình Lân",
+    "tenGoiKhac" : [ "Đặng Đình Lân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Đặng Đình Tướng",
+    "tenGoiKhac" : [ "Đặng Đình Tướng" ],
+    "namSinh" : "1649",
+    "namMat" : "1736",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Đặng Đức Thuật",
+    "tenGoiKhac" : [ "Đặng Đức Thuật" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bình Thuận"
+  }, {
+    "hoTen" : "Đặng Hữu Tâm",
+    "tenGoiKhac" : [ "Đặng Hữu Tâm" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Đặng Thái Phương",
+    "tenGoiKhac" : [ "Đặng Thái Phương" ],
+    "namSinh" : "1678",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Đặng Thế Khoa",
+    "tenGoiKhac" : [ "Đặng Thế Khoa" ],
+    "namSinh" : "1593",
+    "namMat" : "1656",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Đặng Tiến Thự",
+    "tenGoiKhac" : [ "Đặng Tiến Thự" ],
+    "namSinh" : "1627",
+    "namMat" : "1697",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Đặng Trần Côn",
+    "tenGoiKhac" : [ "Đặng Trần Côn" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Đào Bí",
+    "tenGoiKhac" : [ "Đào Bí" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Đào Công Chính",
+    "tenGoiKhac" : [ "Đào Công Chính" ],
+    "namSinh" : "1639",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Đào Duy Từ",
+    "tenGoiKhac" : [ "Đào Duy Từ" ],
+    "namSinh" : "1572",
+    "namMat" : "1634",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Đào Quang Nhiêu",
+    "tenGoiKhac" : [ "Đào Quang Nhiêu" ],
+    "namSinh" : "1601",
+    "namMat" : "1672",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Đào Tá Hán",
+    "tenGoiKhac" : [ "Đào Tá Hán" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Đinh Nhạ Hành",
+    "tenGoiKhac" : [ "Đinh Nhạ Hành" ],
+    "namSinh" : "1751",
+    "namMat" : "1803",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Đinh Nho Công",
+    "tenGoiKhac" : [ "Đinh Nho Công" ],
+    "namSinh" : "1637",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Lê Duy Chỉ",
+    "tenGoiKhac" : [ "Lê Duy Chỉ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1790",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Duy Đào",
+    "tenGoiKhac" : [ "Lê Duy Đào", "Lê Hiển Tông" ],
+    "namSinh" : "1716",
+    "namMat" : "1786",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Duy Đường",
+    "tenGoiKhac" : [ "Lê Duy Đường", "Lê Dụ Tông" ],
+    "namSinh" : "1680",
+    "namMat" : "1731",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Duy Hội",
+    "tenGoiKhac" : [ "Lê Duy Hội", "Lê Gia Tông" ],
+    "namSinh" : "1661",
+    "namMat" : "1675",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Duy Hợp",
+    "tenGoiKhac" : [ "Lê Duy Hợp", "Lê Hi Tông" ],
+    "namSinh" : "1664",
+    "namMat" : "1717",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Duy Hựu",
+    "tenGoiKhac" : [ "Lê Duy Hựu", "Lê Chân Tông" ],
+    "namSinh" : "1630",
+    "namMat" : "1649",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Duy Khiêm",
+    "tenGoiKhac" : [ "Lê Duy Khiêm", "Lê Chiêu Thống" ],
+    "namSinh" : "1766",
+    "namMat" : "1793",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Duy Kỳ",
+    "tenGoiKhac" : [ "Lê Duy Kỳ", "Lê Thần Tông" ],
+    "namSinh" : "1607",
+    "namMat" : "1662",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Duy Mật",
+    "tenGoiKhac" : [ "Lê Duy Mật" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Duy Ninh",
+    "tenGoiKhac" : [ "Lê Duy Ninh", "Lê Trang Tông" ],
+    "namSinh" : "1515",
+    "namMat" : "1548",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Duy Phương",
+    "tenGoiKhac" : [ "Lê Duy Phương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1735",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Duy Quí",
+    "tenGoiKhac" : [ "Lê Duy Quí" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Duy Tân",
+    "tenGoiKhac" : [ "Lê Duy Tân", "Kính Tông" ],
+    "namSinh" : "1588",
+    "namMat" : "1619",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Duy Thìn",
+    "tenGoiKhac" : [ "Lê Duy Thìn", "Lê Ý Tông" ],
+    "namSinh" : "1719",
+    "namMat" : "1759",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Duy Tường",
+    "tenGoiKhac" : [ "Lê Duy Tường", "Lê Thần Tông" ],
+    "namSinh" : "1699",
+    "namMat" : "1735",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Duy Võ",
+    "tenGoiKhac" : [ "Lê Duy Võ", "Lê Huyền Tông" ],
+    "namSinh" : "1654",
+    "namMat" : "1671",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Hân",
+    "tenGoiKhac" : [ "Lê Hân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1804",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Lê Hi",
+    "tenGoiKhac" : [ "Lê Hi" ],
+    "namSinh" : "1646",
+    "namMat" : "1702",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Lê Hữu Danh",
+    "tenGoiKhac" : [ "Lê Hữu Danh" ],
+    "namSinh" : "1642",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Lê Hữu Kiều",
+    "tenGoiKhac" : [ "Lê Hữu Kiều", "Lê Hữu Khánh" ],
+    "namSinh" : "1691",
+    "namMat" : "1760",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Nguyễn Gia Thiều",
+    "tenGoiKhac" : [ "Nguyễn Gia Thiều", "Tân Trai", "Hi Tôn Tử", "Như Ý Thiền", "Siêu Chân" ],
+    "namSinh" : "1741",
+    "namMat" : "1789",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nguyễn Hàm Trực",
+    "tenGoiKhac" : [ "Nguyễn Hàm Trực", "Nguyễn Hàm Nghi" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Bình"
+  }, {
+    "hoTen" : "Nguyễn Hoản",
+    "tenGoiKhac" : [ "Nguyễn Hoản", "Nguyễn Hoàn" ],
+    "namSinh" : "1713",
+    "namMat" : "1792",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Hoàng",
+    "tenGoiKhac" : [ "Nguyễn Hoàng", "Gia Dũ Vương" ],
+    "namSinh" : "1524",
+    "namMat" : "1613",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Hữu Dật",
+    "tenGoiKhac" : [ "Nguyễn Hữu Dật" ],
+    "namSinh" : "1603",
+    "namMat" : "1681",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Hữu Hào",
+    "tenGoiKhac" : [ "Nguyễn Hữu Hào" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1713",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Hữu Kính",
+    "tenGoiKhac" : [ "Nguyễn Hữu Kính", "Nguyễn Hữu Cảnh" ],
+    "namSinh" : "1650",
+    "namMat" : "1700",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Hữu Thận",
+    "tenGoiKhac" : [ "Nguyễn Hữu Thận", "Chân Nguyên", "Ý Trai" ],
+    "namSinh" : "1757",
+    "namMat" : "1831",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Nguyễn Hữu Tiến (I)",
+    "tenGoiKhac" : [ "Nguyễn Hữu Tiến (I)", "Nguyễn Hữu Tấn" ],
+    "namSinh" : "1602",
+    "namMat" : "1665",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Huy Oánh",
+    "tenGoiKhac" : [ "Nguyễn Huy Oánh" ],
+    "namSinh" : "1713",
+    "namMat" : "1789",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Nguyễn Huy Tự",
+    "tenGoiKhac" : [ "Nguyễn Huy Tự", "Hữu Chi", "Uẩn Trai" ],
+    "namSinh" : "1743",
+    "namMat" : "1790",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Nguyễn Khoa Chiêm",
+    "tenGoiKhac" : [ "Nguyễn Khoa Chiêm" ],
+    "namSinh" : "1659",
+    "namMat" : "1736",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Nguyễn Khoa Đăng",
+    "tenGoiKhac" : [ "Nguyễn Khoa Đăng" ],
+    "namSinh" : "1691",
+    "namMat" : "1725",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Nguyễn Khoa Kiên",
+    "tenGoiKhac" : [ "Nguyễn Khoa Kiên" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1775",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Nguyễn Khoa Toàn",
+    "tenGoiKhac" : [ "Nguyễn Khoa Toàn", "Nguyễn Khoa Thuyên" ],
+    "namSinh" : "1724",
+    "namMat" : "1789",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Nguyễn Kiều",
+    "tenGoiKhac" : [ "Nguyễn Kiều", "Hạo Hiên" ],
+    "namSinh" : "1694",
+    "namMat" : "1771",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Kim",
+    "tenGoiKhac" : [ "Nguyễn Kim" ],
+    "namSinh" : "1467",
+    "namMat" : "1545",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Lại",
+    "tenGoiKhac" : [ "Nguyễn Lại", "Nghè Bột" ],
+    "namSinh" : "1511",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Mậu Áng",
+    "tenGoiKhac" : [ "Nguyễn Mậu Áng" ],
+    "namSinh" : "1668",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Mậu Tuyên",
+    "tenGoiKhac" : [ "Nguyễn Mậu Tuyên" ],
+    "namSinh" : "1518",
+    "namMat" : "1599",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trịnh Cương",
+    "tenGoiKhac" : [ "Trịnh Cương", "An Đô Vương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1729",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trịnh Doanh",
+    "tenGoiKhac" : [ "Trịnh Doanh", "Minh Đô Vương" ],
+    "namSinh" : "1720",
+    "namMat" : "1767",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trịnh Giang",
+    "tenGoiKhac" : [ "Trịnh Giang", "Uy Nam Vương" ],
+    "namSinh" : "1729",
+    "namMat" : "1740",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trịnh Sâm",
+    "tenGoiKhac" : [ "Trịnh Sâm", "Tĩnh Đô Vương" ],
+    "namSinh" : "1729",
+    "namMat" : "1782",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Trịnh Tạc",
+    "tenGoiKhac" : [ "Trịnh Tạc", "Tây Vương" ],
+    "namSinh" : "1657",
+    "namMat" : "1862",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trịnh Tông",
+    "tenGoiKhac" : [ "Trịnh Tông", "Đoan Nam Vương" ],
+    "namSinh" : "1763",
+    "namMat" : "1786",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Trịnh Tráng",
+    "tenGoiKhac" : [ "Trịnh Tráng", "Thanh Đô Vương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1657",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trịnh Tùng",
+    "tenGoiKhac" : [ "Trịnh Tùng", "Bình An Vương" ],
+    "namSinh" : "1550",
+    "namMat" : "1623",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trương Phúc Loan",
+    "tenGoiKhac" : [ "Trương Phúc Loan" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1776",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Trương Phước Phan",
+    "tenGoiKhac" : [ "Trương Phước Phan" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Văn Đình Dẫn",
+    "tenGoiKhac" : [ "Văn Đình Dẫn" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Võ Biết",
+    "tenGoiKhac" : [ "Võ Biết" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1771",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Võ Công Đạo",
+    "tenGoiKhac" : [ "Võ Công Đạo" ],
+    "namSinh" : "1629",
+    "namMat" : "1714",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Võ Công Tuấn",
+    "tenGoiKhac" : [ "Võ Công Tuấn", "Vũ Công Tuấn" ],
+    "namSinh" : "1685",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Võ Diệm",
+    "tenGoiKhac" : [ "Võ Diệm" ],
+    "namSinh" : "1705",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Võ Duy Chí",
+    "tenGoiKhac" : [ "Võ Duy Chí" ],
+    "namSinh" : "1604",
+    "namMat" : "1678",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Võ Duy Đoán",
+    "tenGoiKhac" : [ "Võ Duy Đoán", "Quế Am" ],
+    "namSinh" : "1621",
+    "namMat" : "1684",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Võ Đình Dung",
+    "tenGoiKhac" : [ "Võ Đình Dung" ],
+    "namSinh" : "1699",
+    "namMat" : "1740",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Võ Đức Nghiêm",
+    "tenGoiKhac" : [ "Võ Đức Nghiêm", "Minh Giác" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Võ Miên",
+    "tenGoiKhac" : [ "Võ Miên" ],
+    "namSinh" : "1718",
+    "namMat" : "1782",
+    "queQuan" : "Bắc Ninh"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam",
+    "namBatDau" : "1698",
+    "namKetThuc" : "1698"
+  }, {
+    "tenSuKien" : "Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều",
+    "namBatDau" : "1543",
+    "namKetThuc" : "1592"
+  }, {
+    "tenSuKien" : "Nhà Mạc sụp đổ",
+    "namBatDau" : "1592",
+    "namKetThuc" : "1592"
+  }, {
+    "tenSuKien" : "Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng",
+    "namBatDau" : "1627",
+    "namKetThuc" : "1672"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Hoàng Công Chất",
+    "namBatDau" : "1739",
+    "namKetThuc" : "1769"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Nguyễn Danh Phương",
+    "namBatDau" : "1740",
+    "namKetThuc" : "1751"
+  }, {
+    "tenSuKien" : "Khởi nghĩa nông dân Tây Sơn bùng nổ",
+    "namBatDau" : "1771",
+    "namKetThuc" : "1771"
+  }, {
+    "tenSuKien" : "Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong",
+    "namBatDau" : "1777",
+    "namKetThuc" : "1777"
+  }, {
+    "tenSuKien" : "Chiến thắng Rạch Gầm – Xoài Mút",
+    "namBatDau" : "1785",
+    "namKetThuc" : "1785"
+  }, {
+    "tenSuKien" : "Tây Sơn lật đổ chính quyền họ Trịnh",
+    "namBatDau" : "1786",
+    "namKetThuc" : "1786"
+  }, {
+    "tenSuKien" : "Quân Thanh xâm lược nước ta",
+    "namBatDau" : "1788",
+    "namKetThuc" : "1788"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Dương Trọng Khiêm", "Nhân vật: Đặng Chất", "Nhân vật: Đặng Đại Độ", "Nhân vật: Đặng Đình Đông", "Nhân vật: Đặng Đình Gián", "Nhân vật: Đặng Đình Lân", "Nhân vật: Đặng Đình Tướng", "Nhân vật: Đặng Đức Thuật", "Nhân vật: Đặng Hữu Tâm", "Nhân vật: Đặng Thái Phương", "Nhân vật: Đặng Thế Khoa", "Nhân vật: Đặng Tiến Thự", "Nhân vật: Đặng Trần Côn", "Nhân vật: Đào Bí", "Nhân vật: Đào Công Chính", "Nhân vật: Đào Duy Từ", "Nhân vật: Đào Quang Nhiêu", "Nhân vật: Đào Tá Hán", "Nhân vật: Đinh Nhạ Hành", "Nhân vật: Đinh Nho Công", "Nhân vật: Lê Duy Chỉ", "Nhân vật: Lê Duy Đào", "Nhân vật: Lê Duy Đường", "Nhân vật: Lê Duy Hội", "Nhân vật: Lê Duy Hợp", "Nhân vật: Lê Duy Hựu", "Nhân vật: Lê Duy Khiêm", "Nhân vật: Lê Duy Kỳ", "Nhân vật: Lê Duy Mật", "Nhân vật: Lê Duy Ninh", "Nhân vật: Lê Duy Phương", "Nhân vật: Lê Duy Quí", "Nhân vật: Lê Duy Tân", "Nhân vật: Lê Duy Thìn", "Nhân vật: Lê Duy Tường", "Nhân vật: Lê Duy Võ", "Nhân vật: Lê Hân", "Nhân vật: Lê Hi", "Nhân vật: Lê Hữu Danh", "Nhân vật: Lê Hữu Kiều", "Nhân vật: Nguyễn Gia Thiều", "Nhân vật: Nguyễn Hàm Trực", "Nhân vật: Nguyễn Hoản", "Nhân vật: Nguyễn Hoàng", "Nhân vật: Nguyễn Hữu Dật", "Nhân vật: Nguyễn Hữu Hào", "Nhân vật: Nguyễn Hữu Kính", "Nhân vật: Nguyễn Hữu Thận", "Nhân vật: Nguyễn Hữu Tiến (I)", "Nhân vật: Nguyễn Huy Oánh", "Nhân vật: Nguyễn Huy Tự", "Nhân vật: Nguyễn Khoa Chiêm", "Nhân vật: Nguyễn Khoa Đăng", "Nhân vật: Nguyễn Khoa Kiên", "Nhân vật: Nguyễn Khoa Toàn", "Nhân vật: Nguyễn Kiều", "Nhân vật: Nguyễn Kim", "Nhân vật: Nguyễn Lại", "Nhân vật: Nguyễn Mậu Áng", "Nhân vật: Nguyễn Mậu Tuyên", "Nhân vật: Trịnh Cương", "Nhân vật: Trịnh Doanh", "Nhân vật: Trịnh Giang", "Nhân vật: Trịnh Sâm", "Nhân vật: Trịnh Tạc", "Nhân vật: Trịnh Tông", "Nhân vật: Trịnh Tráng", "Nhân vật: Trịnh Tùng", "Nhân vật: Trương Phúc Loan", "Nhân vật: Trương Phước Phan", "Nhân vật: Văn Đình Dẫn", "Nhân vật: Võ Biết", "Nhân vật: Võ Công Đạo", "Nhân vật: Võ Công Tuấn", "Nhân vật: Võ Diệm", "Nhân vật: Võ Duy Chí", "Nhân vật: Võ Duy Đoán", "Nhân vật: Võ Đình Dung", "Nhân vật: Võ Đức Nghiêm", "Nhân vật: Võ Miên", "Sự kiện: Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam", "Sự kiện: Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều", "Sự kiện: Nhà Mạc sụp đổ", "Sự kiện: Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng", "Sự kiện: Khởi nghĩa Hoàng Công Chất", "Sự kiện: Khởi nghĩa Nguyễn Danh Phương", "Sự kiện: Khởi nghĩa nông dân Tây Sơn bùng nổ", "Sự kiện: Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong", "Sự kiện: Chiến thắng Rạch Gầm – Xoài Mút", "Sự kiện: Tây Sơn lật đổ chính quyền họ Trịnh", "Sự kiện: Quân Thanh xâm lược nước ta" ]
+}, {
+  "tenThoiKi" : "Nhà Tây Sơn",
+  "namBatDau" : "1778",
+  "namKetThuc" : "1802",
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Lê Thị Ngọc Hân",
+    "tenGoiKhac" : [ "Lê Thị Ngọc Hân", "Ngọc Hân" ],
+    "namSinh" : "1771",
+    "namMat" : "1799",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Lê Văn Long",
+    "tenGoiKhac" : [ "Lê Văn Long", "Đô Đốc Long" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Lê Văn Thủ",
+    "tenGoiKhac" : [ "Lê Văn Thủ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Ngô Văn Sở",
+    "tenGoiKhac" : [ "Ngô Văn Sở" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1795",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Ngụy Nguyên",
+    "tenGoiKhac" : [ "Ngụy Nguyên" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1786",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Nguyễn Lữ",
+    "tenGoiKhac" : [ "Nguyễn Lữ", "Đức ông Bảy" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bình Định"
+  }, {
+    "hoTen" : "Nguyễn Nhạc",
+    "tenGoiKhac" : [ "Nguyễn Nhạc", "Trung Ương Hoàng Đế" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1793",
+    "queQuan" : "Bình Định"
+  }, {
+    "hoTen" : "Nguyễn Phúc Cảnh",
+    "tenGoiKhac" : [ "Nguyễn Phúc Cảnh", "Hoàng Tử Cảnh" ],
+    "namSinh" : "1779",
+    "namMat" : "1801",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Nguyễn Quang Thùy",
+    "tenGoiKhac" : [ "Nguyễn Quang Thùy" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1802",
+    "queQuan" : "Bình Định"
+  }, {
+    "hoTen" : "Nguyễn Quang Toản",
+    "tenGoiKhac" : [ "Nguyễn Quang Toản", "Hoàng Trác" ],
+    "namSinh" : "1783",
+    "namMat" : "1802",
+    "queQuan" : "Bình Định"
+  }, {
+    "hoTen" : "Trần Văn Kỉ",
+    "tenGoiKhac" : [ "Trần Văn Kỉ", "Trần Chánh Kỉ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1801",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Trương Văn Đa",
+    "tenGoiKhac" : [ "Trương Văn Đa" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Võ Văn Dũng",
+    "tenGoiKhac" : [ "Võ Văn Dũng" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bình Định"
+  }, {
+    "hoTen" : "Hồ Văn Bôi",
+    "tenGoiKhac" : [ "Hồ Văn Bôi" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1804",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Lê Chất",
+    "tenGoiKhac" : [ "Lê Chất" ],
+    "namSinh" : "1769",
+    "namMat" : "1826",
+    "queQuan" : "Bình Định"
+  }, {
+    "hoTen" : "Nguyễn Thế Chuẩn",
+    "tenGoiKhac" : [ "Nguyễn Thế Chuẩn", "Đức Khê" ],
+    "namSinh" : "1794",
+    "namMat" : "1843",
+    "queQuan" : "Hải Dương"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Chiến thắng Rạch Gầm – Xoài Mút",
+    "namBatDau" : "1785",
+    "namKetThuc" : "1785"
+  }, {
+    "tenSuKien" : "Tây Sơn lật đổ chính quyền họ Trịnh",
+    "namBatDau" : "1786",
+    "namKetThuc" : "1786"
+  }, {
+    "tenSuKien" : "Quân Thanh xâm lược nước ta",
+    "namBatDau" : "1788",
+    "namKetThuc" : "1788"
+  }, {
+    "tenSuKien" : "Vua Quang Trung đại phá quân Thanh",
+    "namBatDau" : "1789",
+    "namKetThuc" : "1789"
+  }, {
+    "tenSuKien" : "Quang Trung đột ngột qua đời",
+    "namBatDau" : "1792",
+    "namKetThuc" : "1792"
+  }, {
+    "tenSuKien" : "Nguyễn Ánh lên ngôi, triều đình nhà Nguyễn thành lập",
+    "namBatDau" : "1802",
+    "namKetThuc" : "1802"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Lê Thị Ngọc Hân", "Nhân vật: Lê Văn Long", "Nhân vật: Lê Văn Thủ", "Nhân vật: Ngô Văn Sở", "Nhân vật: Ngụy Nguyên", "Nhân vật: Nguyễn Lữ", "Nhân vật: Nguyễn Nhạc", "Nhân vật: Nguyễn Phúc Cảnh", "Nhân vật: Nguyễn Quang Thùy", "Nhân vật: Nguyễn Quang Toản", "Nhân vật: Trần Văn Kỉ", "Nhân vật: Trương Văn Đa", "Nhân vật: Võ Văn Dũng", "Nhân vật: Hồ Văn Bôi", "Nhân vật: Lê Chất", "Nhân vật: Nguyễn Thế Chuẩn", "Sự kiện: Chiến thắng Rạch Gầm – Xoài Mút", "Sự kiện: Tây Sơn lật đổ chính quyền họ Trịnh", "Sự kiện: Quân Thanh xâm lược nước ta", "Sự kiện: Vua Quang Trung đại phá quân Thanh", "Sự kiện: Quang Trung đột ngột qua đời", "Sự kiện: Nguyễn Ánh lên ngôi, triều đình nhà Nguyễn thành lập" ]
+}, {
+  "tenThoiKi" : "Nhà Nguyễn độc lập",
+  "namBatDau" : "1802",
+  "namKetThuc" : "1883",
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Hồ Văn Bôi",
+    "tenGoiKhac" : [ "Hồ Văn Bôi" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1804",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Lê Chất",
+    "tenGoiKhac" : [ "Lê Chất" ],
+    "namSinh" : "1769",
+    "namMat" : "1826",
+    "queQuan" : "Bình Định"
+  }, {
+    "hoTen" : "Nguyễn Thế Chuẩn",
+    "tenGoiKhac" : [ "Nguyễn Thế Chuẩn", "Đức Khê" ],
+    "namSinh" : "1794",
+    "namMat" : "1843",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "An Thiền",
+    "tenGoiKhac" : [ "An Thiền" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "An Thường",
+    "tenGoiKhac" : [ "An Thường", "Tam Xuân", "Lương Đức" ],
+    "namSinh" : "1817",
+    "namMat" : "1891",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Âu Dương Lân",
+    "tenGoiKhac" : [ "Âu Dương Lân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1875",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Bạch Công Trân",
+    "tenGoiKhac" : [ "Bạch Công Trân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1854",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Đào Doãn Địch",
+    "tenGoiKhac" : [ "Đào Doãn Địch" ],
+    "namSinh" : "1833",
+    "namMat" : "1885",
+    "queQuan" : "Bình Định"
+  }, {
+    "hoTen" : "Đào Duy Chung",
+    "tenGoiKhac" : [ "Đào Duy Chung" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Đào Tấn",
+    "tenGoiKhac" : [ "Đào Tấn" ],
+    "namSinh" : "1845",
+    "namMat" : "1907",
+    "queQuan" : "Bình Định"
+  }, {
+    "hoTen" : "Đào Trí",
+    "tenGoiKhac" : [ "Đào Trí" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Phú Yên"
+  }, {
+    "hoTen" : "Đẩu Nương",
+    "tenGoiKhac" : [ "Đẩu Nương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Đinh Công Mĩ",
+    "tenGoiKhac" : [ "Đinh Công Mĩ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Đinh Nhật Tân",
+    "tenGoiKhac" : [ "Đinh Nhật Tân" ],
+    "namSinh" : "1836",
+    "namMat" : "1887",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Đinh Nhật Thận",
+    "tenGoiKhac" : [ "Đinh Nhật Thận" ],
+    "namSinh" : "1815",
+    "namMat" : "1866",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Đinh Nho Chấn",
+    "tenGoiKhac" : [ "Đinh Nho Chấn" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Đinh Nho Điển",
+    "tenGoiKhac" : [ "Đinh Nho Điển" ],
+    "namSinh" : "1848",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Đinh Thế Quang",
+    "tenGoiKhac" : [ "Đinh Thế Quang" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Đinh Văn Chất",
+    "tenGoiKhac" : [ "Đinh Văn Chất" ],
+    "namSinh" : "1847",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Đinh Văn Điển",
+    "tenGoiKhac" : [ "Đinh Văn Điển" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Ninh Bình"
+  }, {
+    "hoTen" : "Đỗ Công Tường",
+    "tenGoiKhac" : [ "Đỗ Công Tường" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Đỗ Đăng Đệ",
+    "tenGoiKhac" : [ "Đỗ Đăng Đệ" ],
+    "namSinh" : "1834",
+    "namMat" : "1888",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Đỗ Hải Thuận",
+    "tenGoiKhac" : [ "Đỗ Hải Thuận" ],
+    "namSinh" : "1806",
+    "namMat" : "1896",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Đỗ Huy Liêu",
+    "tenGoiKhac" : [ "Đỗ Huy Liêu", "Đỗ Đình Liêu" ],
+    "namSinh" : "1844",
+    "namMat" : "1891",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Đỗ Huy Uyển",
+    "tenGoiKhac" : [ "Đỗ Huy Uyển", "Tân Giang" ],
+    "namSinh" : "1816",
+    "namMat" : "1882",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Đỗ Minh Tâm",
+    "tenGoiKhac" : [ "Đỗ Minh Tâm", "Đỗ Như Tâm", "Minh Giám" ],
+    "namSinh" : "1840",
+    "namMat" : "Không rõ",
+    "queQuan" : "Vĩnh Long"
+  }, {
+    "hoTen" : "Đỗ Quang",
+    "tenGoiKhac" : [ "Đỗ Quang" ],
+    "namSinh" : "1807",
+    "namMat" : "1866",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Lê Nguyên Trung",
+    "tenGoiKhac" : [ "Lê Nguyên Trung", "Lê Nguyên Huệ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Lê Quang Định",
+    "tenGoiKhac" : [ "Lê Quang Định", "Tri Chỉ", "Cấn Trai" ],
+    "namSinh" : "1759",
+    "namMat" : "1813",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Lê Quang Quan",
+    "tenGoiKhac" : [ "Lê Quang Quan", "Lê Tán Kế" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1875",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Lê Sĩ",
+    "tenGoiKhac" : [ "Lê Sĩ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1883",
+    "queQuan" : "Quảng Bình"
+  }, {
+    "hoTen" : "Lê Thành Phương",
+    "tenGoiKhac" : [ "Lê Thành Phương" ],
+    "namSinh" : "1825",
+    "namMat" : "1887",
+    "queQuan" : "Phú Yên"
+  }, {
+    "hoTen" : "Lê Trọng Đôn",
+    "tenGoiKhac" : [ "Lê Trọng Đôn" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Lê Trung Đình",
+    "tenGoiKhac" : [ "Lê Trung Đình" ],
+    "namSinh" : "1863",
+    "namMat" : "1885",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Lê Tuấn",
+    "tenGoiKhac" : [ "Lê Tuấn" ],
+    "namSinh" : "1818",
+    "namMat" : "1874",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Lê Văn Duyệt",
+    "tenGoiKhac" : [ "Lê Văn Duyệt" ],
+    "namSinh" : "1763",
+    "namMat" : "1832",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Lê Văn Gẫm",
+    "tenGoiKhac" : [ "Lê Văn Gẫm" ],
+    "namSinh" : "1813",
+    "namMat" : "1847",
+    "queQuan" : "Đồng Nai"
+  }, {
+    "hoTen" : "Lê Văn Khôi",
+    "tenGoiKhac" : [ "Lê Văn Khôi" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1834",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Lê Văn Lộc",
+    "tenGoiKhac" : [ "Lê Văn Lộc" ],
+    "namSinh" : "1830",
+    "namMat" : "1858",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Lê Vĩnh Khanh",
+    "tenGoiKhac" : [ "Lê Vĩnh Khanh" ],
+    "namSinh" : "1819",
+    "namMat" : "1884",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Lữ Xuân Uy",
+    "tenGoiKhac" : [ "Lữ Xuân Uy", "Thúc Bào" ],
+    "namSinh" : "1838",
+    "namMat" : "1890",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Lưu Đình Lễ",
+    "tenGoiKhac" : [ "Lưu Đình Lễ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Lý Văn Phức",
+    "tenGoiKhac" : [ "Lý Văn Phức", "Lân Chi", "Khắc Trai" ],
+    "namSinh" : "1785",
+    "namMat" : "1849",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Ma Danh Cúc",
+    "tenGoiKhac" : [ "Ma Danh Cúc" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1809",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Mai Đằng Phương",
+    "tenGoiKhac" : [ "Mai Đằng Phương", "Nhiêu Phang" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Mai Xuân Thưởng",
+    "tenGoiKhac" : [ "Mai Xuân Thưởng" ],
+    "namSinh" : "1860",
+    "namMat" : "1887",
+    "queQuan" : "Bình Định"
+  }, {
+    "hoTen" : "Ngô Đức Chính",
+    "tenGoiKhac" : [ "Ngô Đức Chính" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Ninh"
+  }, {
+    "hoTen" : "Nguyễn Văn Diêu",
+    "tenGoiKhac" : [ "Nguyễn Văn Diêu", "Tú Nhơn Ân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bình Định"
+  }, {
+    "hoTen" : "Nguyễn Văn Dục",
+    "tenGoiKhac" : [ "Nguyễn Văn Dục", "Nguyễn Dục" ],
+    "namSinh" : "1807",
+    "namMat" : "1877",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Văn Giao",
+    "tenGoiKhac" : [ "Nguyễn Văn Giao" ],
+    "namSinh" : "1812",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Nguyễn Văn Giáp",
+    "tenGoiKhac" : [ "Nguyễn Văn Giáp", "Bố Giáp" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1887",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Văn Hoành",
+    "tenGoiKhac" : [ "Nguyễn Văn Hoành", "Nguyễn Hựu Hoành" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1835",
+    "queQuan" : "Cao Bằng"
+  }, {
+    "hoTen" : "Nguyễn Văn Linh",
+    "tenGoiKhac" : [ "Nguyễn Văn Linh" ],
+    "namSinh" : "1815",
+    "namMat" : "1861",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Nguyễn Văn Siêu",
+    "tenGoiKhac" : [ "Nguyễn Văn Siêu", "Tốn Ban", "Phương Đình" ],
+    "namSinh" : "1799",
+    "namMat" : "1872",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Văn Trắm",
+    "tenGoiKhac" : [ "Nguyễn Văn Trắm" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1835",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Nguyễn Văn Xán",
+    "tenGoiKhac" : [ "Nguyễn Văn Xán", "Nguyễn Văn Thước" ],
+    "namSinh" : "1822",
+    "namMat" : "1881",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Xuân Ôn",
+    "tenGoiKhac" : [ "Nguyễn Xuân Ôn", "Ngọc Đường", "Lương Giang", "Hiến Đình" ],
+    "namSinh" : "1830",
+    "namMat" : "1889",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Nhữ Bá Sĩ",
+    "tenGoiKhac" : [ "Nhữ Bá Sĩ", "Nguyên Lập", "Nghi Am", "Đạm Trai" ],
+    "namSinh" : "1787",
+    "namMat" : "1867",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nông Văn Vân",
+    "tenGoiKhac" : [ "Nông Văn Vân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1835",
+    "queQuan" : "Cao Bằng"
+  }, {
+    "hoTen" : "Phạm Đăng Giảng",
+    "tenGoiKhac" : [ "Phạm Đăng Giảng" ],
+    "namSinh" : "1834",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Phạm Đình Dục",
+    "tenGoiKhac" : [ "Phạm Đình Dục", "Mộng Phủng", "Loát Trúc Đạo Nhân", "Văn Sử Thị" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Phạm Đình Hổ",
+    "tenGoiKhac" : [ "Phạm Đình Hổ", "Tùng Niên", "Bỉnh Trực", "Đông Dã Triều" ],
+    "namSinh" : "1768",
+    "namMat" : "1839",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Phạm Đình Trạc",
+    "tenGoiKhac" : [ "Phạm Đình Trạc" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1833",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Phạm Hi Lượng",
+    "tenGoiKhac" : [ "Phạm Hi Lượng", "Hối Thúc", "Ngư Đường" ],
+    "namSinh" : "1834",
+    "namMat" : "1886",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Phạm Hoằng Đạt",
+    "tenGoiKhac" : [ "Phạm Hoằng Đạt" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Phạm Hội",
+    "tenGoiKhac" : [ "Phạm Hội", "Dưỡng Am" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Phạm Hữu Nghi",
+    "tenGoiKhac" : [ "Phạm Hữu Nghi", "Trọng Vũ", "Đạm Trai", "Phạm Hồng Nghi" ],
+    "namSinh" : "1797",
+    "namMat" : "1862",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Võ Duy Đề",
+    "tenGoiKhac" : [ "Võ Duy Đề" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1849",
+    "queQuan" : "Ninh Bình"
+  }, {
+    "hoTen" : "Võ Duy Ninh",
+    "tenGoiKhac" : [ "Võ Duy Ninh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1859",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Võ Duy Thanh",
+    "tenGoiKhac" : [ "Võ Duy Thanh", "Trạng Bồng" ],
+    "namSinh" : "1807",
+    "namMat" : "1861",
+    "queQuan" : "Ninh Bình"
+  }, {
+    "hoTen" : "Võ Đăng Xuân",
+    "tenGoiKhac" : [ "Võ Đăng Xuân", "Võ Tấn Thượng" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1872",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Võ Đức Khuê",
+    "tenGoiKhac" : [ "Võ Đức Khuê" ],
+    "namSinh" : "1793",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Võ Xuân Cẩn",
+    "tenGoiKhac" : [ "Võ Xuân Cẩn" ],
+    "namSinh" : "1778",
+    "namMat" : "1852",
+    "queQuan" : "Quảng Bình"
+  }, {
+    "hoTen" : "Vũ Nhự",
+    "tenGoiKhac" : [ "Vũ Nhự", "Đông Phần" ],
+    "namSinh" : "1840",
+    "namMat" : "1886",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Vũ Phạm Khải",
+    "tenGoiKhac" : [ "Vũ Phạm Khải", "Đông Dương", "Phương Trì" ],
+    "namSinh" : "1807",
+    "namMat" : "1872",
+    "queQuan" : "Ninh Bình"
+  }, {
+    "hoTen" : "Vũ Tông Phan",
+    "tenGoiKhac" : [ "Vũ Tông Phan", "Hoán Phủ", "Lỗ Am", "Đường Xuyên" ],
+    "namSinh" : "1800",
+    "namMat" : "1851",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Vũ Văn Tuấn",
+    "tenGoiKhac" : [ "Vũ Văn Tuấn" ],
+    "namSinh" : "1806",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Vương Duy Trinh",
+    "tenGoiKhac" : [ "Vương Duy Trinh", "Tử Cán", "Đạm Trai", "Hương Trì" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Bùi Dị",
+    "tenGoiKhac" : [ "Bùi Dị", "Bùi Văn Dị" ],
+    "namSinh" : "1832",
+    "namMat" : "1895",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Bùi Như Quảng",
+    "tenGoiKhac" : [ "Bùi Như Quảng", "Đốc Đen" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Cầm Bá Thước",
+    "tenGoiKhac" : [ "Cầm Bá Thước" ],
+    "namSinh" : "1858",
+    "namMat" : "1895",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Cao Đạt",
+    "tenGoiKhac" : [ "Cao Đạt" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1941",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Cao Xuân Dục",
+    "tenGoiKhac" : [ "Cao Xuân Dục" ],
+    "namSinh" : "1842",
+    "namMat" : "1923",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Châu Mạnh Trinh",
+    "tenGoiKhac" : [ "Châu Mạnh Trinh", "Chu Mạnh Trinh" ],
+    "namSinh" : "1862",
+    "namMat" : "1905",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Châu Thuợng Văn",
+    "tenGoiKhac" : [ "Châu Thuợng Văn" ],
+    "namSinh" : "1856",
+    "namMat" : "1908",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Đinh Công Tráng",
+    "tenGoiKhac" : [ "Đinh Công Tráng" ],
+    "namSinh" : "1842",
+    "namMat" : "1887",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Đinh Nho Quang",
+    "tenGoiKhac" : [ "Đinh Nho Quang" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Tôn Thất Hân",
+    "tenGoiKhac" : [ "Tôn Thất Hân", "Lạc Chi", "Liên Đình" ],
+    "namSinh" : "1854",
+    "namMat" : "1943",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Tôn Thất Thuyết",
+    "tenGoiKhac" : [ "Tôn Thất Thuyết" ],
+    "namSinh" : "1835",
+    "namMat" : "1913",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Tống Duy Tân",
+    "tenGoiKhac" : [ "Tống Duy Tân" ],
+    "namSinh" : "1837",
+    "namMat" : "1892",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Tổng Lung",
+    "tenGoiKhac" : [ "Tổng Lung" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Trần Bá Lộc",
+    "tenGoiKhac" : [ "Trần Bá Lộc" ],
+    "namSinh" : "1839",
+    "namMat" : "1899",
+    "queQuan" : "An Giang"
+  }, {
+    "hoTen" : "Trần Đình Phong",
+    "tenGoiKhac" : [ "Trần Đình Phong", "Mã Sơn" ],
+    "namSinh" : "1847",
+    "namMat" : "1920",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Trần Đình Túc",
+    "tenGoiKhac" : [ "Trần Đình Túc" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1892",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Trần Hữu Thường",
+    "tenGoiKhac" : [ "Trần Hữu Thường" ],
+    "namSinh" : "1844",
+    "namMat" : "1921",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Trần Lục",
+    "tenGoiKhac" : [ "Trần Lục", "Cha Sáu" ],
+    "namSinh" : "1825",
+    "namMat" : "1899",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trần Quang Diêm",
+    "tenGoiKhac" : [ "Trần Quang Diêm" ],
+    "namSinh" : "1840",
+    "namMat" : "1907",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Trần Thuyết",
+    "tenGoiKhac" : [ "Trần Thuyết" ],
+    "namSinh" : "1857",
+    "namMat" : "1908",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Trần Trọng Cung",
+    "tenGoiKhac" : [ "Trần Trọng Cung" ],
+    "namSinh" : "1860",
+    "namMat" : "1909",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Trần Trọng Khiêm",
+    "tenGoiKhac" : [ "Trần Trọng Khiêm" ],
+    "namSinh" : "1821",
+    "namMat" : "1886",
+    "queQuan" : "Phú Thọ"
+  }, {
+    "hoTen" : "Trần Viết Thọ",
+    "tenGoiKhac" : [ "Trần Viết Thọ" ],
+    "namSinh" : "1836",
+    "namMat" : "1898",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Trần Xuân Soạn",
+    "tenGoiKhac" : [ "Trần Xuân Soạn" ],
+    "namSinh" : "1849",
+    "namMat" : "1923",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trương Như Cương",
+    "tenGoiKhac" : [ "Trương Như Cương" ],
+    "namSinh" : "1850",
+    "namMat" : "1926",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Trương Quang Đản",
+    "tenGoiKhac" : [ "Trương Quang Đản", "Trương Đăng Đản", "Tử Minh", "Cúc Viên" ],
+    "namSinh" : "1833",
+    "namMat" : "1914",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Trương Quang Ngọc",
+    "tenGoiKhac" : [ "Trương Quang Ngọc" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1889",
+    "queQuan" : "Quảng Bình"
+  }, {
+    "hoTen" : "Trương Trọng Hữu",
+    "tenGoiKhac" : [ "Trương Trọng Hữu", "Tố Trai" ],
+    "namSinh" : "1852",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Trương Văn Thám",
+    "tenGoiKhac" : [ "Trương Văn Thám", "Hoàng Hoa Thám", "Trương Văn Nghĩa" ],
+    "namSinh" : "1858",
+    "namMat" : "1913",
+    "queQuan" : "Hưng Yên"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Nguyễn Ánh lên ngôi, triều đình nhà Nguyễn thành lập",
+    "namBatDau" : "1802",
+    "namKetThuc" : "1802"
+  }, {
+    "tenSuKien" : "Gia Long đặt quốc hiệu là Việt Nam",
+    "namBatDau" : "1804",
+    "namKetThuc" : "1804"
+  }, {
+    "tenSuKien" : "Ban hành bộ luật Hoàng triều luật lệ",
+    "namBatDau" : "1815",
+    "namKetThuc" : "1815"
+  }, {
+    "tenSuKien" : "Minh Mạng lên ngôi Hoàng Đế",
+    "namBatDau" : "1820",
+    "namKetThuc" : "1820"
+  }, {
+    "tenSuKien" : "Quốc hiệu Đại Nam",
+    "namBatDau" : "1838",
+    "namKetThuc" : "1838"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Phan Bá Vành",
+    "namBatDau" : "1821",
+    "namKetThuc" : "1827"
+  }, {
+    "tenSuKien" : "Nhà Nguyễn sắp xếp lại đơn vị hành chính trong cả nước",
+    "namBatDau" : "1831",
+    "namKetThuc" : "1832"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Cao Bá Quát",
+    "namBatDau" : "1854",
+    "namKetThuc" : "1856"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Lê Văn Khôi",
+    "namBatDau" : "1833",
+    "namKetThuc" : "1835"
+  }, {
+    "tenSuKien" : "Thực dân Pháp mở đầu cuộc xâm lược Việt Nam",
+    "namBatDau" : "1858",
+    "namKetThuc" : "1858"
+  }, {
+    "tenSuKien" : "Hiệp ước Nhâm Tuất",
+    "namBatDau" : "1862",
+    "namKetThuc" : "1862"
+  }, {
+    "tenSuKien" : "Quân Pháp đánh chiếm tỉnh thành Gia Định",
+    "namBatDau" : "1859",
+    "namKetThuc" : "1859"
+  }, {
+    "tenSuKien" : "Khởi nghĩa của Nguyễn Trung Trực",
+    "namBatDau" : "1861",
+    "namKetThuc" : "1861"
+  }, {
+    "tenSuKien" : "Khởi nghĩa của Trương Định",
+    "namBatDau" : "1861",
+    "namKetThuc" : "1861"
+  }, {
+    "tenSuKien" : "Hiệp ước Giáp Tuất 1874",
+    "namBatDau" : "1874",
+    "namKetThuc" : "1874"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Hồ Văn Bôi", "Nhân vật: Lê Chất", "Nhân vật: Nguyễn Thế Chuẩn", "Nhân vật: An Thiền", "Nhân vật: An Thường", "Nhân vật: Âu Dương Lân", "Nhân vật: Bạch Công Trân", "Nhân vật: Đào Doãn Địch", "Nhân vật: Đào Duy Chung", "Nhân vật: Đào Tấn", "Nhân vật: Đào Trí", "Nhân vật: Đẩu Nương", "Nhân vật: Đinh Công Mĩ", "Nhân vật: Đinh Nhật Tân", "Nhân vật: Đinh Nhật Thận", "Nhân vật: Đinh Nho Chấn", "Nhân vật: Đinh Nho Điển", "Nhân vật: Đinh Thế Quang", "Nhân vật: Đinh Văn Chất", "Nhân vật: Đinh Văn Điển", "Nhân vật: Đỗ Công Tường", "Nhân vật: Đỗ Đăng Đệ", "Nhân vật: Đỗ Hải Thuận", "Nhân vật: Đỗ Huy Liêu", "Nhân vật: Đỗ Huy Uyển", "Nhân vật: Đỗ Minh Tâm", "Nhân vật: Đỗ Quang", "Nhân vật: Lê Nguyên Trung", "Nhân vật: Lê Quang Định", "Nhân vật: Lê Quang Quan", "Nhân vật: Lê Sĩ", "Nhân vật: Lê Thành Phương", "Nhân vật: Lê Trọng Đôn", "Nhân vật: Lê Trung Đình", "Nhân vật: Lê Tuấn", "Nhân vật: Lê Văn Duyệt", "Nhân vật: Lê Văn Gẫm", "Nhân vật: Lê Văn Khôi", "Nhân vật: Lê Văn Lộc", "Nhân vật: Lê Vĩnh Khanh", "Nhân vật: Lữ Xuân Uy", "Nhân vật: Lưu Đình Lễ", "Nhân vật: Lý Văn Phức", "Nhân vật: Ma Danh Cúc", "Nhân vật: Mai Đằng Phương", "Nhân vật: Mai Xuân Thưởng", "Nhân vật: Ngô Đức Chính", "Nhân vật: Nguyễn Văn Diêu", "Nhân vật: Nguyễn Văn Dục", "Nhân vật: Nguyễn Văn Giao", "Nhân vật: Nguyễn Văn Giáp", "Nhân vật: Nguyễn Văn Hoành", "Nhân vật: Nguyễn Văn Linh", "Nhân vật: Nguyễn Văn Siêu", "Nhân vật: Nguyễn Văn Trắm", "Nhân vật: Nguyễn Văn Xán", "Nhân vật: Nguyễn Xuân Ôn", "Nhân vật: Nhữ Bá Sĩ", "Nhân vật: Nông Văn Vân", "Nhân vật: Phạm Đăng Giảng", "Nhân vật: Phạm Đình Dục", "Nhân vật: Phạm Đình Hổ", "Nhân vật: Phạm Đình Trạc", "Nhân vật: Phạm Hi Lượng", "Nhân vật: Phạm Hoằng Đạt", "Nhân vật: Phạm Hội", "Nhân vật: Phạm Hữu Nghi", "Nhân vật: Võ Duy Đề", "Nhân vật: Võ Duy Ninh", "Nhân vật: Võ Duy Thanh", "Nhân vật: Võ Đăng Xuân", "Nhân vật: Võ Đức Khuê", "Nhân vật: Võ Xuân Cẩn", "Nhân vật: Vũ Nhự", "Nhân vật: Vũ Phạm Khải", "Nhân vật: Vũ Tông Phan", "Nhân vật: Vũ Văn Tuấn", "Nhân vật: Vương Duy Trinh", "Nhân vật: Bùi Dị", "Nhân vật: Bùi Như Quảng", "Nhân vật: Cầm Bá Thước", "Nhân vật: Cao Đạt", "Nhân vật: Cao Xuân Dục", "Nhân vật: Châu Mạnh Trinh", "Nhân vật: Châu Thuợng Văn", "Nhân vật: Đinh Công Tráng", "Nhân vật: Đinh Nho Quang", "Nhân vật: Tôn Thất Hân", "Nhân vật: Tôn Thất Thuyết", "Nhân vật: Tống Duy Tân", "Nhân vật: Tổng Lung", "Nhân vật: Trần Bá Lộc", "Nhân vật: Trần Đình Phong", "Nhân vật: Trần Đình Túc", "Nhân vật: Trần Hữu Thường", "Nhân vật: Trần Lục", "Nhân vật: Trần Quang Diêm", "Nhân vật: Trần Thuyết", "Nhân vật: Trần Trọng Cung", "Nhân vật: Trần Trọng Khiêm", "Nhân vật: Trần Viết Thọ", "Nhân vật: Trần Xuân Soạn", "Nhân vật: Trương Như Cương", "Nhân vật: Trương Quang Đản", "Nhân vật: Trương Quang Ngọc", "Nhân vật: Trương Trọng Hữu", "Nhân vật: Trương Văn Thám", "Sự kiện: Nguyễn Ánh lên ngôi, triều đình nhà Nguyễn thành lập", "Sự kiện: Gia Long đặt quốc hiệu là Việt Nam", "Sự kiện: Ban hành bộ luật Hoàng triều luật lệ", "Sự kiện: Minh Mạng lên ngôi Hoàng Đế", "Sự kiện: Quốc hiệu Đại Nam", "Sự kiện: Khởi nghĩa Phan Bá Vành", "Sự kiện: Nhà Nguyễn sắp xếp lại đơn vị hành chính trong cả nước", "Sự kiện: Khởi nghĩa Cao Bá Quát", "Sự kiện: Khởi nghĩa Lê Văn Khôi", "Sự kiện: Thực dân Pháp mở đầu cuộc xâm lược Việt Nam", "Sự kiện: Hiệp ước Nhâm Tuất", "Sự kiện: Quân Pháp đánh chiếm tỉnh thành Gia Định", "Sự kiện: Khởi nghĩa của Nguyễn Trung Trực", "Sự kiện: Khởi nghĩa của Trương Định", "Sự kiện: Hiệp ước Giáp Tuất 1874" ]
+}, {
+  "tenThoiKi" : "Pháp đô hộ",
+  "namBatDau" : "1883",
+  "namKetThuc" : "1945",
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Bùi Dị",
+    "tenGoiKhac" : [ "Bùi Dị", "Bùi Văn Dị" ],
+    "namSinh" : "1832",
+    "namMat" : "1895",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Bùi Như Quảng",
+    "tenGoiKhac" : [ "Bùi Như Quảng", "Đốc Đen" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Cầm Bá Thước",
+    "tenGoiKhac" : [ "Cầm Bá Thước" ],
+    "namSinh" : "1858",
+    "namMat" : "1895",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Cao Đạt",
+    "tenGoiKhac" : [ "Cao Đạt" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1941",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Cao Xuân Dục",
+    "tenGoiKhac" : [ "Cao Xuân Dục" ],
+    "namSinh" : "1842",
+    "namMat" : "1923",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Châu Mạnh Trinh",
+    "tenGoiKhac" : [ "Châu Mạnh Trinh", "Chu Mạnh Trinh" ],
+    "namSinh" : "1862",
+    "namMat" : "1905",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Châu Thuợng Văn",
+    "tenGoiKhac" : [ "Châu Thuợng Văn" ],
+    "namSinh" : "1856",
+    "namMat" : "1908",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Đinh Công Tráng",
+    "tenGoiKhac" : [ "Đinh Công Tráng" ],
+    "namSinh" : "1842",
+    "namMat" : "1887",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Đinh Nho Quang",
+    "tenGoiKhac" : [ "Đinh Nho Quang" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Tôn Thất Hân",
+    "tenGoiKhac" : [ "Tôn Thất Hân", "Lạc Chi", "Liên Đình" ],
+    "namSinh" : "1854",
+    "namMat" : "1943",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Tôn Thất Thuyết",
+    "tenGoiKhac" : [ "Tôn Thất Thuyết" ],
+    "namSinh" : "1835",
+    "namMat" : "1913",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Tống Duy Tân",
+    "tenGoiKhac" : [ "Tống Duy Tân" ],
+    "namSinh" : "1837",
+    "namMat" : "1892",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Tổng Lung",
+    "tenGoiKhac" : [ "Tổng Lung" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Trần Bá Lộc",
+    "tenGoiKhac" : [ "Trần Bá Lộc" ],
+    "namSinh" : "1839",
+    "namMat" : "1899",
+    "queQuan" : "An Giang"
+  }, {
+    "hoTen" : "Trần Đình Phong",
+    "tenGoiKhac" : [ "Trần Đình Phong", "Mã Sơn" ],
+    "namSinh" : "1847",
+    "namMat" : "1920",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Trần Đình Túc",
+    "tenGoiKhac" : [ "Trần Đình Túc" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1892",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Trần Hữu Thường",
+    "tenGoiKhac" : [ "Trần Hữu Thường" ],
+    "namSinh" : "1844",
+    "namMat" : "1921",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Trần Lục",
+    "tenGoiKhac" : [ "Trần Lục", "Cha Sáu" ],
+    "namSinh" : "1825",
+    "namMat" : "1899",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trần Quang Diêm",
+    "tenGoiKhac" : [ "Trần Quang Diêm" ],
+    "namSinh" : "1840",
+    "namMat" : "1907",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Trần Thuyết",
+    "tenGoiKhac" : [ "Trần Thuyết" ],
+    "namSinh" : "1857",
+    "namMat" : "1908",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Trần Trọng Cung",
+    "tenGoiKhac" : [ "Trần Trọng Cung" ],
+    "namSinh" : "1860",
+    "namMat" : "1909",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Trần Trọng Khiêm",
+    "tenGoiKhac" : [ "Trần Trọng Khiêm" ],
+    "namSinh" : "1821",
+    "namMat" : "1886",
+    "queQuan" : "Phú Thọ"
+  }, {
+    "hoTen" : "Trần Viết Thọ",
+    "tenGoiKhac" : [ "Trần Viết Thọ" ],
+    "namSinh" : "1836",
+    "namMat" : "1898",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Trần Xuân Soạn",
+    "tenGoiKhac" : [ "Trần Xuân Soạn" ],
+    "namSinh" : "1849",
+    "namMat" : "1923",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trương Như Cương",
+    "tenGoiKhac" : [ "Trương Như Cương" ],
+    "namSinh" : "1850",
+    "namMat" : "1926",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Trương Quang Đản",
+    "tenGoiKhac" : [ "Trương Quang Đản", "Trương Đăng Đản", "Tử Minh", "Cúc Viên" ],
+    "namSinh" : "1833",
+    "namMat" : "1914",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Trương Quang Ngọc",
+    "tenGoiKhac" : [ "Trương Quang Ngọc" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1889",
+    "queQuan" : "Quảng Bình"
+  }, {
+    "hoTen" : "Trương Trọng Hữu",
+    "tenGoiKhac" : [ "Trương Trọng Hữu", "Tố Trai" ],
+    "namSinh" : "1852",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Trương Văn Thám",
+    "tenGoiKhac" : [ "Trương Văn Thám", "Hoàng Hoa Thám", "Trương Văn Nghĩa" ],
+    "namSinh" : "1858",
+    "namMat" : "1913",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Đặng Văn Bá",
+    "tenGoiKhac" : [ "Đặng Văn Bá" ],
+    "namSinh" : "1877",
+    "namMat" : "1942",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Đào Nguyên Phổ",
+    "tenGoiKhac" : [ "Đào Nguyên Phổ", "Đào Văn Mại" ],
+    "namSinh" : "1861",
+    "namMat" : "1907",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Đào Thành Đô",
+    "tenGoiKhac" : [ "Đào Thành Đô" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Đào Thoại Thạch",
+    "tenGoiKhac" : [ "Đào Thoại Thạch" ],
+    "namSinh" : "1876",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bình Định"
+  }, {
+    "hoTen" : "Đào Văn Châu",
+    "tenGoiKhac" : [ "Đào Văn Châu" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1946",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Đào Văn Thử",
+    "tenGoiKhac" : [ "Đào Văn Thử" ],
+    "namSinh" : "1921",
+    "namMat" : "1946",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Đậu Quang Lĩnh",
+    "tenGoiKhac" : [ "Đậu Quang Lĩnh" ],
+    "namSinh" : "1870",
+    "namMat" : "1941",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Đinh Doãn Tế",
+    "tenGoiKhac" : [ "Đinh Doãn Tế" ],
+    "namSinh" : "1885",
+    "namMat" : "1910",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Đinh Gia Thuyết",
+    "tenGoiKhac" : [ "Đinh Gia Thuyết" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1953",
+    "queQuan" : "Ninh Bình"
+  }, {
+    "hoTen" : "Đinh Hữu Thuật",
+    "tenGoiKhac" : [ "Đinh Hữu Thuật" ],
+    "namSinh" : "1881",
+    "namMat" : "1942",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Đinh Kinh Luân",
+    "tenGoiKhac" : [ "Đinh Kinh Luân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Đinh Phu Nhân",
+    "tenGoiKhac" : [ "Đinh Phu Nhân", "Đinh Thị Thoán" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Đinh Quang Nhường",
+    "tenGoiKhac" : [ "Đinh Quang Nhường" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Đỗ Bàng",
+    "tenGoiKhac" : [ "Đỗ Bàng" ],
+    "namSinh" : "1906",
+    "namMat" : "1932",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Đỗ Cơ Quang",
+    "tenGoiKhac" : [ "Đỗ Cơ Quang" ],
+    "namSinh" : "1878",
+    "namMat" : "1914",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Đỗ Đình Nhân",
+    "tenGoiKhac" : [ "Đỗ Đình Nhân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Đỗ Huy Nam",
+    "tenGoiKhac" : [ "Đỗ Huy Nam" ],
+    "namSinh" : "1883",
+    "namMat" : "1914",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Đỗ Ngọc Du",
+    "tenGoiKhac" : [ "Đỗ Ngọc Du" ],
+    "namSinh" : "1907",
+    "namMat" : "1938",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Đỗ Ngọc Quang",
+    "tenGoiKhac" : [ "Đỗ Ngọc Quang" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1950",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Đỗ Ngọc Thạch",
+    "tenGoiKhac" : [ "Đỗ Ngọc Thạch" ],
+    "namSinh" : "1930",
+    "namMat" : "1951",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Khánh Hòa",
+    "tenGoiKhac" : [ "Lê Khánh Hòa", "Khánh Hòa", "Như Trí" ],
+    "namSinh" : "1876",
+    "namMat" : "1947",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Lê Khiết",
+    "tenGoiKhac" : [ "Lê Khiết", "An Ba", "Lê Thứu Khiết" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1908",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Lê Khoan Hoằng",
+    "tenGoiKhac" : [ "Lê Khoan Hoằng" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Kính Hạp",
+    "tenGoiKhac" : [ "Lê Kính Hạp" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Lê Lượng",
+    "tenGoiKhac" : [ "Lê Lượng" ],
+    "namSinh" : "1870",
+    "namMat" : "1908",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Lê Ngung",
+    "tenGoiKhac" : [ "Lê Ngung" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1916",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Lê Phát An",
+    "tenGoiKhac" : [ "Lê Phát An" ],
+    "namSinh" : "1868",
+    "namMat" : "1946",
+    "queQuan" : "Long An"
+  }, {
+    "hoTen" : "Lê Phát Đạt",
+    "tenGoiKhac" : [ "Lê Phát Đạt", "Huyện Sĩ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Long An"
+  }, {
+    "hoTen" : "Lê Quang Chiếu",
+    "tenGoiKhac" : [ "Lê Quang Chiếu" ],
+    "namSinh" : "1853",
+    "namMat" : "1924",
+    "queQuan" : "Cần Thơ"
+  }, {
+    "hoTen" : "Lê Quang Nhơn",
+    "tenGoiKhac" : [ "Lê Quang Nhơn", "Thường Tiên" ],
+    "namSinh" : "1883",
+    "namMat" : "Không rõ",
+    "queQuan" : "Vĩnh Long"
+  }, {
+    "hoTen" : "Lê Quang Sung",
+    "tenGoiKhac" : [ "Lê Quang Sung" ],
+    "namSinh" : "1905",
+    "namMat" : "1935",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Lê Quang Trinh",
+    "tenGoiKhac" : [ "Lê Quang Trinh" ],
+    "namSinh" : "1883",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Lê Sum",
+    "tenGoiKhac" : [ "Lê Sum", "Trường Mậu" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1931",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Lê Tấn Bê",
+    "tenGoiKhac" : [ "Lê Tấn Bê" ],
+    "namSinh" : "1923",
+    "namMat" : "1946",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Lê Thanh",
+    "tenGoiKhac" : [ "Lê Thanh", "Nguyễn Văn Thanh", "Khiết Phủ" ],
+    "namSinh" : "1913",
+    "namMat" : "1944",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Lê Thế Hiếu",
+    "tenGoiKhac" : [ "Lê Thế Hiếu" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Lê Thị Bính",
+    "tenGoiKhac" : [ "Lê Thị Bính" ],
+    "namSinh" : "1879",
+    "namMat" : "1946",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Lê Thúc Hoạch",
+    "tenGoiKhac" : [ "Lê Thúc Hoạch" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1914",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Lê Trọng Hàm",
+    "tenGoiKhac" : [ "Lê Trọng Hàm", "Quốc Ninh", "Đồng Giang" ],
+    "namSinh" : "1872",
+    "namMat" : "1931",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Lê Trực",
+    "tenGoiKhac" : [ "Lê Trực" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Bình"
+  }, {
+    "hoTen" : "Nguyễn Lan Khai",
+    "tenGoiKhac" : [ "Nguyễn Lan Khai", "Nguyễn Đình Khải", "Lan Khai" ],
+    "namSinh" : "",
+    "namMat" : "1946",
+    "queQuan" : "Tuyên Quang"
+  }, {
+    "hoTen" : "Nguyễn Minh Hòe",
+    "tenGoiKhac" : [ "Nguyễn Minh Hòe" ],
+    "namSinh" : "1866",
+    "namMat" : "1942",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Nam Thông",
+    "tenGoiKhac" : [ "Nguyễn Nam Thông" ],
+    "namSinh" : "1893",
+    "namMat" : "1945",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Nghiêm",
+    "tenGoiKhac" : [ "Nguyễn Nghiêm" ],
+    "namSinh" : "1903",
+    "namMat" : "1931",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Nguyễn Ngọc Bích",
+    "tenGoiKhac" : [ "Nguyễn Ngọc Bích" ],
+    "namSinh" : "1921",
+    "namMat" : "1940",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Ngọc Tương",
+    "tenGoiKhac" : [ "Nguyễn Ngọc Tương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Nguyễn Nhu",
+    "tenGoiKhac" : [ "Nguyễn Nhu", "Nguyễn Văn Sử" ],
+    "namSinh" : "1876",
+    "namMat" : "1905",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Nhự",
+    "tenGoiKhac" : [ "Nguyễn Nhự" ],
+    "namSinh" : "1865",
+    "namMat" : "1922",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Nhuận",
+    "tenGoiKhac" : [ "Nguyễn Nhuận" ],
+    "namSinh" : "1879",
+    "namMat" : "1915",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Nhược Pháp",
+    "tenGoiKhac" : [ "Nguyễn Nhược Pháp" ],
+    "namSinh" : "1914",
+    "namMat" : "1938",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Phan Vinh",
+    "tenGoiKhac" : [ "Nguyễn Phan Vinh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Phong Di",
+    "tenGoiKhac" : [ "Nguyễn Phong Di" ],
+    "namSinh" : "1889",
+    "namMat" : "1919",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Phong Sắc",
+    "tenGoiKhac" : [ "Nguyễn Phong Sắc" ],
+    "namSinh" : "1902",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Phúc Bửu Đảo",
+    "tenGoiKhac" : [ "Nguyễn Phúc Bửu Đảo", "Khải Định" ],
+    "namSinh" : "1882",
+    "namMat" : "1925",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Nguyễn Phúc Bửu Đình",
+    "tenGoiKhac" : [ "Nguyễn Phúc Bửu Đình", "Bửu Đình", "Hà Trì" ],
+    "namSinh" : "1898",
+    "namMat" : "1931",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Nguyễn Phúc Hồng Dật",
+    "tenGoiKhac" : [ "Nguyễn Phúc Hồng Dật", "Hiệp Hòa" ],
+    "namSinh" : "1847",
+    "namMat" : "1883",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Nguyễn Phúc Ưng Chân",
+    "tenGoiKhac" : [ "Nguyễn Phúc Ưng Chân", "Dục Đức" ],
+    "namSinh" : "1853",
+    "namMat" : "1883",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Nguyễn Phúc Ưng Đăng",
+    "tenGoiKhac" : [ "Nguyễn Phúc Ưng Đăng", "Kiến Phúc" ],
+    "namSinh" : "1869",
+    "namMat" : "1884",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Nguyễn Phúc Ưng Ki",
+    "tenGoiKhac" : [ "Nguyễn Phúc Ưng Ki", "Đồng Khánh" ],
+    "namSinh" : "1863",
+    "namMat" : "1888",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Nguyễn Phúc Ưng Lịch",
+    "tenGoiKhac" : [ "Nguyễn Phúc Ưng Lịch", "Hàm Nghi" ],
+    "namSinh" : "1872",
+    "namMat" : "1943",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Phạm Nhân Thuần",
+    "tenGoiKhac" : [ "Phạm Nhân Thuần" ],
+    "namSinh" : "1871",
+    "namMat" : "1929",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Phạm Quỳnh",
+    "tenGoiKhac" : [ "Phạm Quỳnh", "Thượng Chi", "Hồng Nhân" ],
+    "namSinh" : "1892",
+    "namMat" : "1945",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Phạm Tư Trực",
+    "tenGoiKhac" : [ "Phạm Tư Trực", "Phạm Đăng Thê", "Bang Phu", "Trọng Thăng Tử" ],
+    "namSinh" : "1869",
+    "namMat" : "1921",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Phạm Văn Chí",
+    "tenGoiKhac" : [ "Phạm Văn Chí" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Phạm Văn Ngôn",
+    "tenGoiKhac" : [ "Phạm Văn Ngôn" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1910",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Phạm Văn Sáng",
+    "tenGoiKhac" : [ "Phạm Văn Sáng" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1941",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Phạm Văn Tráng",
+    "tenGoiKhac" : [ "Phạm Văn Tráng", "Nguyễn Văn Tráng" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1913",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Phan Bội Châu",
+    "tenGoiKhac" : [ "Phan Bội Châu", "Phan Văn San", "Sào Nam", "Hải Thu", "Thị Hán", "Độc Tĩnh Tử", "Hãn Mạn Tử" ],
+    "namSinh" : "1867",
+    "namMat" : "1940",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Phan Châu Trinh",
+    "tenGoiKhac" : [ "Phan Châu Trinh", "Phan Chu Trinh", "Tây Hồ", "Tử Cán", "Hi Mã" ],
+    "namSinh" : "1872",
+    "namMat" : "1926",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Phan Đăng Lưu",
+    "tenGoiKhac" : [ "Phan Đăng Lưu" ],
+    "namSinh" : "1902",
+    "namMat" : "1941",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Phan Điện",
+    "tenGoiKhac" : [ "Phan Điện" ],
+    "namSinh" : "1875",
+    "namMat" : "1945",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Phan Đình Cừ",
+    "tenGoiKhac" : [ "Phan Đình Cừ", "Phan Bá Ngọc" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1921",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Phan Đình Phùng",
+    "tenGoiKhac" : [ "Phan Đình Phùng" ],
+    "namSinh" : "1891",
+    "namMat" : "1944",
+    "queQuan" : "Ninh Bình"
+  }, {
+    "hoTen" : "Phan Huấn Chương",
+    "tenGoiKhac" : [ "Phan Huấn Chương", "Phan Văn Tí" ],
+    "namSinh" : "1900",
+    "namMat" : "1943",
+    "queQuan" : "Vĩnh Long"
+  }, {
+    "hoTen" : "Phan Kế Bính",
+    "tenGoiKhac" : [ "Phan Kế Bính", "Bưu Văn" ],
+    "namSinh" : "1875",
+    "namMat" : "1921",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Phan Lại Lượng",
+    "tenGoiKhac" : [ "Phan Lại Lượng" ],
+    "namSinh" : "1890",
+    "namMat" : "1910",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Phan Mạnh Danh",
+    "tenGoiKhac" : [ "Phan Mạnh Danh", "Thế Vọng", "Phù Giang" ],
+    "namSinh" : "1866",
+    "namMat" : "1942",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Phan Ngọc Hiển",
+    "tenGoiKhac" : [ "Phan Ngọc Hiển", "Giáo Hiền" ],
+    "namSinh" : "1910",
+    "namMat" : "1941",
+    "queQuan" : "Cần Thơ"
+  }, {
+    "hoTen" : "Phan Phát Sanh",
+    "tenGoiKhac" : [ "Phan Phát Sanh", "Phan Xích Long" ],
+    "namSinh" : "1893",
+    "namMat" : "1916",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Phan Thanh",
+    "tenGoiKhac" : [ "Phan Thanh", "Trạc Anh" ],
+    "namSinh" : "1908",
+    "namMat" : "1939",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Vũ Phạm Hàm",
+    "tenGoiKhac" : [ "Vũ Phạm Hàm", "Mộng Hải", "Thư Trì" ],
+    "namSinh" : "1864",
+    "namMat" : "1906",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Vũ Trọng Can",
+    "tenGoiKhac" : [ "Vũ Trọng Can" ],
+    "namSinh" : "1915",
+    "namMat" : "1943",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Vũ Trọng Phụng",
+    "tenGoiKhac" : [ "Vũ Trọng Phụng", "Thiên Hư" ],
+    "namSinh" : "1911",
+    "namMat" : "1939",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Vũ Văn Hiếu",
+    "tenGoiKhac" : [ "Vũ Văn Hiếu" ],
+    "namSinh" : "1907",
+    "namMat" : "1940",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Vương Thúc Mậu",
+    "tenGoiKhac" : [ "Vương Thúc Mậu" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Bàng Bá Lân",
+    "tenGoiKhac" : [ "Bàng Bá Lân" ],
+    "namSinh" : "1916",
+    "namMat" : "1989",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Bông Văn Dĩa",
+    "tenGoiKhac" : [ "Bông Văn Dĩa" ],
+    "namSinh" : "1905",
+    "namMat" : "1996",
+    "queQuan" : "Cà Mau"
+  }, {
+    "hoTen" : "Bùi Biên",
+    "tenGoiKhac" : [ "Bùi Biên" ],
+    "namSinh" : "1891",
+    "namMat" : "1952",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Bùi Công Trừng",
+    "tenGoiKhac" : [ "Bùi Công Trừng" ],
+    "namSinh" : "1905",
+    "namMat" : "1986",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Bùi Đình Diệm",
+    "tenGoiKhac" : [ "Bùi Đình Diệm", "Quang Dũng" ],
+    "namSinh" : "1921",
+    "namMat" : "1988",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Bùi Giáng",
+    "tenGoiKhac" : [ "Bùi Giáng" ],
+    "namSinh" : "1926",
+    "namMat" : "1998",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Bùi Hữu Sủng",
+    "tenGoiKhac" : [ "Bùi Hữu Sủng" ],
+    "namSinh" : "1907",
+    "namMat" : "2000",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Bùi Huy Cường",
+    "tenGoiKhac" : [ "Bùi Huy Cường", "Nam Hương" ],
+    "namSinh" : "1899",
+    "namMat" : "1966",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Bùi Huy Phồn",
+    "tenGoiKhac" : [ "Bùi Huy Phồn", "Đỗ Phồn", "Bùi Như Lạc" ],
+    "namSinh" : "1912",
+    "namMat" : "1990",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Bùi Kiến Tín",
+    "tenGoiKhac" : [ "Bùi Kiến Tín", "Bùi Thử" ],
+    "namSinh" : "1912",
+    "namMat" : "1994",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Bùi Kỷ",
+    "tenGoiKhac" : [ "Bùi Kỷ" ],
+    "namSinh" : "1887",
+    "namMat" : "1960",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Bùi Lâm",
+    "tenGoiKhac" : [ "Bùi Lâm" ],
+    "namSinh" : "1896",
+    "namMat" : "1984",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Bùi Phong Tư",
+    "tenGoiKhac" : [ "Bùi Phong Tư", "Nguyễn Đức Thuận" ],
+    "namSinh" : "1916",
+    "namMat" : "1985",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Bùi Thị Hậu",
+    "tenGoiKhac" : [ "Bùi Thị Hậu" ],
+    "namSinh" : "1881",
+    "namMat" : "1967",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Bùi Tường Chiểu",
+    "tenGoiKhac" : [ "Bùi Tường Chiểu" ],
+    "namSinh" : "1904",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Hồ Đắc Di",
+    "tenGoiKhac" : [ "Hồ Đắc Di" ],
+    "namSinh" : "1901",
+    "namMat" : "1984",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Hồ Đắc Hàm",
+    "tenGoiKhac" : [ "Hồ Đắc Hàm" ],
+    "namSinh" : "1879",
+    "namMat" : "1963",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Hồ Huệ Bá",
+    "tenGoiKhac" : [ "Hồ Huệ Bá" ],
+    "namSinh" : "1894",
+    "namMat" : "1978",
+    "queQuan" : "An Giang"
+  }, {
+    "hoTen" : "Hồ Hữu Tường",
+    "tenGoiKhac" : [ "Hồ Hữu Tường" ],
+    "namSinh" : "1910",
+    "namMat" : "1980",
+    "queQuan" : "Cần Thơ"
+  }, {
+    "hoTen" : "Hồ Liên",
+    "tenGoiKhac" : [ "Hồ Liên", "Hoàng Bích Sơn" ],
+    "namSinh" : "1924",
+    "namMat" : "2000",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Hồ Tá Khanh",
+    "tenGoiKhac" : [ "Hồ Tá Khanh" ],
+    "namSinh" : "1908",
+    "namMat" : "1996",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Hồ Thị Hạnh",
+    "tenGoiKhac" : [ "Hồ Thị Hạnh", "Diệu Không" ],
+    "namSinh" : "1905",
+    "namMat" : "1997",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Hồ Trọng Hiếu",
+    "tenGoiKhac" : [ "Hồ Trọng Hiếu", "Tú Mỡ" ],
+    "namSinh" : "1900",
+    "namMat" : "1976",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Hồ Tùng Mậu",
+    "tenGoiKhac" : [ "Hồ Tùng Mậu" ],
+    "namSinh" : "1896",
+    "namMat" : "1951",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Hồ Văn Hiến",
+    "tenGoiKhac" : [ "Hồ Văn Hiến" ],
+    "namSinh" : "1900",
+    "namMat" : "1957",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Hồ Văn Trung",
+    "tenGoiKhac" : [ "Hồ Văn Trung", "Hồ Biểu Chánh", "Thứ Tiên" ],
+    "namSinh" : "1884",
+    "namMat" : "1958",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Hồ Xuân Lưu",
+    "tenGoiKhac" : [ "Hồ Xuân Lưu", "Trần Quốc Thảo" ],
+    "namSinh" : "1914",
+    "namMat" : "1957",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Hoàng Đạo Thúy",
+    "tenGoiKhac" : [ "Hoàng Đạo Thúy" ],
+    "namSinh" : "1900",
+    "namMat" : "1994",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Hoàng Khương Ninh",
+    "tenGoiKhac" : [ "Hoàng Khương Ninh", "Huỳnh Khương Ninh" ],
+    "namSinh" : "1890",
+    "namMat" : "1950",
+    "queQuan" : "Bà Rịa - Vũng Tàu"
+  }, {
+    "hoTen" : "Hoàng Minh Giám",
+    "tenGoiKhac" : [ "Hoàng Minh Giám" ],
+    "namSinh" : "1904",
+    "namMat" : "1995",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Hoàng Minh Giám",
+    "tenGoiKhac" : [ "Hoàng Minh Giám" ],
+    "namSinh" : "1913",
+    "namMat" : "1992",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Hoàng Ngọc Phách",
+    "tenGoiKhac" : [ "Hoàng Ngọc Phách", "Song An" ],
+    "namSinh" : "1896",
+    "namMat" : "1973",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Hoàng Phạm Trân",
+    "tenGoiKhac" : [ "Hoàng Phạm Trân", "Nhượng Tống", "Mạc Bảo Thần" ],
+    "namSinh" : "1904",
+    "namMat" : "1949",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Hoàng Phú Sổ",
+    "tenGoiKhac" : [ "Hoàng Phú Sổ", "Huỳnh Phú Sổ" ],
+    "namSinh" : "1919",
+    "namMat" : "1947",
+    "queQuan" : "An Giang"
+  }, {
+    "hoTen" : "Hoàng Thúc Tấn",
+    "tenGoiKhac" : [ "Hoàng Thúc Tấn" ],
+    "namSinh" : "1912",
+    "namMat" : "1986",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Lê Văn Đệ",
+    "tenGoiKhac" : [ "Lê Văn Đệ" ],
+    "namSinh" : "1906",
+    "namMat" : "1969",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Lê Văn Hiến",
+    "tenGoiKhac" : [ "Lê Văn Hiến" ],
+    "namSinh" : "1904",
+    "namMat" : "1996",
+    "queQuan" : "Đà Nẵng"
+  }, {
+    "hoTen" : "Lê Văn Hòe",
+    "tenGoiKhac" : [ "Lê Văn Hòe", "Lê Văn Hạc" ],
+    "namSinh" : "1911",
+    "namMat" : "1968",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Lê Văn Năng",
+    "tenGoiKhac" : [ "Lê Văn Năng", "Lê Văn Quới" ],
+    "namSinh" : "1893",
+    "namMat" : "1963",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Lê Văn Ngôn",
+    "tenGoiKhac" : [ "Lê Văn Ngôn", "Bảo Hương" ],
+    "namSinh" : "1908",
+    "namMat" : "1976",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Lê Văn Phúc",
+    "tenGoiKhac" : [ "Lê Văn Phúc", "Lê Thọ Xuân" ],
+    "namSinh" : "1904",
+    "namMat" : "1978",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Lê Văn Sĩ",
+    "tenGoiKhac" : [ "Lê Văn Sĩ", "Võ Sĩ" ],
+    "namSinh" : "1910",
+    "namMat" : "1948",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Lê Văn Siêu",
+    "tenGoiKhac" : [ "Lê Văn Siêu" ],
+    "namSinh" : "1911",
+    "namMat" : "1995",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Lê Văn Thiêm",
+    "tenGoiKhac" : [ "Lê Văn Thiêm" ],
+    "namSinh" : "1918",
+    "namMat" : "1991",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Lê Văn Thới",
+    "tenGoiKhac" : [ "Lê Văn Thới" ],
+    "namSinh" : "1917",
+    "namMat" : "1983",
+    "queQuan" : "Tây Ninh"
+  }, {
+    "hoTen" : "Lê Văn Thử",
+    "tenGoiKhac" : [ "Lê Văn Thử", "Việt Tha" ],
+    "namSinh" : "1906",
+    "namMat" : "1969",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Văn Trung",
+    "tenGoiKhac" : [ "Lê Văn Trung" ],
+    "namSinh" : "1875",
+    "namMat" : "1934",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Lê Văn Trương",
+    "tenGoiKhac" : [ "Lê Văn Trương" ],
+    "namSinh" : "1906",
+    "namMat" : "1964",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Lê Văn Vị",
+    "tenGoiKhac" : [ "Lê Văn Vị", "Vita" ],
+    "namSinh" : "1910",
+    "namMat" : "1956",
+    "queQuan" : "Long An"
+  }, {
+    "hoTen" : "Lê Văn Viễn",
+    "tenGoiKhac" : [ "Lê Văn Viễn", "Bảy Viễn" ],
+    "namSinh" : "1904",
+    "namMat" : "1970",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Lê Võ Đài",
+    "tenGoiKhac" : [ "Lê Võ Đài", "Minh Hương" ],
+    "namSinh" : "1924",
+    "namMat" : "2002",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Lương Tri",
+    "tenGoiKhac" : [ "Lương Tri", "Lê Văn Quới", "Lê Văn Năng" ],
+    "namSinh" : "1893",
+    "namMat" : "1963",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Lương Trọng Hối",
+    "tenGoiKhac" : [ "Lương Trọng Hối" ],
+    "namSinh" : "1888",
+    "namMat" : "1969",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Lương Văn Nho",
+    "tenGoiKhac" : [ "Lương Văn Nho" ],
+    "namSinh" : "1916",
+    "namMat" : "1984",
+    "queQuan" : "Đồng Nai"
+  }, {
+    "hoTen" : "Lương Vĩnh Thuật",
+    "tenGoiKhac" : [ "Lương Vĩnh Thuật", "Thanh Long", "Hành Sơn" ],
+    "namSinh" : "1918",
+    "namMat" : "1982",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Đình Thi",
+    "tenGoiKhac" : [ "Nguyễn Đình Thi" ],
+    "namSinh" : "1924",
+    "namMat" : "2003",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Đỗ Cung",
+    "tenGoiKhac" : [ "Nguyễn Đỗ Cung" ],
+    "namSinh" : "1912",
+    "namMat" : "1977",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Nguyễn Đỗ Mục",
+    "tenGoiKhac" : [ "Nguyễn Đỗ Mục", "Trọng Hữu" ],
+    "namSinh" : "1866",
+    "namMat" : "1949",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Đóa",
+    "tenGoiKhac" : [ "Nguyễn Đóa" ],
+    "namSinh" : "1896",
+    "namMat" : "1993",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Đôn Phục",
+    "tenGoiKhac" : [ "Nguyễn Đôn Phục", "Hi Cán", "Tùng Vân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1954",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Đổng Chi",
+    "tenGoiKhac" : [ "Nguyễn Đổng Chi" ],
+    "namSinh" : "1915",
+    "namMat" : "1984",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Nguyễn Đức Giới",
+    "tenGoiKhac" : [ "Nguyễn Đức Giới", "Thôi Hữu", "Trần Văn Tấn", "Tân Sắc" ],
+    "namSinh" : "1919",
+    "namMat" : "1950",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Đức Huy (Ii)",
+    "tenGoiKhac" : [ "Nguyễn Đức Huy (Ii)", "Hồng Tiêu" ],
+    "namSinh" : "1902",
+    "namMat" : "1985",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Nguyễn Đức Long",
+    "tenGoiKhac" : [ "Nguyễn Đức Long", "Thượng Sĩ" ],
+    "namSinh" : "1908",
+    "namMat" : "1998",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Đức Nguyên",
+    "tenGoiKhac" : [ "Nguyễn Đức Nguyên", "Hoài Thanh" ],
+    "namSinh" : "1909",
+    "namMat" : "1982",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Nguyễn Đức Nhuận",
+    "tenGoiKhac" : [ "Nguyễn Đức Nhuận", "Bút Trà" ],
+    "namSinh" : "1900",
+    "namMat" : "1982",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Đức Nhuận",
+    "tenGoiKhac" : [ "Nguyễn Đức Nhuận" ],
+    "namSinh" : "1900",
+    "namMat" : "1968",
+    "queQuan" : "Trà Vinh"
+  }, {
+    "hoTen" : "Nguyễn Đức Nhuận",
+    "tenGoiKhac" : [ "Nguyễn Đức Nhuận", "Phú Đức" ],
+    "namSinh" : "1901",
+    "namMat" : "1970",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Nguyễn Đức Quỳnh",
+    "tenGoiKhac" : [ "Nguyễn Đức Quỳnh", "Hà Việt Phương", "Hoài Đồng Vọng" ],
+    "namSinh" : "1909",
+    "namMat" : "1974",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Nguyễn Đức Thuận",
+    "tenGoiKhac" : [ "Nguyễn Đức Thuận", "Bùi Phong Tư" ],
+    "namSinh" : "1916",
+    "namMat" : "1985",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Nguyễn Gia Trí",
+    "tenGoiKhac" : [ "Nguyễn Gia Trí" ],
+    "namSinh" : "1908",
+    "namMat" : "1993",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Gia Tường",
+    "tenGoiKhac" : [ "Nguyễn Gia Tường" ],
+    "namSinh" : "1902",
+    "namMat" : "1982",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Giang",
+    "tenGoiKhac" : [ "Nguyễn Giang" ],
+    "namSinh" : "1910",
+    "namMat" : "1969",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Hiến Lê",
+    "tenGoiKhac" : [ "Nguyễn Hiến Lê", "Lộc Đình" ],
+    "namSinh" : "1912",
+    "namMat" : "1984",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Hoàng",
+    "tenGoiKhac" : [ "Nguyễn Hoàng", "Vĩnh Mai" ],
+    "namSinh" : "1918",
+    "namMat" : "1981",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Nguyễn Tất Thành",
+    "tenGoiKhac" : [ "Nguyễn Tất Thành", "Hồ Chí Minh", "Nguyễn Sinh Cung", "Nguyễn Ái Quốc", "Lý Thụy", "Anh Ba", "Vương Sơn Nhi", "Chàng Vương", "Tống Văn Sơ", "Hồ Quang", "Thầu Chín" ],
+    "namSinh" : "1890",
+    "namMat" : "1969",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Nguyễn Thái Sơn",
+    "tenGoiKhac" : [ "Nguyễn Thái Sơn", "Bảy Bình" ],
+    "namSinh" : "1928",
+    "namMat" : "1970",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Nguyễn Thành Châu",
+    "tenGoiKhac" : [ "Nguyễn Thành Châu", "Năm Châu" ],
+    "namSinh" : "1906",
+    "namMat" : "1978",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Nguyễn Thành Giung",
+    "tenGoiKhac" : [ "Nguyễn Thành Giung" ],
+    "namSinh" : "1894",
+    "namMat" : "1959",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Nguyễn Thành Long",
+    "tenGoiKhac" : [ "Nguyễn Thành Long", "Lưu Quỳnh", "Phan Minh Thảo" ],
+    "namSinh" : "1925",
+    "namMat" : "1991",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Thành Tâm",
+    "tenGoiKhac" : [ "Nguyễn Thành Tâm", "Nguyễn Văn Hưởng" ],
+    "namSinh" : "1906",
+    "namMat" : "1998",
+    "queQuan" : "An Giang"
+  }, {
+    "hoTen" : "Nguyễn Thanh Tích",
+    "tenGoiKhac" : [ "Nguyễn Thanh Tích", "Phả Minh" ],
+    "namSinh" : "1881",
+    "namMat" : "1964",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Nguyễn Thành Vĩnh",
+    "tenGoiKhac" : [ "Nguyễn Thành Vĩnh" ],
+    "namSinh" : "1905",
+    "namMat" : "1950",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Nguyễn Thế Long",
+    "tenGoiKhac" : [ "Nguyễn Thế Long" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1951",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Nguyễn Thế Phương",
+    "tenGoiKhac" : [ "Nguyễn Thế Phương", "Nam Đình", "Nguyễn Kì Nam" ],
+    "namSinh" : "1906",
+    "namMat" : "1978",
+    "queQuan" : "Long An"
+  }, {
+    "hoTen" : "Nguyễn Thế Truyền",
+    "tenGoiKhac" : [ "Nguyễn Thế Truyền" ],
+    "namSinh" : "1898",
+    "namMat" : "1969",
+    "queQuan" : "Ninh Bình"
+  }, {
+    "hoTen" : "Nguyễn Thị Định",
+    "tenGoiKhac" : [ "Nguyễn Thị Định" ],
+    "namSinh" : "1920",
+    "namMat" : "1992",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Nguyễn Thị Kiêm",
+    "tenGoiKhac" : [ "Nguyễn Thị Kiêm", "Nguyễn Thị Manh Manh", "Myn", "Nguyễn Văn Myn", "Lệ Thủy" ],
+    "namSinh" : "1914",
+    "namMat" : "Không rõ",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Nguyễn Thị Lan",
+    "tenGoiKhac" : [ "Nguyễn Thị Lan", "Nam Phương" ],
+    "namSinh" : "1914",
+    "namMat" : "1963",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Nguyễn Thị Thập",
+    "tenGoiKhac" : [ "Nguyễn Thị Thập" ],
+    "namSinh" : "1908",
+    "namMat" : "1996",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Nguyễn Thị Trừ",
+    "tenGoiKhac" : [ "Nguyễn Thị Trừ", "Huỳnh Liên" ],
+    "namSinh" : "1923",
+    "namMat" : "1987",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Nguyễn Thiệu Lâu",
+    "tenGoiKhac" : [ "Nguyễn Thiệu Lâu" ],
+    "namSinh" : "1916",
+    "namMat" : "1967",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Thứ Lễ",
+    "tenGoiKhac" : [ "Nguyễn Thứ Lễ", "Thế Lữ", "Lê Ta" ],
+    "namSinh" : "1907",
+    "namMat" : "1989",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nguyễn Thức Canh",
+    "tenGoiKhac" : [ "Nguyễn Thức Canh", "Trần Hữu Công", "Trần Trọng Khắc" ],
+    "namSinh" : "1884",
+    "namMat" : "1965",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Nguyễn Tiến Chung",
+    "tenGoiKhac" : [ "Nguyễn Tiến Chung" ],
+    "namSinh" : "1914",
+    "namMat" : "1976",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Xuân Bái",
+    "tenGoiKhac" : [ "Nguyễn Xuân Bái" ],
+    "namSinh" : "1895",
+    "namMat" : "1972",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Nguyễn Xuân Khoát",
+    "tenGoiKhac" : [ "Nguyễn Xuân Khoát" ],
+    "namSinh" : "1910",
+    "namMat" : "1993",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Xuân Khuê",
+    "tenGoiKhac" : [ "Nguyễn Xuân Khuê", "Sương Nguyệt Anh" ],
+    "namSinh" : "1864",
+    "namMat" : "1921",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Nguyễn Xuân Nhí",
+    "tenGoiKhac" : [ "Nguyễn Xuân Nhí", "Nguyễn Công Tâm" ],
+    "namSinh" : "1912",
+    "namMat" : "1983",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Xuân Oánh",
+    "tenGoiKhac" : [ "Nguyễn Xuân Oánh" ],
+    "namSinh" : "1921",
+    "namMat" : "2003",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nông Văn Quỳnh",
+    "tenGoiKhac" : [ "Nông Văn Quỳnh", "Nông Quốc Chấn" ],
+    "namSinh" : "1923",
+    "namMat" : "2002",
+    "queQuan" : "Cao Bằng"
+  }, {
+    "hoTen" : "Phạm Biểu Tâm",
+    "tenGoiKhac" : [ "Phạm Biểu Tâm" ],
+    "namSinh" : "1913",
+    "namMat" : "1999",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Phạm Công Tắc",
+    "tenGoiKhac" : [ "Phạm Công Tắc" ],
+    "namSinh" : "1890",
+    "namMat" : "1959",
+    "queQuan" : "Long An"
+  }, {
+    "hoTen" : "Phạm Duy Khiêm",
+    "tenGoiKhac" : [ "Phạm Duy Khiêm" ],
+    "namSinh" : "1907",
+    "namMat" : "1974",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Phạm Đình Ái",
+    "tenGoiKhac" : [ "Phạm Đình Ái" ],
+    "namSinh" : "1907",
+    "namMat" : "1993",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Phạm Đình Bách",
+    "tenGoiKhac" : [ "Phạm Đình Bách", "Họa Sơn" ],
+    "namSinh" : "1909",
+    "namMat" : "1968",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Phạm Đình Tân",
+    "tenGoiKhac" : [ "Phạm Đình Tân", "Từ Huệ", "Lĩnh Việt" ],
+    "namSinh" : "1913",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Phạm Đức Hạp",
+    "tenGoiKhac" : [ "Phạm Đức Hạp", "Đức Nhuận" ],
+    "namSinh" : "1897",
+    "namMat" : "1993",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Phạm Hoanh",
+    "tenGoiKhac" : [ "Phạm Hoanh" ],
+    "namSinh" : "1880",
+    "namMat" : "1960",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Phạm Hữu Lầu",
+    "tenGoiKhac" : [ "Phạm Hữu Lầu" ],
+    "namSinh" : "1905",
+    "namMat" : "1959",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Phạm Huy Thông",
+    "tenGoiKhac" : [ "Phạm Huy Thông" ],
+    "namSinh" : "1916",
+    "namMat" : "1988",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Phạm Khắc Hòe",
+    "tenGoiKhac" : [ "Phạm Khắc Hòe" ],
+    "namSinh" : "1902",
+    "namMat" : "1994",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Phạm Kỳ Ngỡl",
+    "tenGoiKhac" : [ "Phạm Kỳ Ngỡl", "Khổng Nghi" ],
+    "namSinh" : "1920",
+    "namMat" : "Không rõ",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Phạm Lợi",
+    "tenGoiKhac" : [ "Phạm Lợi" ],
+    "namSinh" : "1912",
+    "namMat" : "1984",
+    "queQuan" : "Yên Bái"
+  }, {
+    "hoTen" : "Phạm Ngọc Chi",
+    "tenGoiKhac" : [ "Phạm Ngọc Chi" ],
+    "namSinh" : "1909",
+    "namMat" : "1988",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Tô Văn Tuấn",
+    "tenGoiKhac" : [ "Tô Văn Tuấn", "Bình Nguyên Lộc" ],
+    "namSinh" : "1914",
+    "namMat" : "1988",
+    "queQuan" : "Bình Định"
+  }, {
+    "hoTen" : "Tô Vĩnh Diện",
+    "tenGoiKhac" : [ "Tô Vĩnh Diện" ],
+    "namSinh" : "1924",
+    "namMat" : "1954",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Tôn Đức Thắng",
+    "tenGoiKhac" : [ "Tôn Đức Thắng" ],
+    "namSinh" : "1888",
+    "namMat" : "1980",
+    "queQuan" : "An Giang"
+  }, {
+    "hoTen" : "Tôn Quang Phiệt",
+    "tenGoiKhac" : [ "Tôn Quang Phiệt" ],
+    "namSinh" : "1900",
+    "namMat" : "1973",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Tôn Thất Tùng",
+    "tenGoiKhac" : [ "Tôn Thất Tùng" ],
+    "namSinh" : "1912",
+    "namMat" : "1982",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Tống Văn Hên",
+    "tenGoiKhac" : [ "Tống Văn Hên" ],
+    "namSinh" : "1909",
+    "namMat" : "1946",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Trần Chí Thành",
+    "tenGoiKhac" : [ "Trần Chí Thành", "Trần Tấn Quốc" ],
+    "namSinh" : "1914",
+    "namMat" : "1987",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Trần Dần",
+    "tenGoiKhac" : [ "Trần Dần", "Trần Văn Dần" ],
+    "namSinh" : "1926",
+    "namMat" : "1997",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Trần Đăng Khoa",
+    "tenGoiKhac" : [ "Trần Đăng Khoa" ],
+    "namSinh" : "1907",
+    "namMat" : "1989",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Trần Đình Đàn",
+    "tenGoiKhac" : [ "Trần Đình Đàn" ],
+    "namSinh" : "1903",
+    "namMat" : "2002",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Trần Đình Nam",
+    "tenGoiKhac" : [ "Trần Đình Nam" ],
+    "namSinh" : "1896",
+    "namMat" : "1974",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Trần Đình Tri",
+    "tenGoiKhac" : [ "Trần Đình Tri" ],
+    "namSinh" : "1915",
+    "namMat" : "1997",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Trần Đình Xu",
+    "tenGoiKhac" : [ "Trần Đình Xu" ],
+    "namSinh" : "1921",
+    "namMat" : "1969",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Trần Đức Sắc",
+    "tenGoiKhac" : [ "Trần Đức Sắc", "Văn Tân" ],
+    "namSinh" : "1913",
+    "namMat" : "1988",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Trần Đức Thảo",
+    "tenGoiKhac" : [ "Trần Đức Thảo" ],
+    "namSinh" : "1917",
+    "namMat" : "1993",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Trần Hữu Thung",
+    "tenGoiKhac" : [ "Trần Hữu Thung" ],
+    "namSinh" : "1923",
+    "namMat" : "1999",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Trần Hữu Trang",
+    "tenGoiKhac" : [ "Trần Hữu Trang", "Tư Trang" ],
+    "namSinh" : "1906",
+    "namMat" : "1966",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Trần Hữu Trí",
+    "tenGoiKhac" : [ "Trần Hữu Trí", "Nam Cao", "Thủy Rư", "Xuân Du", "Nhiêu Khê", "Nguyệt" ],
+    "namSinh" : "1917",
+    "namMat" : "1951",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Trần Hữu Tước",
+    "tenGoiKhac" : [ "Trần Hữu Tước" ],
+    "namSinh" : "1913",
+    "namMat" : "1983",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Trần Huy Liệu",
+    "tenGoiKhac" : [ "Trần Huy Liệu", "Nam Kiều", "Đẩu Nam", "Hải Khánh", "Côi Vị", "Ẩm Hân", "Kiếm Bút" ],
+    "namSinh" : "1901",
+    "namMat" : "1969",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Vi Huyền Đắc",
+    "tenGoiKhac" : [ "Vi Huyền Đắc", "Giới Chi" ],
+    "namSinh" : "1899",
+    "namMat" : "1976",
+    "queQuan" : "Hải Phòng"
+  }, {
+    "hoTen" : "Vi Văn Định",
+    "tenGoiKhac" : [ "Vi Văn Định" ],
+    "namSinh" : "1878",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Võ Bá Hạp",
+    "tenGoiKhac" : [ "Võ Bá Hạp", "Trúc Khê", "Nguyên Bích" ],
+    "namSinh" : "1876",
+    "namMat" : "1948",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Võ Chí Thâm",
+    "tenGoiKhac" : [ "Võ Chí Thâm", "Giác Nhiên" ],
+    "namSinh" : "1877",
+    "namMat" : "1979",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Võ Đông Giang",
+    "tenGoiKhac" : [ "Võ Đông Giang", "Phan Bá" ],
+    "namSinh" : "1923",
+    "namMat" : "1998",
+    "queQuan" : "Phú Yên"
+  }, {
+    "hoTen" : "Võ Hải Thu",
+    "tenGoiKhac" : [ "Võ Hải Thu", "Nguyễn Hải Thần" ],
+    "namSinh" : "1878",
+    "namMat" : "1954",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Võ Hóa",
+    "tenGoiKhac" : [ "Võ Hóa", "Khánh Anh", "Chơn Húy" ],
+    "namSinh" : "1895",
+    "namMat" : "1961",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Võ Hoành",
+    "tenGoiKhac" : [ "Võ Hoành", "Ngọc Tiểu" ],
+    "namSinh" : "1873",
+    "namMat" : "1946",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Võ Liêm Sơn",
+    "tenGoiKhac" : [ "Võ Liêm Sơn", "Ngạc Am" ],
+    "namSinh" : "1888",
+    "namMat" : "1949",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Võ Nguyên Giáp",
+    "tenGoiKhac" : [ "Võ Nguyên Giáp" ],
+    "namSinh" : "1911",
+    "namMat" : "2013",
+    "queQuan" : "Quảng Bình"
+  }, {
+    "hoTen" : "Võ Nguyên Thủy",
+    "tenGoiKhac" : [ "Võ Nguyên Thủy", "Võ Nguyên Bác", "Nguyễn Sơn", "Võ Hồng Thủy" ],
+    "namSinh" : "1908",
+    "namMat" : "1956",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Võ Oanh",
+    "tenGoiKhac" : [ "Võ Oanh" ],
+    "namSinh" : "1890",
+    "namMat" : "1977",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Võ Quảng",
+    "tenGoiKhac" : [ "Võ Quảng" ],
+    "namSinh" : "1920",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Võ Toàn",
+    "tenGoiKhac" : [ "Võ Toàn", "Võ Chí Công" ],
+    "namSinh" : "1913",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Võ Tùng",
+    "tenGoiKhac" : [ "Võ Tùng" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1955",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Vũ Anh Khanh",
+    "tenGoiKhac" : [ "Vũ Anh Khanh", "Nguyễn Năm" ],
+    "namSinh" : "1926",
+    "namMat" : "1956",
+    "queQuan" : "Bình Thuận"
+  }, {
+    "hoTen" : "Vũ Đăng Bằng",
+    "tenGoiKhac" : [ "Vũ Đăng Bằng", "Vũ Bằng", "Tiêu Liêu", "Lê Tâm", "Vũ Tường Khanh", "Hoàng Thị Trâm" ],
+    "namSinh" : "1914",
+    "namMat" : "1984",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Vũ Đình Chí",
+    "tenGoiKhac" : [ "Vũ Đình Chí", "Tam Lang" ],
+    "namSinh" : "1901",
+    "namMat" : "1986",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Vũ Đình Hòe",
+    "tenGoiKhac" : [ "Vũ Đình Hòe" ],
+    "namSinh" : "1912",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Vũ Đình Liên",
+    "tenGoiKhac" : [ "Vũ Đình Liên" ],
+    "namSinh" : "1913",
+    "namMat" : "1996",
+    "queQuan" : "Hải Dương"
+  } ],
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Hiệp ước Patơnốt",
+    "namBatDau" : "1884",
+    "namKetThuc" : "1884"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Yên Thế",
+    "namBatDau" : "1884",
+    "namKetThuc" : "1913"
+  }, {
+    "tenSuKien" : "Hàm Nghi ra Chiếu Cần Vương",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1885"
+  }, {
+    "tenSuKien" : "Phong trào Cần Vương",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1896"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Bãi Sậy",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1885"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Ba Đình",
+    "namBatDau" : "1886",
+    "namKetThuc" : "1887"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Hùng Lĩnh",
+    "namBatDau" : "1887",
+    "namKetThuc" : "1892"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Hương Khê",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1896"
+  }, {
+    "tenSuKien" : "Hội Duy Tân được thành lập",
+    "namBatDau" : "1904",
+    "namKetThuc" : "1904"
+  }, {
+    "tenSuKien" : "Thành lập “Việt Nam Quang phục hội”",
+    "namBatDau" : "1912",
+    "namKetThuc" : "1912"
+  }, {
+    "tenSuKien" : "Phong trào Đông Du",
+    "namBatDau" : "1905",
+    "namKetThuc" : "1908"
+  }, {
+    "tenSuKien" : "Đông Kinh Nghĩa Thục",
+    "namBatDau" : "1907",
+    "namKetThuc" : "1907"
+  }, {
+    "tenSuKien" : "Bác Hồ ra đi tìm đường cứu nước",
+    "namBatDau" : "1911",
+    "namKetThuc" : "1911"
+  }, {
+    "tenSuKien" : "Chiến tranh thế giới thứ nhất",
+    "namBatDau" : "1914",
+    "namKetThuc" : "1918"
+  }, {
+    "tenSuKien" : "Thành lập Quốc Tế Cộng Sản",
+    "namBatDau" : "1919",
+    "namKetThuc" : "1919"
+  }, {
+    "tenSuKien" : "Nguyến Ái Quốc gửi bản yêu sách của nhân dân Việt tới hội nghị Vecxay",
+    "namBatDau" : "1919",
+    "namKetThuc" : "1919"
+  }, {
+    "tenSuKien" : "Nguyễn Ái Quốc tham dự Đại hội lần thứ 18 của Đảng Xã hội Pháp",
+    "namBatDau" : "1920",
+    "namKetThuc" : "1920"
+  }, {
+    "tenSuKien" : "Tờ báo “Người cùng khổ” ra số đầu tiên tại Pari do Nguyễn Ái Quốc làm chủ nhiệm",
+    "namBatDau" : "1922",
+    "namKetThuc" : "1922"
+  }, {
+    "tenSuKien" : "Ngày Quốc Tế Phụ Nữ",
+    "namBatDau" : "1910",
+    "namKetThuc" : "1910"
+  }, {
+    "tenSuKien" : "Nguyễn Ái Quốc sang Liên Xô dự hội nghị Quốc tế Nông dân",
+    "namBatDau" : "1923",
+    "namKetThuc" : "1923"
+  }, {
+    "tenSuKien" : "Nguyễn Ái Quốc tham dự Đại hội II Đảng Cộng sản Pháp",
+    "namBatDau" : "1922",
+    "namKetThuc" : "1922"
+  }, {
+    "tenSuKien" : "Thành lập tổ chức Tâm Tâm Xã tại Quảng Châu Trung Quốc",
+    "namBatDau" : "1923",
+    "namKetThuc" : "1923"
+  }, {
+    "tenSuKien" : "Phạm Hồng Thái mưu sát toàn quyền Đông Dương tại Sa Diện",
+    "namBatDau" : "1924",
+    "namKetThuc" : "1924"
+  }, {
+    "tenSuKien" : "Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên",
+    "namBatDau" : "1925",
+    "namKetThuc" : "1925"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Bùi Dị", "Nhân vật: Bùi Như Quảng", "Nhân vật: Cầm Bá Thước", "Nhân vật: Cao Đạt", "Nhân vật: Cao Xuân Dục", "Nhân vật: Châu Mạnh Trinh", "Nhân vật: Châu Thuợng Văn", "Nhân vật: Đinh Công Tráng", "Nhân vật: Đinh Nho Quang", "Nhân vật: Tôn Thất Hân", "Nhân vật: Tôn Thất Thuyết", "Nhân vật: Tống Duy Tân", "Nhân vật: Tổng Lung", "Nhân vật: Trần Bá Lộc", "Nhân vật: Trần Đình Phong", "Nhân vật: Trần Đình Túc", "Nhân vật: Trần Hữu Thường", "Nhân vật: Trần Lục", "Nhân vật: Trần Quang Diêm", "Nhân vật: Trần Thuyết", "Nhân vật: Trần Trọng Cung", "Nhân vật: Trần Trọng Khiêm", "Nhân vật: Trần Viết Thọ", "Nhân vật: Trần Xuân Soạn", "Nhân vật: Trương Như Cương", "Nhân vật: Trương Quang Đản", "Nhân vật: Trương Quang Ngọc", "Nhân vật: Trương Trọng Hữu", "Nhân vật: Trương Văn Thám", "Nhân vật: Đặng Văn Bá", "Nhân vật: Đào Nguyên Phổ", "Nhân vật: Đào Thành Đô", "Nhân vật: Đào Thoại Thạch", "Nhân vật: Đào Văn Châu", "Nhân vật: Đào Văn Thử", "Nhân vật: Đậu Quang Lĩnh", "Nhân vật: Đinh Doãn Tế", "Nhân vật: Đinh Gia Thuyết", "Nhân vật: Đinh Hữu Thuật", "Nhân vật: Đinh Kinh Luân", "Nhân vật: Đinh Phu Nhân", "Nhân vật: Đinh Quang Nhường", "Nhân vật: Đỗ Bàng", "Nhân vật: Đỗ Cơ Quang", "Nhân vật: Đỗ Đình Nhân", "Nhân vật: Đỗ Huy Nam", "Nhân vật: Đỗ Ngọc Du", "Nhân vật: Đỗ Ngọc Quang", "Nhân vật: Đỗ Ngọc Thạch", "Nhân vật: Lê Khánh Hòa", "Nhân vật: Lê Khiết", "Nhân vật: Lê Khoan Hoằng", "Nhân vật: Lê Kính Hạp", "Nhân vật: Lê Lượng", "Nhân vật: Lê Ngung", "Nhân vật: Lê Phát An", "Nhân vật: Lê Phát Đạt", "Nhân vật: Lê Quang Chiếu", "Nhân vật: Lê Quang Nhơn", "Nhân vật: Lê Quang Sung", "Nhân vật: Lê Quang Trinh", "Nhân vật: Lê Sum", "Nhân vật: Lê Tấn Bê", "Nhân vật: Lê Thanh", "Nhân vật: Lê Thế Hiếu", "Nhân vật: Lê Thị Bính", "Nhân vật: Lê Thúc Hoạch", "Nhân vật: Lê Trọng Hàm", "Nhân vật: Lê Trực", "Nhân vật: Nguyễn Lan Khai", "Nhân vật: Nguyễn Minh Hòe", "Nhân vật: Nguyễn Nam Thông", "Nhân vật: Nguyễn Nghiêm", "Nhân vật: Nguyễn Ngọc Bích", "Nhân vật: Nguyễn Ngọc Tương", "Nhân vật: Nguyễn Nhu", "Nhân vật: Nguyễn Nhự", "Nhân vật: Nguyễn Nhuận", "Nhân vật: Nguyễn Nhược Pháp", "Nhân vật: Nguyễn Phan Vinh", "Nhân vật: Nguyễn Phong Di", "Nhân vật: Nguyễn Phong Sắc", "Nhân vật: Nguyễn Phúc Bửu Đảo", "Nhân vật: Nguyễn Phúc Bửu Đình", "Nhân vật: Nguyễn Phúc Hồng Dật", "Nhân vật: Nguyễn Phúc Ưng Chân", "Nhân vật: Nguyễn Phúc Ưng Đăng", "Nhân vật: Nguyễn Phúc Ưng Ki", "Nhân vật: Nguyễn Phúc Ưng Lịch", "Nhân vật: Phạm Nhân Thuần", "Nhân vật: Phạm Quỳnh", "Nhân vật: Phạm Tư Trực", "Nhân vật: Phạm Văn Chí", "Nhân vật: Phạm Văn Ngôn", "Nhân vật: Phạm Văn Sáng", "Nhân vật: Phạm Văn Tráng", "Nhân vật: Phan Bội Châu", "Nhân vật: Phan Châu Trinh", "Nhân vật: Phan Đăng Lưu", "Nhân vật: Phan Điện", "Nhân vật: Phan Đình Cừ", "Nhân vật: Phan Đình Phùng", "Nhân vật: Phan Huấn Chương", "Nhân vật: Phan Kế Bính", "Nhân vật: Phan Lại Lượng", "Nhân vật: Phan Mạnh Danh", "Nhân vật: Phan Ngọc Hiển", "Nhân vật: Phan Phát Sanh", "Nhân vật: Phan Thanh", "Nhân vật: Vũ Phạm Hàm", "Nhân vật: Vũ Trọng Can", "Nhân vật: Vũ Trọng Phụng", "Nhân vật: Vũ Văn Hiếu", "Nhân vật: Vương Thúc Mậu", "Nhân vật: Bàng Bá Lân", "Nhân vật: Bông Văn Dĩa", "Nhân vật: Bùi Biên", "Nhân vật: Bùi Công Trừng", "Nhân vật: Bùi Đình Diệm", "Nhân vật: Bùi Giáng", "Nhân vật: Bùi Hữu Sủng", "Nhân vật: Bùi Huy Cường", "Nhân vật: Bùi Huy Phồn", "Nhân vật: Bùi Kiến Tín", "Nhân vật: Bùi Kỷ", "Nhân vật: Bùi Lâm", "Nhân vật: Bùi Phong Tư", "Nhân vật: Bùi Thị Hậu", "Nhân vật: Bùi Tường Chiểu", "Nhân vật: Hồ Đắc Di", "Nhân vật: Hồ Đắc Hàm", "Nhân vật: Hồ Huệ Bá", "Nhân vật: Hồ Hữu Tường", "Nhân vật: Hồ Liên", "Nhân vật: Hồ Tá Khanh", "Nhân vật: Hồ Thị Hạnh", "Nhân vật: Hồ Trọng Hiếu", "Nhân vật: Hồ Tùng Mậu", "Nhân vật: Hồ Văn Hiến", "Nhân vật: Hồ Văn Trung", "Nhân vật: Hồ Xuân Lưu", "Nhân vật: Hoàng Đạo Thúy", "Nhân vật: Hoàng Khương Ninh", "Nhân vật: Hoàng Minh Giám", "Nhân vật: Hoàng Minh Giám", "Nhân vật: Hoàng Ngọc Phách", "Nhân vật: Hoàng Phạm Trân", "Nhân vật: Hoàng Phú Sổ", "Nhân vật: Hoàng Thúc Tấn", "Nhân vật: Lê Văn Đệ", "Nhân vật: Lê Văn Hiến", "Nhân vật: Lê Văn Hòe", "Nhân vật: Lê Văn Năng", "Nhân vật: Lê Văn Ngôn", "Nhân vật: Lê Văn Phúc", "Nhân vật: Lê Văn Sĩ", "Nhân vật: Lê Văn Siêu", "Nhân vật: Lê Văn Thiêm", "Nhân vật: Lê Văn Thới", "Nhân vật: Lê Văn Thử", "Nhân vật: Lê Văn Trung", "Nhân vật: Lê Văn Trương", "Nhân vật: Lê Văn Vị", "Nhân vật: Lê Văn Viễn", "Nhân vật: Lê Võ Đài", "Nhân vật: Lương Tri", "Nhân vật: Lương Trọng Hối", "Nhân vật: Lương Văn Nho", "Nhân vật: Lương Vĩnh Thuật", "Nhân vật: Nguyễn Đình Thi", "Nhân vật: Nguyễn Đỗ Cung", "Nhân vật: Nguyễn Đỗ Mục", "Nhân vật: Nguyễn Đóa", "Nhân vật: Nguyễn Đôn Phục", "Nhân vật: Nguyễn Đổng Chi", "Nhân vật: Nguyễn Đức Giới", "Nhân vật: Nguyễn Đức Huy (Ii)", "Nhân vật: Nguyễn Đức Long", "Nhân vật: Nguyễn Đức Nguyên", "Nhân vật: Nguyễn Đức Nhuận", "Nhân vật: Nguyễn Đức Nhuận", "Nhân vật: Nguyễn Đức Nhuận", "Nhân vật: Nguyễn Đức Quỳnh", "Nhân vật: Nguyễn Đức Thuận", "Nhân vật: Nguyễn Gia Trí", "Nhân vật: Nguyễn Gia Tường", "Nhân vật: Nguyễn Giang", "Nhân vật: Nguyễn Hiến Lê", "Nhân vật: Nguyễn Hoàng", "Nhân vật: Nguyễn Tất Thành", "Nhân vật: Nguyễn Thái Sơn", "Nhân vật: Nguyễn Thành Châu", "Nhân vật: Nguyễn Thành Giung", "Nhân vật: Nguyễn Thành Long", "Nhân vật: Nguyễn Thành Tâm", "Nhân vật: Nguyễn Thanh Tích", "Nhân vật: Nguyễn Thành Vĩnh", "Nhân vật: Nguyễn Thế Long", "Nhân vật: Nguyễn Thế Phương", "Nhân vật: Nguyễn Thế Truyền", "Nhân vật: Nguyễn Thị Định", "Nhân vật: Nguyễn Thị Kiêm", "Nhân vật: Nguyễn Thị Lan", "Nhân vật: Nguyễn Thị Thập", "Nhân vật: Nguyễn Thị Trừ", "Nhân vật: Nguyễn Thiệu Lâu", "Nhân vật: Nguyễn Thứ Lễ", "Nhân vật: Nguyễn Thức Canh", "Nhân vật: Nguyễn Tiến Chung", "Nhân vật: Nguyễn Xuân Bái", "Nhân vật: Nguyễn Xuân Khoát", "Nhân vật: Nguyễn Xuân Khuê", "Nhân vật: Nguyễn Xuân Nhí", "Nhân vật: Nguyễn Xuân Oánh", "Nhân vật: Nông Văn Quỳnh", "Nhân vật: Phạm Biểu Tâm", "Nhân vật: Phạm Công Tắc", "Nhân vật: Phạm Duy Khiêm", "Nhân vật: Phạm Đình Ái", "Nhân vật: Phạm Đình Bách", "Nhân vật: Phạm Đình Tân", "Nhân vật: Phạm Đức Hạp", "Nhân vật: Phạm Hoanh", "Nhân vật: Phạm Hữu Lầu", "Nhân vật: Phạm Huy Thông", "Nhân vật: Phạm Khắc Hòe", "Nhân vật: Phạm Kỳ Ngỡl", "Nhân vật: Phạm Lợi", "Nhân vật: Phạm Ngọc Chi", "Nhân vật: Tô Văn Tuấn", "Nhân vật: Tô Vĩnh Diện", "Nhân vật: Tôn Đức Thắng", "Nhân vật: Tôn Quang Phiệt", "Nhân vật: Tôn Thất Tùng", "Nhân vật: Tống Văn Hên", "Nhân vật: Trần Chí Thành", "Nhân vật: Trần Dần", "Nhân vật: Trần Đăng Khoa", "Nhân vật: Trần Đình Đàn", "Nhân vật: Trần Đình Nam", "Nhân vật: Trần Đình Tri", "Nhân vật: Trần Đình Xu", "Nhân vật: Trần Đức Sắc", "Nhân vật: Trần Đức Thảo", "Nhân vật: Trần Hữu Thung", "Nhân vật: Trần Hữu Trang", "Nhân vật: Trần Hữu Trí", "Nhân vật: Trần Hữu Tước", "Nhân vật: Trần Huy Liệu", "Nhân vật: Vi Huyền Đắc", "Nhân vật: Vi Văn Định", "Nhân vật: Võ Bá Hạp", "Nhân vật: Võ Chí Thâm", "Nhân vật: Võ Đông Giang", "Nhân vật: Võ Hải Thu", "Nhân vật: Võ Hóa", "Nhân vật: Võ Hoành", "Nhân vật: Võ Liêm Sơn", "Nhân vật: Võ Nguyên Giáp", "Nhân vật: Võ Nguyên Thủy", "Nhân vật: Võ Oanh", "Nhân vật: Võ Quảng", "Nhân vật: Võ Toàn", "Nhân vật: Võ Tùng", "Nhân vật: Vũ Anh Khanh", "Nhân vật: Vũ Đăng Bằng", "Nhân vật: Vũ Đình Chí", "Nhân vật: Vũ Đình Hòe", "Nhân vật: Vũ Đình Liên", "Sự kiện: Hiệp ước Patơnốt", "Sự kiện: Khởi nghĩa Yên Thế", "Sự kiện: Hàm Nghi ra Chiếu Cần Vương", "Sự kiện: Phong trào Cần Vương", "Sự kiện: Khởi nghĩa Bãi Sậy", "Sự kiện: Khởi nghĩa Ba Đình", "Sự kiện: Khởi nghĩa Hùng Lĩnh", "Sự kiện: Khởi nghĩa Hương Khê", "Sự kiện: Hội Duy Tân được thành lập", "Sự kiện: Thành lập “Việt Nam Quang phục hội”", "Sự kiện: Phong trào Đông Du", "Sự kiện: Đông Kinh Nghĩa Thục", "Sự kiện: Bác Hồ ra đi tìm đường cứu nước", "Sự kiện: Chiến tranh thế giới thứ nhất", "Sự kiện: Thành lập Quốc Tế Cộng Sản", "Sự kiện: Nguyến Ái Quốc gửi bản yêu sách của nhân dân Việt tới hội nghị Vecxay", "Sự kiện: Nguyễn Ái Quốc tham dự Đại hội lần thứ 18 của Đảng Xã hội Pháp", "Sự kiện: Tờ báo “Người cùng khổ” ra số đầu tiên tại Pari do Nguyễn Ái Quốc làm chủ nhiệm", "Sự kiện: Ngày Quốc Tế Phụ Nữ", "Sự kiện: Nguyễn Ái Quốc sang Liên Xô dự hội nghị Quốc tế Nông dân", "Sự kiện: Nguyễn Ái Quốc tham dự Đại hội II Đảng Cộng sản Pháp", "Sự kiện: Thành lập tổ chức Tâm Tâm Xã tại Quảng Châu Trung Quốc", "Sự kiện: Phạm Hồng Thái mưu sát toàn quyền Đông Dương tại Sa Diện", "Sự kiện: Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên" ]
+}, {
+  "tenThoiKi" : "Nước Việt Nam mới",
+  "namBatDau" : "1945",
+  "namKetThuc" : "2023",
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Bàng Bá Lân",
+    "tenGoiKhac" : [ "Bàng Bá Lân" ],
+    "namSinh" : "1916",
+    "namMat" : "1989",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Bông Văn Dĩa",
+    "tenGoiKhac" : [ "Bông Văn Dĩa" ],
+    "namSinh" : "1905",
+    "namMat" : "1996",
+    "queQuan" : "Cà Mau"
+  }, {
+    "hoTen" : "Bùi Biên",
+    "tenGoiKhac" : [ "Bùi Biên" ],
+    "namSinh" : "1891",
+    "namMat" : "1952",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Bùi Công Trừng",
+    "tenGoiKhac" : [ "Bùi Công Trừng" ],
+    "namSinh" : "1905",
+    "namMat" : "1986",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Bùi Đình Diệm",
+    "tenGoiKhac" : [ "Bùi Đình Diệm", "Quang Dũng" ],
+    "namSinh" : "1921",
+    "namMat" : "1988",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Bùi Giáng",
+    "tenGoiKhac" : [ "Bùi Giáng" ],
+    "namSinh" : "1926",
+    "namMat" : "1998",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Bùi Hữu Sủng",
+    "tenGoiKhac" : [ "Bùi Hữu Sủng" ],
+    "namSinh" : "1907",
+    "namMat" : "2000",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Bùi Huy Cường",
+    "tenGoiKhac" : [ "Bùi Huy Cường", "Nam Hương" ],
+    "namSinh" : "1899",
+    "namMat" : "1966",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Bùi Huy Phồn",
+    "tenGoiKhac" : [ "Bùi Huy Phồn", "Đỗ Phồn", "Bùi Như Lạc" ],
+    "namSinh" : "1912",
+    "namMat" : "1990",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Bùi Kiến Tín",
+    "tenGoiKhac" : [ "Bùi Kiến Tín", "Bùi Thử" ],
+    "namSinh" : "1912",
+    "namMat" : "1994",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Bùi Kỷ",
+    "tenGoiKhac" : [ "Bùi Kỷ" ],
+    "namSinh" : "1887",
+    "namMat" : "1960",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Bùi Lâm",
+    "tenGoiKhac" : [ "Bùi Lâm" ],
+    "namSinh" : "1896",
+    "namMat" : "1984",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Bùi Phong Tư",
+    "tenGoiKhac" : [ "Bùi Phong Tư", "Nguyễn Đức Thuận" ],
+    "namSinh" : "1916",
+    "namMat" : "1985",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Bùi Thị Hậu",
+    "tenGoiKhac" : [ "Bùi Thị Hậu" ],
+    "namSinh" : "1881",
+    "namMat" : "1967",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Bùi Tường Chiểu",
+    "tenGoiKhac" : [ "Bùi Tường Chiểu" ],
+    "namSinh" : "1904",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Hồ Đắc Di",
+    "tenGoiKhac" : [ "Hồ Đắc Di" ],
+    "namSinh" : "1901",
+    "namMat" : "1984",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Hồ Đắc Hàm",
+    "tenGoiKhac" : [ "Hồ Đắc Hàm" ],
+    "namSinh" : "1879",
+    "namMat" : "1963",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Hồ Huệ Bá",
+    "tenGoiKhac" : [ "Hồ Huệ Bá" ],
+    "namSinh" : "1894",
+    "namMat" : "1978",
+    "queQuan" : "An Giang"
+  }, {
+    "hoTen" : "Hồ Hữu Tường",
+    "tenGoiKhac" : [ "Hồ Hữu Tường" ],
+    "namSinh" : "1910",
+    "namMat" : "1980",
+    "queQuan" : "Cần Thơ"
+  }, {
+    "hoTen" : "Hồ Liên",
+    "tenGoiKhac" : [ "Hồ Liên", "Hoàng Bích Sơn" ],
+    "namSinh" : "1924",
+    "namMat" : "2000",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Hồ Tá Khanh",
+    "tenGoiKhac" : [ "Hồ Tá Khanh" ],
+    "namSinh" : "1908",
+    "namMat" : "1996",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Hồ Thị Hạnh",
+    "tenGoiKhac" : [ "Hồ Thị Hạnh", "Diệu Không" ],
+    "namSinh" : "1905",
+    "namMat" : "1997",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Hồ Trọng Hiếu",
+    "tenGoiKhac" : [ "Hồ Trọng Hiếu", "Tú Mỡ" ],
+    "namSinh" : "1900",
+    "namMat" : "1976",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Hồ Tùng Mậu",
+    "tenGoiKhac" : [ "Hồ Tùng Mậu" ],
+    "namSinh" : "1896",
+    "namMat" : "1951",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Hồ Văn Hiến",
+    "tenGoiKhac" : [ "Hồ Văn Hiến" ],
+    "namSinh" : "1900",
+    "namMat" : "1957",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Hồ Văn Trung",
+    "tenGoiKhac" : [ "Hồ Văn Trung", "Hồ Biểu Chánh", "Thứ Tiên" ],
+    "namSinh" : "1884",
+    "namMat" : "1958",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Hồ Xuân Lưu",
+    "tenGoiKhac" : [ "Hồ Xuân Lưu", "Trần Quốc Thảo" ],
+    "namSinh" : "1914",
+    "namMat" : "1957",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Hoàng Đạo Thúy",
+    "tenGoiKhac" : [ "Hoàng Đạo Thúy" ],
+    "namSinh" : "1900",
+    "namMat" : "1994",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Hoàng Khương Ninh",
+    "tenGoiKhac" : [ "Hoàng Khương Ninh", "Huỳnh Khương Ninh" ],
+    "namSinh" : "1890",
+    "namMat" : "1950",
+    "queQuan" : "Bà Rịa - Vũng Tàu"
+  }, {
+    "hoTen" : "Hoàng Minh Giám",
+    "tenGoiKhac" : [ "Hoàng Minh Giám" ],
+    "namSinh" : "1904",
+    "namMat" : "1995",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Hoàng Minh Giám",
+    "tenGoiKhac" : [ "Hoàng Minh Giám" ],
+    "namSinh" : "1913",
+    "namMat" : "1992",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Hoàng Ngọc Phách",
+    "tenGoiKhac" : [ "Hoàng Ngọc Phách", "Song An" ],
+    "namSinh" : "1896",
+    "namMat" : "1973",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Hoàng Phạm Trân",
+    "tenGoiKhac" : [ "Hoàng Phạm Trân", "Nhượng Tống", "Mạc Bảo Thần" ],
+    "namSinh" : "1904",
+    "namMat" : "1949",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Hoàng Phú Sổ",
+    "tenGoiKhac" : [ "Hoàng Phú Sổ", "Huỳnh Phú Sổ" ],
+    "namSinh" : "1919",
+    "namMat" : "1947",
+    "queQuan" : "An Giang"
+  }, {
+    "hoTen" : "Hoàng Thúc Tấn",
+    "tenGoiKhac" : [ "Hoàng Thúc Tấn" ],
+    "namSinh" : "1912",
+    "namMat" : "1986",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Lê Văn Đệ",
+    "tenGoiKhac" : [ "Lê Văn Đệ" ],
+    "namSinh" : "1906",
+    "namMat" : "1969",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Lê Văn Hiến",
+    "tenGoiKhac" : [ "Lê Văn Hiến" ],
+    "namSinh" : "1904",
+    "namMat" : "1996",
+    "queQuan" : "Đà Nẵng"
+  }, {
+    "hoTen" : "Lê Văn Hòe",
+    "tenGoiKhac" : [ "Lê Văn Hòe", "Lê Văn Hạc" ],
+    "namSinh" : "1911",
+    "namMat" : "1968",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Lê Văn Năng",
+    "tenGoiKhac" : [ "Lê Văn Năng", "Lê Văn Quới" ],
+    "namSinh" : "1893",
+    "namMat" : "1963",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Lê Văn Ngôn",
+    "tenGoiKhac" : [ "Lê Văn Ngôn", "Bảo Hương" ],
+    "namSinh" : "1908",
+    "namMat" : "1976",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Lê Văn Phúc",
+    "tenGoiKhac" : [ "Lê Văn Phúc", "Lê Thọ Xuân" ],
+    "namSinh" : "1904",
+    "namMat" : "1978",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Lê Văn Sĩ",
+    "tenGoiKhac" : [ "Lê Văn Sĩ", "Võ Sĩ" ],
+    "namSinh" : "1910",
+    "namMat" : "1948",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Lê Văn Siêu",
+    "tenGoiKhac" : [ "Lê Văn Siêu" ],
+    "namSinh" : "1911",
+    "namMat" : "1995",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Lê Văn Thiêm",
+    "tenGoiKhac" : [ "Lê Văn Thiêm" ],
+    "namSinh" : "1918",
+    "namMat" : "1991",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Lê Văn Thới",
+    "tenGoiKhac" : [ "Lê Văn Thới" ],
+    "namSinh" : "1917",
+    "namMat" : "1983",
+    "queQuan" : "Tây Ninh"
+  }, {
+    "hoTen" : "Lê Văn Thử",
+    "tenGoiKhac" : [ "Lê Văn Thử", "Việt Tha" ],
+    "namSinh" : "1906",
+    "namMat" : "1969",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Lê Văn Trung",
+    "tenGoiKhac" : [ "Lê Văn Trung" ],
+    "namSinh" : "1875",
+    "namMat" : "1934",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Lê Văn Trương",
+    "tenGoiKhac" : [ "Lê Văn Trương" ],
+    "namSinh" : "1906",
+    "namMat" : "1964",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Lê Văn Vị",
+    "tenGoiKhac" : [ "Lê Văn Vị", "Vita" ],
+    "namSinh" : "1910",
+    "namMat" : "1956",
+    "queQuan" : "Long An"
+  }, {
+    "hoTen" : "Lê Văn Viễn",
+    "tenGoiKhac" : [ "Lê Văn Viễn", "Bảy Viễn" ],
+    "namSinh" : "1904",
+    "namMat" : "1970",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Lê Võ Đài",
+    "tenGoiKhac" : [ "Lê Võ Đài", "Minh Hương" ],
+    "namSinh" : "1924",
+    "namMat" : "2002",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Lương Tri",
+    "tenGoiKhac" : [ "Lương Tri", "Lê Văn Quới", "Lê Văn Năng" ],
+    "namSinh" : "1893",
+    "namMat" : "1963",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Lương Trọng Hối",
+    "tenGoiKhac" : [ "Lương Trọng Hối" ],
+    "namSinh" : "1888",
+    "namMat" : "1969",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Lương Văn Nho",
+    "tenGoiKhac" : [ "Lương Văn Nho" ],
+    "namSinh" : "1916",
+    "namMat" : "1984",
+    "queQuan" : "Đồng Nai"
+  }, {
+    "hoTen" : "Lương Vĩnh Thuật",
+    "tenGoiKhac" : [ "Lương Vĩnh Thuật", "Thanh Long", "Hành Sơn" ],
+    "namSinh" : "1918",
+    "namMat" : "1982",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Đình Thi",
+    "tenGoiKhac" : [ "Nguyễn Đình Thi" ],
+    "namSinh" : "1924",
+    "namMat" : "2003",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Đỗ Cung",
+    "tenGoiKhac" : [ "Nguyễn Đỗ Cung" ],
+    "namSinh" : "1912",
+    "namMat" : "1977",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Nguyễn Đỗ Mục",
+    "tenGoiKhac" : [ "Nguyễn Đỗ Mục", "Trọng Hữu" ],
+    "namSinh" : "1866",
+    "namMat" : "1949",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Đóa",
+    "tenGoiKhac" : [ "Nguyễn Đóa" ],
+    "namSinh" : "1896",
+    "namMat" : "1993",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Đôn Phục",
+    "tenGoiKhac" : [ "Nguyễn Đôn Phục", "Hi Cán", "Tùng Vân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1954",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Đổng Chi",
+    "tenGoiKhac" : [ "Nguyễn Đổng Chi" ],
+    "namSinh" : "1915",
+    "namMat" : "1984",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Nguyễn Đức Giới",
+    "tenGoiKhac" : [ "Nguyễn Đức Giới", "Thôi Hữu", "Trần Văn Tấn", "Tân Sắc" ],
+    "namSinh" : "1919",
+    "namMat" : "1950",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Đức Huy (Ii)",
+    "tenGoiKhac" : [ "Nguyễn Đức Huy (Ii)", "Hồng Tiêu" ],
+    "namSinh" : "1902",
+    "namMat" : "1985",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Nguyễn Đức Long",
+    "tenGoiKhac" : [ "Nguyễn Đức Long", "Thượng Sĩ" ],
+    "namSinh" : "1908",
+    "namMat" : "1998",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Đức Nguyên",
+    "tenGoiKhac" : [ "Nguyễn Đức Nguyên", "Hoài Thanh" ],
+    "namSinh" : "1909",
+    "namMat" : "1982",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Nguyễn Đức Nhuận",
+    "tenGoiKhac" : [ "Nguyễn Đức Nhuận", "Bút Trà" ],
+    "namSinh" : "1900",
+    "namMat" : "1982",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Đức Nhuận",
+    "tenGoiKhac" : [ "Nguyễn Đức Nhuận" ],
+    "namSinh" : "1900",
+    "namMat" : "1968",
+    "queQuan" : "Trà Vinh"
+  }, {
+    "hoTen" : "Nguyễn Đức Nhuận",
+    "tenGoiKhac" : [ "Nguyễn Đức Nhuận", "Phú Đức" ],
+    "namSinh" : "1901",
+    "namMat" : "1970",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Nguyễn Đức Quỳnh",
+    "tenGoiKhac" : [ "Nguyễn Đức Quỳnh", "Hà Việt Phương", "Hoài Đồng Vọng" ],
+    "namSinh" : "1909",
+    "namMat" : "1974",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Nguyễn Đức Thuận",
+    "tenGoiKhac" : [ "Nguyễn Đức Thuận", "Bùi Phong Tư" ],
+    "namSinh" : "1916",
+    "namMat" : "1985",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Nguyễn Gia Trí",
+    "tenGoiKhac" : [ "Nguyễn Gia Trí" ],
+    "namSinh" : "1908",
+    "namMat" : "1993",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Gia Tường",
+    "tenGoiKhac" : [ "Nguyễn Gia Tường" ],
+    "namSinh" : "1902",
+    "namMat" : "1982",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Giang",
+    "tenGoiKhac" : [ "Nguyễn Giang" ],
+    "namSinh" : "1910",
+    "namMat" : "1969",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Hiến Lê",
+    "tenGoiKhac" : [ "Nguyễn Hiến Lê", "Lộc Đình" ],
+    "namSinh" : "1912",
+    "namMat" : "1984",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Hoàng",
+    "tenGoiKhac" : [ "Nguyễn Hoàng", "Vĩnh Mai" ],
+    "namSinh" : "1918",
+    "namMat" : "1981",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Nguyễn Tất Thành",
+    "tenGoiKhac" : [ "Nguyễn Tất Thành", "Hồ Chí Minh", "Nguyễn Sinh Cung", "Nguyễn Ái Quốc", "Lý Thụy", "Anh Ba", "Vương Sơn Nhi", "Chàng Vương", "Tống Văn Sơ", "Hồ Quang", "Thầu Chín" ],
+    "namSinh" : "1890",
+    "namMat" : "1969",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Nguyễn Thái Sơn",
+    "tenGoiKhac" : [ "Nguyễn Thái Sơn", "Bảy Bình" ],
+    "namSinh" : "1928",
+    "namMat" : "1970",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Nguyễn Thành Châu",
+    "tenGoiKhac" : [ "Nguyễn Thành Châu", "Năm Châu" ],
+    "namSinh" : "1906",
+    "namMat" : "1978",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Nguyễn Thành Giung",
+    "tenGoiKhac" : [ "Nguyễn Thành Giung" ],
+    "namSinh" : "1894",
+    "namMat" : "1959",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Nguyễn Thành Long",
+    "tenGoiKhac" : [ "Nguyễn Thành Long", "Lưu Quỳnh", "Phan Minh Thảo" ],
+    "namSinh" : "1925",
+    "namMat" : "1991",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Thành Tâm",
+    "tenGoiKhac" : [ "Nguyễn Thành Tâm", "Nguyễn Văn Hưởng" ],
+    "namSinh" : "1906",
+    "namMat" : "1998",
+    "queQuan" : "An Giang"
+  }, {
+    "hoTen" : "Nguyễn Thanh Tích",
+    "tenGoiKhac" : [ "Nguyễn Thanh Tích", "Phả Minh" ],
+    "namSinh" : "1881",
+    "namMat" : "1964",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Nguyễn Thành Vĩnh",
+    "tenGoiKhac" : [ "Nguyễn Thành Vĩnh" ],
+    "namSinh" : "1905",
+    "namMat" : "1950",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Nguyễn Thế Long",
+    "tenGoiKhac" : [ "Nguyễn Thế Long" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1951",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Nguyễn Thế Phương",
+    "tenGoiKhac" : [ "Nguyễn Thế Phương", "Nam Đình", "Nguyễn Kì Nam" ],
+    "namSinh" : "1906",
+    "namMat" : "1978",
+    "queQuan" : "Long An"
+  }, {
+    "hoTen" : "Nguyễn Thế Truyền",
+    "tenGoiKhac" : [ "Nguyễn Thế Truyền" ],
+    "namSinh" : "1898",
+    "namMat" : "1969",
+    "queQuan" : "Ninh Bình"
+  }, {
+    "hoTen" : "Nguyễn Thị Định",
+    "tenGoiKhac" : [ "Nguyễn Thị Định" ],
+    "namSinh" : "1920",
+    "namMat" : "1992",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Nguyễn Thị Kiêm",
+    "tenGoiKhac" : [ "Nguyễn Thị Kiêm", "Nguyễn Thị Manh Manh", "Myn", "Nguyễn Văn Myn", "Lệ Thủy" ],
+    "namSinh" : "1914",
+    "namMat" : "Không rõ",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Nguyễn Thị Lan",
+    "tenGoiKhac" : [ "Nguyễn Thị Lan", "Nam Phương" ],
+    "namSinh" : "1914",
+    "namMat" : "1963",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Nguyễn Thị Thập",
+    "tenGoiKhac" : [ "Nguyễn Thị Thập" ],
+    "namSinh" : "1908",
+    "namMat" : "1996",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Nguyễn Thị Trừ",
+    "tenGoiKhac" : [ "Nguyễn Thị Trừ", "Huỳnh Liên" ],
+    "namSinh" : "1923",
+    "namMat" : "1987",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Nguyễn Thiệu Lâu",
+    "tenGoiKhac" : [ "Nguyễn Thiệu Lâu" ],
+    "namSinh" : "1916",
+    "namMat" : "1967",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Thứ Lễ",
+    "tenGoiKhac" : [ "Nguyễn Thứ Lễ", "Thế Lữ", "Lê Ta" ],
+    "namSinh" : "1907",
+    "namMat" : "1989",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nguyễn Thức Canh",
+    "tenGoiKhac" : [ "Nguyễn Thức Canh", "Trần Hữu Công", "Trần Trọng Khắc" ],
+    "namSinh" : "1884",
+    "namMat" : "1965",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Nguyễn Tiến Chung",
+    "tenGoiKhac" : [ "Nguyễn Tiến Chung" ],
+    "namSinh" : "1914",
+    "namMat" : "1976",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Xuân Bái",
+    "tenGoiKhac" : [ "Nguyễn Xuân Bái" ],
+    "namSinh" : "1895",
+    "namMat" : "1972",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Nguyễn Xuân Khoát",
+    "tenGoiKhac" : [ "Nguyễn Xuân Khoát" ],
+    "namSinh" : "1910",
+    "namMat" : "1993",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Xuân Khuê",
+    "tenGoiKhac" : [ "Nguyễn Xuân Khuê", "Sương Nguyệt Anh" ],
+    "namSinh" : "1864",
+    "namMat" : "1921",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Nguyễn Xuân Nhí",
+    "tenGoiKhac" : [ "Nguyễn Xuân Nhí", "Nguyễn Công Tâm" ],
+    "namSinh" : "1912",
+    "namMat" : "1983",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Xuân Oánh",
+    "tenGoiKhac" : [ "Nguyễn Xuân Oánh" ],
+    "namSinh" : "1921",
+    "namMat" : "2003",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nông Văn Quỳnh",
+    "tenGoiKhac" : [ "Nông Văn Quỳnh", "Nông Quốc Chấn" ],
+    "namSinh" : "1923",
+    "namMat" : "2002",
+    "queQuan" : "Cao Bằng"
+  }, {
+    "hoTen" : "Phạm Biểu Tâm",
+    "tenGoiKhac" : [ "Phạm Biểu Tâm" ],
+    "namSinh" : "1913",
+    "namMat" : "1999",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Phạm Công Tắc",
+    "tenGoiKhac" : [ "Phạm Công Tắc" ],
+    "namSinh" : "1890",
+    "namMat" : "1959",
+    "queQuan" : "Long An"
+  }, {
+    "hoTen" : "Phạm Duy Khiêm",
+    "tenGoiKhac" : [ "Phạm Duy Khiêm" ],
+    "namSinh" : "1907",
+    "namMat" : "1974",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Phạm Đình Ái",
+    "tenGoiKhac" : [ "Phạm Đình Ái" ],
+    "namSinh" : "1907",
+    "namMat" : "1993",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Phạm Đình Bách",
+    "tenGoiKhac" : [ "Phạm Đình Bách", "Họa Sơn" ],
+    "namSinh" : "1909",
+    "namMat" : "1968",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Phạm Đình Tân",
+    "tenGoiKhac" : [ "Phạm Đình Tân", "Từ Huệ", "Lĩnh Việt" ],
+    "namSinh" : "1913",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Phạm Đức Hạp",
+    "tenGoiKhac" : [ "Phạm Đức Hạp", "Đức Nhuận" ],
+    "namSinh" : "1897",
+    "namMat" : "1993",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Phạm Hoanh",
+    "tenGoiKhac" : [ "Phạm Hoanh" ],
+    "namSinh" : "1880",
+    "namMat" : "1960",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Phạm Hữu Lầu",
+    "tenGoiKhac" : [ "Phạm Hữu Lầu" ],
+    "namSinh" : "1905",
+    "namMat" : "1959",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Phạm Huy Thông",
+    "tenGoiKhac" : [ "Phạm Huy Thông" ],
+    "namSinh" : "1916",
+    "namMat" : "1988",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Phạm Khắc Hòe",
+    "tenGoiKhac" : [ "Phạm Khắc Hòe" ],
+    "namSinh" : "1902",
+    "namMat" : "1994",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Phạm Kỳ Ngỡl",
+    "tenGoiKhac" : [ "Phạm Kỳ Ngỡl", "Khổng Nghi" ],
+    "namSinh" : "1920",
+    "namMat" : "Không rõ",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Phạm Lợi",
+    "tenGoiKhac" : [ "Phạm Lợi" ],
+    "namSinh" : "1912",
+    "namMat" : "1984",
+    "queQuan" : "Yên Bái"
+  }, {
+    "hoTen" : "Phạm Ngọc Chi",
+    "tenGoiKhac" : [ "Phạm Ngọc Chi" ],
+    "namSinh" : "1909",
+    "namMat" : "1988",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Tô Văn Tuấn",
+    "tenGoiKhac" : [ "Tô Văn Tuấn", "Bình Nguyên Lộc" ],
+    "namSinh" : "1914",
+    "namMat" : "1988",
+    "queQuan" : "Bình Định"
+  }, {
+    "hoTen" : "Tô Vĩnh Diện",
+    "tenGoiKhac" : [ "Tô Vĩnh Diện" ],
+    "namSinh" : "1924",
+    "namMat" : "1954",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Tôn Đức Thắng",
+    "tenGoiKhac" : [ "Tôn Đức Thắng" ],
+    "namSinh" : "1888",
+    "namMat" : "1980",
+    "queQuan" : "An Giang"
+  }, {
+    "hoTen" : "Tôn Quang Phiệt",
+    "tenGoiKhac" : [ "Tôn Quang Phiệt" ],
+    "namSinh" : "1900",
+    "namMat" : "1973",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Tôn Thất Tùng",
+    "tenGoiKhac" : [ "Tôn Thất Tùng" ],
+    "namSinh" : "1912",
+    "namMat" : "1982",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Tống Văn Hên",
+    "tenGoiKhac" : [ "Tống Văn Hên" ],
+    "namSinh" : "1909",
+    "namMat" : "1946",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Trần Chí Thành",
+    "tenGoiKhac" : [ "Trần Chí Thành", "Trần Tấn Quốc" ],
+    "namSinh" : "1914",
+    "namMat" : "1987",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Trần Dần",
+    "tenGoiKhac" : [ "Trần Dần", "Trần Văn Dần" ],
+    "namSinh" : "1926",
+    "namMat" : "1997",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Trần Đăng Khoa",
+    "tenGoiKhac" : [ "Trần Đăng Khoa" ],
+    "namSinh" : "1907",
+    "namMat" : "1989",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Trần Đình Đàn",
+    "tenGoiKhac" : [ "Trần Đình Đàn" ],
+    "namSinh" : "1903",
+    "namMat" : "2002",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Trần Đình Nam",
+    "tenGoiKhac" : [ "Trần Đình Nam" ],
+    "namSinh" : "1896",
+    "namMat" : "1974",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Trần Đình Tri",
+    "tenGoiKhac" : [ "Trần Đình Tri" ],
+    "namSinh" : "1915",
+    "namMat" : "1997",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Trần Đình Xu",
+    "tenGoiKhac" : [ "Trần Đình Xu" ],
+    "namSinh" : "1921",
+    "namMat" : "1969",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Trần Đức Sắc",
+    "tenGoiKhac" : [ "Trần Đức Sắc", "Văn Tân" ],
+    "namSinh" : "1913",
+    "namMat" : "1988",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Trần Đức Thảo",
+    "tenGoiKhac" : [ "Trần Đức Thảo" ],
+    "namSinh" : "1917",
+    "namMat" : "1993",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Trần Hữu Thung",
+    "tenGoiKhac" : [ "Trần Hữu Thung" ],
+    "namSinh" : "1923",
+    "namMat" : "1999",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Trần Hữu Trang",
+    "tenGoiKhac" : [ "Trần Hữu Trang", "Tư Trang" ],
+    "namSinh" : "1906",
+    "namMat" : "1966",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Trần Hữu Trí",
+    "tenGoiKhac" : [ "Trần Hữu Trí", "Nam Cao", "Thủy Rư", "Xuân Du", "Nhiêu Khê", "Nguyệt" ],
+    "namSinh" : "1917",
+    "namMat" : "1951",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Trần Hữu Tước",
+    "tenGoiKhac" : [ "Trần Hữu Tước" ],
+    "namSinh" : "1913",
+    "namMat" : "1983",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Trần Huy Liệu",
+    "tenGoiKhac" : [ "Trần Huy Liệu", "Nam Kiều", "Đẩu Nam", "Hải Khánh", "Côi Vị", "Ẩm Hân", "Kiếm Bút" ],
+    "namSinh" : "1901",
+    "namMat" : "1969",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Vi Huyền Đắc",
+    "tenGoiKhac" : [ "Vi Huyền Đắc", "Giới Chi" ],
+    "namSinh" : "1899",
+    "namMat" : "1976",
+    "queQuan" : "Hải Phòng"
+  }, {
+    "hoTen" : "Vi Văn Định",
+    "tenGoiKhac" : [ "Vi Văn Định" ],
+    "namSinh" : "1878",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Võ Bá Hạp",
+    "tenGoiKhac" : [ "Võ Bá Hạp", "Trúc Khê", "Nguyên Bích" ],
+    "namSinh" : "1876",
+    "namMat" : "1948",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Võ Chí Thâm",
+    "tenGoiKhac" : [ "Võ Chí Thâm", "Giác Nhiên" ],
+    "namSinh" : "1877",
+    "namMat" : "1979",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Võ Đông Giang",
+    "tenGoiKhac" : [ "Võ Đông Giang", "Phan Bá" ],
+    "namSinh" : "1923",
+    "namMat" : "1998",
+    "queQuan" : "Phú Yên"
+  }, {
+    "hoTen" : "Võ Hải Thu",
+    "tenGoiKhac" : [ "Võ Hải Thu", "Nguyễn Hải Thần" ],
+    "namSinh" : "1878",
+    "namMat" : "1954",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Võ Hóa",
+    "tenGoiKhac" : [ "Võ Hóa", "Khánh Anh", "Chơn Húy" ],
+    "namSinh" : "1895",
+    "namMat" : "1961",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Võ Hoành",
+    "tenGoiKhac" : [ "Võ Hoành", "Ngọc Tiểu" ],
+    "namSinh" : "1873",
+    "namMat" : "1946",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Võ Liêm Sơn",
+    "tenGoiKhac" : [ "Võ Liêm Sơn", "Ngạc Am" ],
+    "namSinh" : "1888",
+    "namMat" : "1949",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Võ Nguyên Giáp",
+    "tenGoiKhac" : [ "Võ Nguyên Giáp" ],
+    "namSinh" : "1911",
+    "namMat" : "2013",
+    "queQuan" : "Quảng Bình"
+  }, {
+    "hoTen" : "Võ Nguyên Thủy",
+    "tenGoiKhac" : [ "Võ Nguyên Thủy", "Võ Nguyên Bác", "Nguyễn Sơn", "Võ Hồng Thủy" ],
+    "namSinh" : "1908",
+    "namMat" : "1956",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Võ Oanh",
+    "tenGoiKhac" : [ "Võ Oanh" ],
+    "namSinh" : "1890",
+    "namMat" : "1977",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Võ Quảng",
+    "tenGoiKhac" : [ "Võ Quảng" ],
+    "namSinh" : "1920",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Võ Toàn",
+    "tenGoiKhac" : [ "Võ Toàn", "Võ Chí Công" ],
+    "namSinh" : "1913",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Võ Tùng",
+    "tenGoiKhac" : [ "Võ Tùng" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1955",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Vũ Anh Khanh",
+    "tenGoiKhac" : [ "Vũ Anh Khanh", "Nguyễn Năm" ],
+    "namSinh" : "1926",
+    "namMat" : "1956",
+    "queQuan" : "Bình Thuận"
+  }, {
+    "hoTen" : "Vũ Đăng Bằng",
+    "tenGoiKhac" : [ "Vũ Đăng Bằng", "Vũ Bằng", "Tiêu Liêu", "Lê Tâm", "Vũ Tường Khanh", "Hoàng Thị Trâm" ],
+    "namSinh" : "1914",
+    "namMat" : "1984",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Vũ Đình Chí",
+    "tenGoiKhac" : [ "Vũ Đình Chí", "Tam Lang" ],
+    "namSinh" : "1901",
+    "namMat" : "1986",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Vũ Đình Hòe",
+    "tenGoiKhac" : [ "Vũ Đình Hòe" ],
+    "namSinh" : "1912",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Vũ Đình Liên",
+    "tenGoiKhac" : [ "Vũ Đình Liên" ],
+    "namSinh" : "1913",
+    "namMat" : "1996",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Hồ Văn Huê",
+    "tenGoiKhac" : [ "Hồ Văn Huê" ],
+    "namSinh" : "1917",
+    "namMat" : "1976",
+    "queQuan" : "Long An"
+  }, {
+    "hoTen" : "Hoàng Đình Tí",
+    "tenGoiKhac" : [ "Hoàng Đình Tí", "Hoàng Phương" ],
+    "namSinh" : "1924",
+    "namMat" : "2001",
+    "queQuan" : "Hải Phòng"
+  }, {
+    "hoTen" : "Hoàng Kiện",
+    "tenGoiKhac" : [ "Hoàng Kiện" ],
+    "namSinh" : "1921",
+    "namMat" : "2000",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Hoàng Lệ Kha",
+    "tenGoiKhac" : [ "Hoàng Lệ Kha" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1960",
+    "queQuan" : "Tây Ninh"
+  }, {
+    "hoTen" : "Hoàng Minh Tuynh",
+    "tenGoiKhac" : [ "Hoàng Minh Tuynh" ],
+    "namSinh" : "1916",
+    "namMat" : "1977",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Hoàng Phê",
+    "tenGoiKhac" : [ "Hoàng Phê" ],
+    "namSinh" : "1919",
+    "namMat" : "2005",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Hoàng Tố Nguyên",
+    "tenGoiKhac" : [ "Hoàng Tố Nguyên" ],
+    "namSinh" : "1929",
+    "namMat" : "1975",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Hoàng Trung Thông",
+    "tenGoiKhac" : [ "Hoàng Trung Thông" ],
+    "namSinh" : "1925",
+    "namMat" : "1993",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Hoàng Tuệ",
+    "tenGoiKhac" : [ "Hoàng Tuệ" ],
+    "namSinh" : "1921",
+    "namMat" : "1999",
+    "queQuan" : "Quảng Bình"
+  }, {
+    "hoTen" : "Hoàng Văn Hành",
+    "tenGoiKhac" : [ "Hoàng Văn Hành" ],
+    "namSinh" : "1934",
+    "namMat" : "2003",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Hoàng Văn Hương",
+    "tenGoiKhac" : [ "Hoàng Văn Hương", "Hùng Lân" ],
+    "namSinh" : "1922",
+    "namMat" : "1998",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Hoàng Văn Lễ",
+    "tenGoiKhac" : [ "Hoàng Văn Lễ" ],
+    "namSinh" : "1940",
+    "namMat" : "1963",
+    "queQuan" : "Bình Thuận"
+  }, {
+    "hoTen" : "Hoàng Văn Thái",
+    "tenGoiKhac" : [ "Hoàng Văn Thái" ],
+    "namSinh" : "1915",
+    "namMat" : "1986",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Hoàng Văn Thiệu",
+    "tenGoiKhac" : [ "Hoàng Văn Thiệu", "Hoàng Văn Khánh" ],
+    "namSinh" : "1923",
+    "namMat" : "2002",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Huỳnh Văn Bánh",
+    "tenGoiKhac" : [ "Huỳnh Văn Bánh" ],
+    "namSinh" : "1922",
+    "namMat" : "1969",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Huỳnh Văn Gấm",
+    "tenGoiKhac" : [ "Huỳnh Văn Gấm" ],
+    "namSinh" : "1922",
+    "namMat" : "1987",
+    "queQuan" : "Long An"
+  }, {
+    "hoTen" : "Lâm Thanh Lang",
+    "tenGoiKhac" : [ "Lâm Thanh Lang", "Xuân Khải", "Yến Lan" ],
+    "namSinh" : "1916",
+    "namMat" : "1998",
+    "queQuan" : "Bình Định"
+  }, {
+    "hoTen" : "Lê Khâm",
+    "tenGoiKhac" : [ "Lê Khâm", "Phan Tứ" ],
+    "namSinh" : "1930",
+    "namMat" : "1995",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Lê Minh Xuân",
+    "tenGoiKhac" : [ "Lê Minh Xuân" ],
+    "namSinh" : "1935",
+    "namMat" : "1968",
+    "queQuan" : "Long An"
+  }, {
+    "hoTen" : "Lê Quang Hương",
+    "tenGoiKhac" : [ "Lê Quang Hương", "Lê Hương" ],
+    "namSinh" : "1922",
+    "namMat" : "Không rõ",
+    "queQuan" : "Đồng Tháp"
+  } ],
+  "danhSachSuKien" : [ ],
+  "thongTinLienQuan" : [ "Nhân vật: Bàng Bá Lân", "Nhân vật: Bông Văn Dĩa", "Nhân vật: Bùi Biên", "Nhân vật: Bùi Công Trừng", "Nhân vật: Bùi Đình Diệm", "Nhân vật: Bùi Giáng", "Nhân vật: Bùi Hữu Sủng", "Nhân vật: Bùi Huy Cường", "Nhân vật: Bùi Huy Phồn", "Nhân vật: Bùi Kiến Tín", "Nhân vật: Bùi Kỷ", "Nhân vật: Bùi Lâm", "Nhân vật: Bùi Phong Tư", "Nhân vật: Bùi Thị Hậu", "Nhân vật: Bùi Tường Chiểu", "Nhân vật: Hồ Đắc Di", "Nhân vật: Hồ Đắc Hàm", "Nhân vật: Hồ Huệ Bá", "Nhân vật: Hồ Hữu Tường", "Nhân vật: Hồ Liên", "Nhân vật: Hồ Tá Khanh", "Nhân vật: Hồ Thị Hạnh", "Nhân vật: Hồ Trọng Hiếu", "Nhân vật: Hồ Tùng Mậu", "Nhân vật: Hồ Văn Hiến", "Nhân vật: Hồ Văn Trung", "Nhân vật: Hồ Xuân Lưu", "Nhân vật: Hoàng Đạo Thúy", "Nhân vật: Hoàng Khương Ninh", "Nhân vật: Hoàng Minh Giám", "Nhân vật: Hoàng Minh Giám", "Nhân vật: Hoàng Ngọc Phách", "Nhân vật: Hoàng Phạm Trân", "Nhân vật: Hoàng Phú Sổ", "Nhân vật: Hoàng Thúc Tấn", "Nhân vật: Lê Văn Đệ", "Nhân vật: Lê Văn Hiến", "Nhân vật: Lê Văn Hòe", "Nhân vật: Lê Văn Năng", "Nhân vật: Lê Văn Ngôn", "Nhân vật: Lê Văn Phúc", "Nhân vật: Lê Văn Sĩ", "Nhân vật: Lê Văn Siêu", "Nhân vật: Lê Văn Thiêm", "Nhân vật: Lê Văn Thới", "Nhân vật: Lê Văn Thử", "Nhân vật: Lê Văn Trung", "Nhân vật: Lê Văn Trương", "Nhân vật: Lê Văn Vị", "Nhân vật: Lê Văn Viễn", "Nhân vật: Lê Võ Đài", "Nhân vật: Lương Tri", "Nhân vật: Lương Trọng Hối", "Nhân vật: Lương Văn Nho", "Nhân vật: Lương Vĩnh Thuật", "Nhân vật: Nguyễn Đình Thi", "Nhân vật: Nguyễn Đỗ Cung", "Nhân vật: Nguyễn Đỗ Mục", "Nhân vật: Nguyễn Đóa", "Nhân vật: Nguyễn Đôn Phục", "Nhân vật: Nguyễn Đổng Chi", "Nhân vật: Nguyễn Đức Giới", "Nhân vật: Nguyễn Đức Huy (Ii)", "Nhân vật: Nguyễn Đức Long", "Nhân vật: Nguyễn Đức Nguyên", "Nhân vật: Nguyễn Đức Nhuận", "Nhân vật: Nguyễn Đức Nhuận", "Nhân vật: Nguyễn Đức Nhuận", "Nhân vật: Nguyễn Đức Quỳnh", "Nhân vật: Nguyễn Đức Thuận", "Nhân vật: Nguyễn Gia Trí", "Nhân vật: Nguyễn Gia Tường", "Nhân vật: Nguyễn Giang", "Nhân vật: Nguyễn Hiến Lê", "Nhân vật: Nguyễn Hoàng", "Nhân vật: Nguyễn Tất Thành", "Nhân vật: Nguyễn Thái Sơn", "Nhân vật: Nguyễn Thành Châu", "Nhân vật: Nguyễn Thành Giung", "Nhân vật: Nguyễn Thành Long", "Nhân vật: Nguyễn Thành Tâm", "Nhân vật: Nguyễn Thanh Tích", "Nhân vật: Nguyễn Thành Vĩnh", "Nhân vật: Nguyễn Thế Long", "Nhân vật: Nguyễn Thế Phương", "Nhân vật: Nguyễn Thế Truyền", "Nhân vật: Nguyễn Thị Định", "Nhân vật: Nguyễn Thị Kiêm", "Nhân vật: Nguyễn Thị Lan", "Nhân vật: Nguyễn Thị Thập", "Nhân vật: Nguyễn Thị Trừ", "Nhân vật: Nguyễn Thiệu Lâu", "Nhân vật: Nguyễn Thứ Lễ", "Nhân vật: Nguyễn Thức Canh", "Nhân vật: Nguyễn Tiến Chung", "Nhân vật: Nguyễn Xuân Bái", "Nhân vật: Nguyễn Xuân Khoát", "Nhân vật: Nguyễn Xuân Khuê", "Nhân vật: Nguyễn Xuân Nhí", "Nhân vật: Nguyễn Xuân Oánh", "Nhân vật: Nông Văn Quỳnh", "Nhân vật: Phạm Biểu Tâm", "Nhân vật: Phạm Công Tắc", "Nhân vật: Phạm Duy Khiêm", "Nhân vật: Phạm Đình Ái", "Nhân vật: Phạm Đình Bách", "Nhân vật: Phạm Đình Tân", "Nhân vật: Phạm Đức Hạp", "Nhân vật: Phạm Hoanh", "Nhân vật: Phạm Hữu Lầu", "Nhân vật: Phạm Huy Thông", "Nhân vật: Phạm Khắc Hòe", "Nhân vật: Phạm Kỳ Ngỡl", "Nhân vật: Phạm Lợi", "Nhân vật: Phạm Ngọc Chi", "Nhân vật: Tô Văn Tuấn", "Nhân vật: Tô Vĩnh Diện", "Nhân vật: Tôn Đức Thắng", "Nhân vật: Tôn Quang Phiệt", "Nhân vật: Tôn Thất Tùng", "Nhân vật: Tống Văn Hên", "Nhân vật: Trần Chí Thành", "Nhân vật: Trần Dần", "Nhân vật: Trần Đăng Khoa", "Nhân vật: Trần Đình Đàn", "Nhân vật: Trần Đình Nam", "Nhân vật: Trần Đình Tri", "Nhân vật: Trần Đình Xu", "Nhân vật: Trần Đức Sắc", "Nhân vật: Trần Đức Thảo", "Nhân vật: Trần Hữu Thung", "Nhân vật: Trần Hữu Trang", "Nhân vật: Trần Hữu Trí", "Nhân vật: Trần Hữu Tước", "Nhân vật: Trần Huy Liệu", "Nhân vật: Vi Huyền Đắc", "Nhân vật: Vi Văn Định", "Nhân vật: Võ Bá Hạp", "Nhân vật: Võ Chí Thâm", "Nhân vật: Võ Đông Giang", "Nhân vật: Võ Hải Thu", "Nhân vật: Võ Hóa", "Nhân vật: Võ Hoành", "Nhân vật: Võ Liêm Sơn", "Nhân vật: Võ Nguyên Giáp", "Nhân vật: Võ Nguyên Thủy", "Nhân vật: Võ Oanh", "Nhân vật: Võ Quảng", "Nhân vật: Võ Toàn", "Nhân vật: Võ Tùng", "Nhân vật: Vũ Anh Khanh", "Nhân vật: Vũ Đăng Bằng", "Nhân vật: Vũ Đình Chí", "Nhân vật: Vũ Đình Hòe", "Nhân vật: Vũ Đình Liên", "Nhân vật: Hồ Văn Huê", "Nhân vật: Hoàng Đình Tí", "Nhân vật: Hoàng Kiện", "Nhân vật: Hoàng Lệ Kha", "Nhân vật: Hoàng Minh Tuynh", "Nhân vật: Hoàng Phê", "Nhân vật: Hoàng Tố Nguyên", "Nhân vật: Hoàng Trung Thông", "Nhân vật: Hoàng Tuệ", "Nhân vật: Hoàng Văn Hành", "Nhân vật: Hoàng Văn Hương", "Nhân vật: Hoàng Văn Lễ", "Nhân vật: Hoàng Văn Thái", "Nhân vật: Hoàng Văn Thiệu", "Nhân vật: Huỳnh Văn Bánh", "Nhân vật: Huỳnh Văn Gấm", "Nhân vật: Lâm Thanh Lang", "Nhân vật: Lê Khâm", "Nhân vật: Lê Minh Xuân", "Nhân vật: Lê Quang Hương" ]
+} ]

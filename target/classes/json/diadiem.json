@@ -1,0 +1,4133 @@
+[ {
+  "tenDiaDiem" : "Hồ Chí Minh",
+  "noiDung" : "Thành phố Hồ Chí Minh ban đầu được gọi là Prey Nokor, thành phố sau đó hình thành nhờ công cuộc khai phá miền Nam của nhà Nguyễn. Năm 1698, theo lệnh Chúa Nguyễn, Nguyễn Hữu Cảnh vào Nam kinh lược lập ra phủ Gia Định để cai quản vùng đất mới phía Nam và lập ra hai huyện đầu tiên Phước Long và Tân Bình thuộc phủ Gia Định.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Quân Pháp đánh chiếm tỉnh thành Gia Định",
+    "namBatDau" : "1859",
+    "namKetThuc" : "1859"
+  } ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Hồ Văn Bôi",
+    "tenGoiKhac" : [ "Hồ Văn Bôi" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1804",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Lê Văn Khôi",
+    "tenGoiKhac" : [ "Lê Văn Khôi" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1834",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Lê Văn Lộc",
+    "tenGoiKhac" : [ "Lê Văn Lộc" ],
+    "namSinh" : "1830",
+    "namMat" : "1858",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Lưu Đình Lễ",
+    "tenGoiKhac" : [ "Lưu Đình Lễ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Phạm Hoằng Đạt",
+    "tenGoiKhac" : [ "Phạm Hoằng Đạt" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Tổng Lung",
+    "tenGoiKhac" : [ "Tổng Lung" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Đào Văn Thử",
+    "tenGoiKhac" : [ "Đào Văn Thử" ],
+    "namSinh" : "1921",
+    "namMat" : "1946",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Lê Tấn Bê",
+    "tenGoiKhac" : [ "Lê Tấn Bê" ],
+    "namSinh" : "1923",
+    "namMat" : "1946",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Lê Thị Bính",
+    "tenGoiKhac" : [ "Lê Thị Bính" ],
+    "namSinh" : "1879",
+    "namMat" : "1946",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Phạm Văn Chí",
+    "tenGoiKhac" : [ "Phạm Văn Chí" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Phạm Văn Sáng",
+    "tenGoiKhac" : [ "Phạm Văn Sáng" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1941",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Phan Phát Sanh",
+    "tenGoiKhac" : [ "Phan Phát Sanh", "Phan Xích Long" ],
+    "namSinh" : "1893",
+    "namMat" : "1916",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Lê Văn Trung",
+    "tenGoiKhac" : [ "Lê Văn Trung" ],
+    "namSinh" : "1875",
+    "namMat" : "1934",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Lê Văn Viễn",
+    "tenGoiKhac" : [ "Lê Văn Viễn", "Bảy Viễn" ],
+    "namSinh" : "1904",
+    "namMat" : "1970",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Nguyễn Đức Nhuận",
+    "tenGoiKhac" : [ "Nguyễn Đức Nhuận", "Phú Đức" ],
+    "namSinh" : "1901",
+    "namMat" : "1970",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Nguyễn Thị Lan",
+    "tenGoiKhac" : [ "Nguyễn Thị Lan", "Nam Phương" ],
+    "namSinh" : "1914",
+    "namMat" : "1963",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Tống Văn Hên",
+    "tenGoiKhac" : [ "Tống Văn Hên" ],
+    "namSinh" : "1909",
+    "namMat" : "1946",
+    "queQuan" : "TP Hồ Chí Minh"
+  }, {
+    "hoTen" : "Huỳnh Văn Bánh",
+    "tenGoiKhac" : [ "Huỳnh Văn Bánh" ],
+    "namSinh" : "1922",
+    "namMat" : "1969",
+    "queQuan" : "TP Hồ Chí Minh"
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Quân Pháp đánh chiếm tỉnh thành Gia Định", "Nhân vật: Hồ Văn Bôi", "Nhân vật: Lê Văn Khôi", "Nhân vật: Lê Văn Lộc", "Nhân vật: Lưu Đình Lễ", "Nhân vật: Phạm Hoằng Đạt", "Nhân vật: Tổng Lung", "Nhân vật: Đào Văn Thử", "Nhân vật: Lê Tấn Bê", "Nhân vật: Lê Thị Bính", "Nhân vật: Phạm Văn Chí", "Nhân vật: Phạm Văn Sáng", "Nhân vật: Phan Phát Sanh", "Nhân vật: Lê Văn Trung", "Nhân vật: Lê Văn Viễn", "Nhân vật: Nguyễn Đức Nhuận", "Nhân vật: Nguyễn Thị Lan", "Nhân vật: Tống Văn Hên", "Nhân vật: Huỳnh Văn Bánh" ]
+}, {
+  "tenDiaDiem" : "Gia Định",
+  "noiDung" : "Gia Định là một địa danh cũ ở miền Nam Việt Nam. Trải bao biến cố, ngày nay, địa danh ấy chỉ còn dùng để chỉ khu vực trung tâm quận Bình Thạnh của Thành phố Hồ Chí Minh.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam",
+    "namBatDau" : "1698",
+    "namKetThuc" : "1698"
+  }, {
+    "tenSuKien" : "Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong",
+    "namBatDau" : "1777",
+    "namKetThuc" : "1777"
+  }, {
+    "tenSuKien" : "Tây Sơn lật đổ chính quyền họ Trịnh",
+    "namBatDau" : "1786",
+    "namKetThuc" : "1786"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Lê Văn Khôi",
+    "namBatDau" : "1833",
+    "namKetThuc" : "1835"
+  }, {
+    "tenSuKien" : "Hiệp ước Nhâm Tuất",
+    "namBatDau" : "1862",
+    "namKetThuc" : "1862"
+  }, {
+    "tenSuKien" : "Quân Pháp đánh chiếm tỉnh thành Gia Định",
+    "namBatDau" : "1859",
+    "namKetThuc" : "1859"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam", "Sự kiện: Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong", "Sự kiện: Tây Sơn lật đổ chính quyền họ Trịnh", "Sự kiện: Khởi nghĩa Lê Văn Khôi", "Sự kiện: Hiệp ước Nhâm Tuất", "Sự kiện: Quân Pháp đánh chiếm tỉnh thành Gia Định" ]
+}, {
+  "tenDiaDiem" : "Việt Trì",
+  "noiDung" : "Việt Trì là trung tâm chính trị, hành chính và kinh tế, xã hội của tỉnh Phú Thọ và trung tâm của liên tỉnh phía bắc, nằm ở phía đông của tỉnh, bên tả ngạn sông Hồng, bên kia là huyện Ba Vì, Hà Nội. Đây là nơi có kinh đô Văn Lang - Kinh đô đầu tiên của người Việt, quê hương đất tổ vua Hùng. Tháng ba âm lịch hàng năm, vào dịp Giỗ tổ Hùng Vương, hàng triệu con cháu Lạc Hồng từ khắp cả nước lại nô nức về núi Nghĩa Lĩnh nằm tại địa phận thôn Cổ Tích - xã Hi Cương - Việt Trì để thăm viếng tổ tông",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Cổ Loa",
+  "noiDung" : "Cổ Loa là di tích lịch sử nổi tiếng, thuộc địa phận huyện Đông Anh cách trung tâm Hà Nội khoảng 17km về hướng Tây Bắc. Đây là thủ đô thứ 2 của Việt Nam sau Phong Châu (Phú Thọ). Vào cuối thời Hùng Vương, vua nước Thục tên Phán, chiếm được nước của Hùng Vương, lập nước Âu Lạc, xưng là An Dương Vương, đóng đô ở Phong Khuê (Cổ Loa ngày nay). Sau đó ông cho xây dựng một khu thành lớn mà người sau gọi là Loa thành hay thành Cổ Loa. Khu vực Cổ Loa là một khu thành đất đồ sộ với 3 vòng thành, chiều dài cả 3 vòng thành tổng cộng hơn 16 cây số. Đây cũng là kinh đô từ năm 939 đến 965 thuộc triều đại Ngô Quyền, triều đại gắn liền với chiến công hiển hách trên sông Bạch Đằng, đánh bại quân xâm lược Nam Hán.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Ngô Quyền xưng vương, đóng đô ở Cổ Loa",
+    "namBatDau" : "939",
+    "namKetThuc" : "939"
+  }, {
+    "tenSuKien" : "Nước Âu lạc của An Dương Vương thành lập",
+    "namBatDau" : "207",
+    "namKetThuc" : "207"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Ngô Quyền xưng vương, đóng đô ở Cổ Loa", "Sự kiện: Nước Âu lạc của An Dương Vương thành lập" ]
+}, {
+  "tenDiaDiem" : "Hoa Lư",
+  "noiDung" : "Hoa Lư nay là xã Trường Yên, huyện Hoa Lư, tỉnh Ninh Bình, cách Hà Nội chừng 100km về phía Nam theo Quốc lộ 1A. Đây là kinh đô thuộc các triều đại nhà Đinh- Đinh Tiên Hoàng (968-980), nhà Tiền Lê-Lê Đại Hành (980-1009). Năm 968, Đinh Bộ Lĩnh lên ngôi hoàng đế, gọi là Đinh Tiên Hoàng, đặt tên nước là Đại Cồ Việt và chọn Hoa Lư làm kinh đô của đất nước. Hoa Lư ghi các dấu ấn lịch sử: thống nhất giang sơn, đánh Tống - dẹp Chiêm và phát tích quá trình định đô Hà Nội.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, thống nhất đất nước, lên ngôi vua",
+    "namBatDau" : "968",
+    "namKetThuc" : "968"
+  }, {
+    "tenSuKien" : "Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư",
+    "namBatDau" : "980",
+    "namKetThuc" : "1009"
+  }, {
+    "tenSuKien" : "Lý Thái Tổ dời đô về Đại la, đổi tên thành Thăng Long",
+    "namBatDau" : "1010",
+    "namKetThuc" : "1010"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, thống nhất đất nước, lên ngôi vua", "Sự kiện: Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư", "Sự kiện: Lý Thái Tổ dời đô về Đại la, đổi tên thành Thăng Long" ]
+}, {
+  "tenDiaDiem" : "Giao Châu",
+  "noiDung" : "Giao Châu là tên một châu hoặc phủ thời xưa, bao trùm vùng đất miền Bắc Việt Nam ngày nay. Ban đầu Giao Châu còn bao gồm một phần đất Quảng Tây và Quảng Đông thuộc Trung Quốc ngày nay.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Nhà Đường đổi Giao Châu thành An Nam đô hộ phủ",
+    "namBatDau" : "679",
+    "namKetThuc" : "679"
+  }, {
+    "tenSuKien" : "Nhà Hán đặt Giao Chỉ thành Giao Châu",
+    "namBatDau" : "203",
+    "namKetThuc" : "203"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Nhà Đường đổi Giao Châu thành An Nam đô hộ phủ", "Sự kiện: Nhà Hán đặt Giao Chỉ thành Giao Châu" ]
+}, {
+  "tenDiaDiem" : "Thăng Long",
+  "noiDung" : "Thăng Long là kinh đô của nước Đại Việt thời Lý, Trần, Lê, Mạc, Lê Trung hưng. Năm 1010, tương truyền khi vua Lý Công Uẩn rời kinh đô từ Hoa Lư đến đất Đại La thì thấy rồng bay lên nên gọi tên kinh đô mới là Thăng Long, hay \"rồng bay lên\" theo nghĩa Hán Việt. Trong suốt thời kỳ của các triều đại Lý, Trần, Lê, Mạc, kinh thành Thăng Long là nơi buôn bán, trung tâm văn hóa, giáo dục của cả miền Bắc. Khi Tây Sơn rồi nhà Nguyễn lên nắm quyền trị vì, kinh đô được chuyển về Huế và Thăng Long bắt đầu mang tên Hà Nội từ năm 1831, dưới thời vua Minh Mạng.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Trận Hàm Tử",
+    "namBatDau" : "1285",
+    "namKetThuc" : "1285"
+  }, {
+    "tenSuKien" : "Chiến thắng quân Nguyên lần ba",
+    "namBatDau" : "1288",
+    "namKetThuc" : "1288"
+  }, {
+    "tenSuKien" : "Chiến Thắng Bạch Đằng năm 1288",
+    "namBatDau" : "1288",
+    "namKetThuc" : "1288"
+  }, {
+    "tenSuKien" : "Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ",
+    "namBatDau" : "1400",
+    "namKetThuc" : "1400"
+  }, {
+    "tenSuKien" : "Cuộc xâm lược của nhà Minh 1406-1407",
+    "namBatDau" : "1406",
+    "namKetThuc" : "1407"
+  }, {
+    "tenSuKien" : "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc",
+    "namBatDau" : "1425",
+    "namKetThuc" : "1426"
+  }, {
+    "tenSuKien" : "Trận Tốt Động – Chúc Động",
+    "namBatDau" : "1426",
+    "namKetThuc" : "1426"
+  }, {
+    "tenSuKien" : "Trận Chi Lăng – Xương Giang",
+    "namBatDau" : "1427",
+    "namKetThuc" : "1427"
+  }, {
+    "tenSuKien" : "Lê Lợi lên ngôi vua ở Đông đô, đặt lại quốc hiệu là Đại Việt",
+    "namBatDau" : "1428",
+    "namKetThuc" : "1428"
+  }, {
+    "tenSuKien" : "Khởi Nghĩa Trần Cảo",
+    "namBatDau" : "1516",
+    "namKetThuc" : "1516"
+  }, {
+    "tenSuKien" : "Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều",
+    "namBatDau" : "1543",
+    "namKetThuc" : "1592"
+  }, {
+    "tenSuKien" : "Nhà Mạc sụp đổ",
+    "namBatDau" : "1592",
+    "namKetThuc" : "1592"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Nguyễn Hữu Cầu",
+    "namBatDau" : "1471",
+    "namKetThuc" : "1751"
+  }, {
+    "tenSuKien" : "Tây Sơn lật đổ chính quyền họ Trịnh",
+    "namBatDau" : "1786",
+    "namKetThuc" : "1786"
+  }, {
+    "tenSuKien" : "Quân Thanh xâm lược nước ta",
+    "namBatDau" : "1788",
+    "namKetThuc" : "1788"
+  }, {
+    "tenSuKien" : "Vua Quang Trung đại phá quân Thanh",
+    "namBatDau" : "1789",
+    "namKetThuc" : "1789"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Trận Hàm Tử", "Sự kiện: Chiến thắng quân Nguyên lần ba", "Sự kiện: Chiến Thắng Bạch Đằng năm 1288", "Sự kiện: Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ", "Sự kiện: Cuộc xâm lược của nhà Minh 1406-1407", "Sự kiện: Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc", "Sự kiện: Trận Tốt Động – Chúc Động", "Sự kiện: Trận Chi Lăng – Xương Giang", "Sự kiện: Lê Lợi lên ngôi vua ở Đông đô, đặt lại quốc hiệu là Đại Việt", "Sự kiện: Khởi Nghĩa Trần Cảo", "Sự kiện: Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều", "Sự kiện: Nhà Mạc sụp đổ", "Sự kiện: Khởi nghĩa Nguyễn Hữu Cầu", "Sự kiện: Tây Sơn lật đổ chính quyền họ Trịnh", "Sự kiện: Quân Thanh xâm lược nước ta", "Sự kiện: Vua Quang Trung đại phá quân Thanh" ]
+}, {
+  "tenDiaDiem" : "Sông Cầu",
+  "noiDung" : "Sông Cầu hay còn gọi là sông Như Nguyệt, sông Thị Cầu, sông Nguyệt Đức (xưa kia còn có tên là sông Vũ Bình), là con sông quan trọng nhất trong hệ thống sông Thái Bình, dòng sông có tổng chiều dài 290km bắt nguồn từ núi Văn Ôn, chảy qua nhiều làng mạc, cuối cùng hợp lưu với sông Thương để tạo thành sông Thái Bình. Sông Như Nguyệt là nơi diễn ra trận đánh nổi tiếng của quân đội nhà Lý dưới sự chỉ của danh tướng Lý Thường Kiệt, là minh chứng về trận đánh Như Nguyệt hào hùng đã đánh đuổi 10 vạn quân bắc Tống do Quách Quỳ làm chỉ huy.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Lý Thường Kiệt lãnh đạo kháng chiến chống Tống thắng lợi",
+    "namBatDau" : "1077",
+    "namKetThuc" : "1077"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Lý Thường Kiệt lãnh đạo kháng chiến chống Tống thắng lợi" ]
+}, {
+  "tenDiaDiem" : "Cửa Hàm Tử",
+  "noiDung" : "Cửa Hàm Tử xưa thuộc xã Hàm Tử, huyện Khoái Châu, Hưng Yên. Tháng 5 năm 1285, sau cuộc rút lui chiến lược về Thiên Trường (tháng 2 năm 1285), và vào Thanh Hoá (tháng 4 năm 1285), vua Trần bắt đầu mở cuộc phản công vào các cứ điểm quan trọng của quân Nguyên tại vùng Khoái Châu, Hưng Yên. Trận quyết chiến tại cửa Hàm Tử diễn ra vào cuối tháng 5 năm 1285,5 vạn quân do Chiêu Văn Vương Trần Nhật Duật chỉ huy, đã nhanh chóng giành thắng lợi. Cùng với các trận Tây Kết, Chương Dương, Vạn Kiếp, chiến thắng Hàm Tử đã góp phần tiêu diệt và quét sạch 50 vạn quân Nguyên ra khỏi bờ cõi, giải phóng hoàn toàn Đại Việt.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Chiến thắng quân Nguyên lần hai",
+    "namBatDau" : "1285",
+    "namKetThuc" : "1285"
+  }, {
+    "tenSuKien" : "Trận Hàm Tử",
+    "namBatDau" : "1285",
+    "namKetThuc" : "1285"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Chiến thắng quân Nguyên lần hai", "Sự kiện: Trận Hàm Tử" ]
+}, {
+  "tenDiaDiem" : "Bến Chương Dương",
+  "noiDung" : "Bến Chương Dương thuộc xã Chương Dương, Thường Tín, Hà Nội. Nơi đây từ lâu đã trở thành niềm tự hào của dân tộc, như một huyền thoại chói lọi trong cuộc kháng chiến chống Nguyên Mông lần thứ hai của quân và dân nhà Trần",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Chiến thắng quân Nguyên lần hai",
+    "namBatDau" : "1285",
+    "namKetThuc" : "1285"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Chiến thắng quân Nguyên lần hai" ]
+}, {
+  "tenDiaDiem" : "Vân Đồn",
+  "noiDung" : "Vân Đồn là một huyện đảo của tỉnh Quảng Ninh, Việt Nam. Nơi đây diễn ra trận Vân Đồn năm 1288 gắn liền với tên tuổi của danh tướng Trần Khánh Dư đánh tan đoàn thuyền lương của Trương Văn Hổ, góp phần quan trọng vào chiến thắng chung của trận Bạch Đằng năm 1288.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Chiến thắng quân Nguyên lần ba",
+    "namBatDau" : "1288",
+    "namKetThuc" : "1288"
+  }, {
+    "tenSuKien" : "Trận Vân Đồn",
+    "namBatDau" : "1288",
+    "namKetThuc" : "1288"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Chiến thắng quân Nguyên lần ba", "Sự kiện: Trận Vân Đồn" ]
+}, {
+  "tenDiaDiem" : "Sông Bạch Đằng",
+  "noiDung" : "Sông Bạch Đằng, còn gọi là Bạch Đằng Giang, hiệu là sông Vân Cừ, là một con sông chảy giữa thị xã Quảng Yên (Quảng Ninh) và huyện Thủy Nguyên (Hải Phòng), cách vịnh Hạ Long, cửa Lục khoảng 40 km. Nó nằm trong hệ thống sông Thái Bình, có vị trí quan trọng và mang dấu ấn sâu đậm trong suốt chiều dài lịch sử, văn hoá ngàn năm. Sông Bạch Đằng nổi tiếng với 3 chiến công của dân tộc Việt Nam: Trận thủy chiến của Ngô Quyền trên sông Bạch Đằng năm 938 đánh thắng quân xâm lược Nam Hán, trận thủy chiến sông Bạch Đằng của Hoàng đế Lê Đại Hành năm 981 đập tan quân Tống và trận thủy chiến sông Bạch Đằng năm 1288 do Hưng Đạo Vương Trần Quốc Tuấn chỉ huy đánh tan quân xâm lược Nguyên.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Chiến thắng quân Nguyên lần ba",
+    "namBatDau" : "1288",
+    "namKetThuc" : "1288"
+  }, {
+    "tenSuKien" : "Chiến Thắng Bạch Đằng năm 1288",
+    "namBatDau" : "1288",
+    "namKetThuc" : "1288"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Chiến thắng quân Nguyên lần ba", "Sự kiện: Chiến Thắng Bạch Đằng năm 1288" ]
+}, {
+  "tenDiaDiem" : "Hà Nội",
+  "noiDung" : "Dải đất nay là Hà Nội có dân cư từ vài ngàn năm trước nhưng cái tên gọi Hà Nội thì chỉ có từ năm 1831. Từ năm 1010, vua Lý Thái Tổ dời đô ra thành Đại La, đổi gọi thành này là kinh đô Thăng Long. Kinh đô ngày ấy ứng với quận Hoàn Kiếm và một phần của hai quận Đống Đa, Hai Bà Trưng ngày nay. Sau đó địa giới Thăng Long dần mở rộng và tới cuối thế kỷ 18 thì tương ứng với năm quận nội thành bây giờ. Năm 1802, nhà Nguyễn lên ngôi dời đô về Huế, Thăng Long không còn là Kinh đô nữa và ít lâu sau bị đổi gọi là phủ Hoài Đức.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Trận Tốt Động – Chúc Động",
+    "namBatDau" : "1426",
+    "namKetThuc" : "1426"
+  }, {
+    "tenSuKien" : "Trận Chi Lăng – Xương Giang",
+    "namBatDau" : "1427",
+    "namKetThuc" : "1427"
+  }, {
+    "tenSuKien" : "Vua Quang Trung đại phá quân Thanh",
+    "namBatDau" : "1789",
+    "namKetThuc" : "1789"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Cao Bá Quát",
+    "namBatDau" : "1854",
+    "namKetThuc" : "1856"
+  } ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Tô Hiến Thành",
+    "tenGoiKhac" : [ "Tô Hiến Thành" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1179",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Phan Kế Bính",
+    "tenGoiKhac" : [ "Phan Kế Bính", "Bưu Văn" ],
+    "namSinh" : "1875",
+    "namMat" : "1921",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Trí Bảo",
+    "tenGoiKhac" : [ "Nguyễn Trí Bảo" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1190",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nhan Quảng Trí",
+    "tenGoiKhac" : [ "Nhan Quảng Trí", "Quảng Trí" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1090",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Phùng Tá Chu",
+    "tenGoiKhac" : [ "Phùng Tá Chu" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Từ Lộ",
+    "tenGoiKhac" : [ "Từ Lộ", "Đạo Hạnh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1117",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Bùi Công Hành",
+    "tenGoiKhac" : [ "Bùi Công Hành" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Bùi Xương Trạch",
+    "tenGoiKhac" : [ "Bùi Xương Trạch" ],
+    "namSinh" : "1451",
+    "namMat" : "1529",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Châu Doãn Văn",
+    "tenGoiKhac" : [ "Châu Doãn Văn" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Dương Trực Nguyên",
+    "tenGoiKhac" : [ "Dương Trực Nguyên" ],
+    "namSinh" : "1469",
+    "namMat" : "1509",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Ngô Chi Lan",
+    "tenGoiKhac" : [ "Ngô Chi Lan", "Nguyễn Hạ Huệ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Giáp Hải",
+    "tenGoiKhac" : [ "Giáp Hải", "Giáp Trưng", "Tiêm Phu", "Tuyết Trai" ],
+    "namSinh" : "1516",
+    "namMat" : "1588",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Đặng Đình Lân",
+    "tenGoiKhac" : [ "Đặng Đình Lân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Đặng Trần Côn",
+    "tenGoiKhac" : [ "Đặng Trần Côn" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Kiều",
+    "tenGoiKhac" : [ "Nguyễn Kiều", "Hạo Hiên" ],
+    "namSinh" : "1694",
+    "namMat" : "1771",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Mậu Áng",
+    "tenGoiKhac" : [ "Nguyễn Mậu Áng" ],
+    "namSinh" : "1668",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Lý Văn Phức",
+    "tenGoiKhac" : [ "Lý Văn Phức", "Lân Chi", "Khắc Trai" ],
+    "namSinh" : "1785",
+    "namMat" : "1849",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Văn Siêu",
+    "tenGoiKhac" : [ "Nguyễn Văn Siêu", "Tốn Ban", "Phương Đình" ],
+    "namSinh" : "1799",
+    "namMat" : "1872",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Phạm Hi Lượng",
+    "tenGoiKhac" : [ "Phạm Hi Lượng", "Hối Thúc", "Ngư Đường" ],
+    "namSinh" : "1834",
+    "namMat" : "1886",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Vũ Văn Tuấn",
+    "tenGoiKhac" : [ "Vũ Văn Tuấn" ],
+    "namSinh" : "1806",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Vương Duy Trinh",
+    "tenGoiKhac" : [ "Vương Duy Trinh", "Tử Cán", "Đạm Trai", "Hương Trì" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Trần Trọng Cung",
+    "tenGoiKhac" : [ "Trần Trọng Cung" ],
+    "namSinh" : "1860",
+    "namMat" : "1909",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Đỗ Cơ Quang",
+    "tenGoiKhac" : [ "Đỗ Cơ Quang" ],
+    "namSinh" : "1878",
+    "namMat" : "1914",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Lê Thúc Hoạch",
+    "tenGoiKhac" : [ "Lê Thúc Hoạch" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1914",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Nhược Pháp",
+    "tenGoiKhac" : [ "Nguyễn Nhược Pháp" ],
+    "namSinh" : "1914",
+    "namMat" : "1938",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Phong Sắc",
+    "tenGoiKhac" : [ "Nguyễn Phong Sắc" ],
+    "namSinh" : "1902",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Phan Kế Bính",
+    "tenGoiKhac" : [ "Phan Kế Bính", "Bưu Văn" ],
+    "namSinh" : "1875",
+    "namMat" : "1921",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Vũ Trọng Can",
+    "tenGoiKhac" : [ "Vũ Trọng Can" ],
+    "namSinh" : "1915",
+    "namMat" : "1943",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Vũ Trọng Phụng",
+    "tenGoiKhac" : [ "Vũ Trọng Phụng", "Thiên Hư" ],
+    "namSinh" : "1911",
+    "namMat" : "1939",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Bùi Đình Diệm",
+    "tenGoiKhac" : [ "Bùi Đình Diệm", "Quang Dũng" ],
+    "namSinh" : "1921",
+    "namMat" : "1988",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Bùi Huy Cường",
+    "tenGoiKhac" : [ "Bùi Huy Cường", "Nam Hương" ],
+    "namSinh" : "1899",
+    "namMat" : "1966",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Bùi Tường Chiểu",
+    "tenGoiKhac" : [ "Bùi Tường Chiểu" ],
+    "namSinh" : "1904",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Hồ Trọng Hiếu",
+    "tenGoiKhac" : [ "Hồ Trọng Hiếu", "Tú Mỡ" ],
+    "namSinh" : "1900",
+    "namMat" : "1976",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Hoàng Đạo Thúy",
+    "tenGoiKhac" : [ "Hoàng Đạo Thúy" ],
+    "namSinh" : "1900",
+    "namMat" : "1994",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Hoàng Thúc Tấn",
+    "tenGoiKhac" : [ "Hoàng Thúc Tấn" ],
+    "namSinh" : "1912",
+    "namMat" : "1986",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Lê Văn Siêu",
+    "tenGoiKhac" : [ "Lê Văn Siêu" ],
+    "namSinh" : "1911",
+    "namMat" : "1995",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Lê Văn Trương",
+    "tenGoiKhac" : [ "Lê Văn Trương" ],
+    "namSinh" : "1906",
+    "namMat" : "1964",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Đình Thi",
+    "tenGoiKhac" : [ "Nguyễn Đình Thi" ],
+    "namSinh" : "1924",
+    "namMat" : "2003",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Đức Long",
+    "tenGoiKhac" : [ "Nguyễn Đức Long", "Thượng Sĩ" ],
+    "namSinh" : "1908",
+    "namMat" : "1998",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Gia Trí",
+    "tenGoiKhac" : [ "Nguyễn Gia Trí" ],
+    "namSinh" : "1908",
+    "namMat" : "1993",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Gia Tường",
+    "tenGoiKhac" : [ "Nguyễn Gia Tường" ],
+    "namSinh" : "1902",
+    "namMat" : "1982",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Thiệu Lâu",
+    "tenGoiKhac" : [ "Nguyễn Thiệu Lâu" ],
+    "namSinh" : "1916",
+    "namMat" : "1967",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Xuân Khoát",
+    "tenGoiKhac" : [ "Nguyễn Xuân Khoát" ],
+    "namSinh" : "1910",
+    "namMat" : "1993",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Phạm Duy Khiêm",
+    "tenGoiKhac" : [ "Phạm Duy Khiêm" ],
+    "namSinh" : "1907",
+    "namMat" : "1974",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Trần Hữu Tước",
+    "tenGoiKhac" : [ "Trần Hữu Tước" ],
+    "namSinh" : "1913",
+    "namMat" : "1983",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Võ Hải Thu",
+    "tenGoiKhac" : [ "Võ Hải Thu", "Nguyễn Hải Thần" ],
+    "namSinh" : "1878",
+    "namMat" : "1954",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Võ Hoành",
+    "tenGoiKhac" : [ "Võ Hoành", "Ngọc Tiểu" ],
+    "namSinh" : "1873",
+    "namMat" : "1946",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Võ Nguyên Thủy",
+    "tenGoiKhac" : [ "Võ Nguyên Thủy", "Võ Nguyên Bác", "Nguyễn Sơn", "Võ Hồng Thủy" ],
+    "namSinh" : "1908",
+    "namMat" : "1956",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Hoàng Văn Hành",
+    "tenGoiKhac" : [ "Hoàng Văn Hành" ],
+    "namSinh" : "1934",
+    "namMat" : "2003",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Hoàng Văn Hương",
+    "tenGoiKhac" : [ "Hoàng Văn Hương", "Hùng Lân" ],
+    "namSinh" : "1922",
+    "namMat" : "1998",
+    "queQuan" : "Hà Nội"
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Trận Tốt Động – Chúc Động", "Sự kiện: Trận Chi Lăng – Xương Giang", "Sự kiện: Vua Quang Trung đại phá quân Thanh", "Sự kiện: Khởi nghĩa Cao Bá Quát", "Nhân vật: Tô Hiến Thành", "Nhân vật: Phan Kế Bính", "Nhân vật: Nguyễn Trí Bảo", "Nhân vật: Nhan Quảng Trí", "Nhân vật: Phùng Tá Chu", "Nhân vật: Từ Lộ", "Nhân vật: Bùi Công Hành", "Nhân vật: Bùi Xương Trạch", "Nhân vật: Châu Doãn Văn", "Nhân vật: Dương Trực Nguyên", "Nhân vật: Ngô Chi Lan", "Nhân vật: Giáp Hải", "Nhân vật: Đặng Đình Lân", "Nhân vật: Đặng Trần Côn", "Nhân vật: Nguyễn Kiều", "Nhân vật: Nguyễn Mậu Áng", "Nhân vật: Lý Văn Phức", "Nhân vật: Nguyễn Văn Siêu", "Nhân vật: Phạm Hi Lượng", "Nhân vật: Vũ Văn Tuấn", "Nhân vật: Vương Duy Trinh", "Nhân vật: Trần Trọng Cung", "Nhân vật: Đỗ Cơ Quang", "Nhân vật: Lê Thúc Hoạch", "Nhân vật: Nguyễn Nhược Pháp", "Nhân vật: Nguyễn Phong Sắc", "Nhân vật: Phan Kế Bính", "Nhân vật: Vũ Trọng Can", "Nhân vật: Vũ Trọng Phụng", "Nhân vật: Bùi Đình Diệm", "Nhân vật: Bùi Huy Cường", "Nhân vật: Bùi Tường Chiểu", "Nhân vật: Hồ Trọng Hiếu", "Nhân vật: Hoàng Đạo Thúy", "Nhân vật: Hoàng Thúc Tấn", "Nhân vật: Lê Văn Siêu", "Nhân vật: Lê Văn Trương", "Nhân vật: Nguyễn Đình Thi", "Nhân vật: Nguyễn Đức Long", "Nhân vật: Nguyễn Gia Trí", "Nhân vật: Nguyễn Gia Tường", "Nhân vật: Nguyễn Thiệu Lâu", "Nhân vật: Nguyễn Xuân Khoát", "Nhân vật: Phạm Duy Khiêm", "Nhân vật: Trần Hữu Tước", "Nhân vật: Võ Hải Thu", "Nhân vật: Võ Hoành", "Nhân vật: Võ Nguyên Thủy", "Nhân vật: Hoàng Văn Hành", "Nhân vật: Hoàng Văn Hương" ]
+}, {
+  "tenDiaDiem" : "Thành Tây Đô",
+  "noiDung" : "Năm 1397, Hồ Quý Ly một quyền thần của nhà Trần cho xây dựng thành Tây Đô. Thành xây trên địa phận hai thôn Tây Giai, Xuân Giai nay thuộc xã Vĩnh Tiến và thôn Đông Môn nay thuộc xã Vĩnh Long, huyện Vĩnh Lộc, tỉnh Thanh Hoá.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Nhà Mạc sụp đổ",
+    "namBatDau" : "1592",
+    "namKetThuc" : "1592"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Nhà Mạc sụp đổ" ]
+}, {
+  "tenDiaDiem" : "Hà Tĩnh",
+  "noiDung" : "Hà Tĩnh là một tỉnh ven biển thuộc vùng Bắc Trung Bộ Việt Nam, cách thủ đô Hà Nội 340 km về phía nam, ở phía đông dãy Trường Sơn với địa hình hẹp, dốc và nghiêng từ tây sang đông.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Phan Đình Phùng",
+    "tenGoiKhac" : [ "Phan Đình Phùng" ],
+    "namSinh" : "1891",
+    "namMat" : "1944",
+    "queQuan" : "Ninh Bình"
+  }, {
+    "hoTen" : "Sử Hy Nhan",
+    "tenGoiKhac" : [ "Sử Hy Nhan" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Đặng Chiêm",
+    "tenGoiKhac" : [ "Đặng Chiêm" ],
+    "namSinh" : "1429",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Đặng Thái Phương",
+    "tenGoiKhac" : [ "Đặng Thái Phương" ],
+    "namSinh" : "1678",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Đinh Nho Công",
+    "tenGoiKhac" : [ "Đinh Nho Công" ],
+    "namSinh" : "1637",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Nguyễn Huy Oánh",
+    "tenGoiKhac" : [ "Nguyễn Huy Oánh" ],
+    "namSinh" : "1713",
+    "namMat" : "1789",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Nguyễn Huy Tự",
+    "tenGoiKhac" : [ "Nguyễn Huy Tự", "Hữu Chi", "Uẩn Trai" ],
+    "namSinh" : "1743",
+    "namMat" : "1790",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Văn Đình Dẫn",
+    "tenGoiKhac" : [ "Văn Đình Dẫn" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Võ Diệm",
+    "tenGoiKhac" : [ "Võ Diệm" ],
+    "namSinh" : "1705",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Đinh Nho Điển",
+    "tenGoiKhac" : [ "Đinh Nho Điển" ],
+    "namSinh" : "1848",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Lê Trọng Đôn",
+    "tenGoiKhac" : [ "Lê Trọng Đôn" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Lê Tuấn",
+    "tenGoiKhac" : [ "Lê Tuấn" ],
+    "namSinh" : "1818",
+    "namMat" : "1874",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Đinh Nho Quang",
+    "tenGoiKhac" : [ "Đinh Nho Quang" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Đặng Văn Bá",
+    "tenGoiKhac" : [ "Đặng Văn Bá" ],
+    "namSinh" : "1877",
+    "namMat" : "1942",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Đậu Quang Lĩnh",
+    "tenGoiKhac" : [ "Đậu Quang Lĩnh" ],
+    "namSinh" : "1870",
+    "namMat" : "1941",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Đinh Doãn Tế",
+    "tenGoiKhac" : [ "Đinh Doãn Tế" ],
+    "namSinh" : "1885",
+    "namMat" : "1910",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Lê Kính Hạp",
+    "tenGoiKhac" : [ "Lê Kính Hạp" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Phạm Văn Ngôn",
+    "tenGoiKhac" : [ "Phạm Văn Ngôn" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1910",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Phan Điện",
+    "tenGoiKhac" : [ "Phan Điện" ],
+    "namSinh" : "1875",
+    "namMat" : "1945",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Phan Đình Cừ",
+    "tenGoiKhac" : [ "Phan Đình Cừ", "Phan Bá Ngọc" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1921",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Hồ Đắc Di",
+    "tenGoiKhac" : [ "Hồ Đắc Di" ],
+    "namSinh" : "1901",
+    "namMat" : "1984",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Hoàng Ngọc Phách",
+    "tenGoiKhac" : [ "Hoàng Ngọc Phách", "Song An" ],
+    "namSinh" : "1896",
+    "namMat" : "1973",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Lê Văn Thiêm",
+    "tenGoiKhac" : [ "Lê Văn Thiêm" ],
+    "namSinh" : "1918",
+    "namMat" : "1991",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Nguyễn Đổng Chi",
+    "tenGoiKhac" : [ "Nguyễn Đổng Chi" ],
+    "namSinh" : "1915",
+    "namMat" : "1984",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Phạm Khắc Hòe",
+    "tenGoiKhac" : [ "Phạm Khắc Hòe" ],
+    "namSinh" : "1902",
+    "namMat" : "1994",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Võ Liêm Sơn",
+    "tenGoiKhac" : [ "Võ Liêm Sơn", "Ngạc Am" ],
+    "namSinh" : "1888",
+    "namMat" : "1949",
+    "queQuan" : "Hà Tĩnh"
+  }, {
+    "hoTen" : "Võ Oanh",
+    "tenGoiKhac" : [ "Võ Oanh" ],
+    "namSinh" : "1890",
+    "namMat" : "1977",
+    "queQuan" : "Hà Tĩnh"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Phan Đình Phùng", "Nhân vật: Sử Hy Nhan", "Nhân vật: Đặng Chiêm", "Nhân vật: Đặng Thái Phương", "Nhân vật: Đinh Nho Công", "Nhân vật: Nguyễn Huy Oánh", "Nhân vật: Nguyễn Huy Tự", "Nhân vật: Văn Đình Dẫn", "Nhân vật: Võ Diệm", "Nhân vật: Đinh Nho Điển", "Nhân vật: Lê Trọng Đôn", "Nhân vật: Lê Tuấn", "Nhân vật: Đinh Nho Quang", "Nhân vật: Đặng Văn Bá", "Nhân vật: Đậu Quang Lĩnh", "Nhân vật: Đinh Doãn Tế", "Nhân vật: Lê Kính Hạp", "Nhân vật: Phạm Văn Ngôn", "Nhân vật: Phan Điện", "Nhân vật: Phan Đình Cừ", "Nhân vật: Hồ Đắc Di", "Nhân vật: Hoàng Ngọc Phách", "Nhân vật: Lê Văn Thiêm", "Nhân vật: Nguyễn Đổng Chi", "Nhân vật: Phạm Khắc Hòe", "Nhân vật: Võ Liêm Sơn", "Nhân vật: Võ Oanh" ]
+}, {
+  "tenDiaDiem" : "Nghệ An",
+  "noiDung" : "Nghệ An thuộc vùng Bắc Trung Bộ Việt Nam, trung tâm hành chính của Nghệ An là thành phố Vinh, nằm cách thủ đô Hà Nội 291 km về phía nam. Thời Bắc thuộc, Nghệ An và Hà Tĩnh cùng có tên là Hoan Châu, đến đời nhà Lý, Trần đổi thành Nghệ An châu, có tên là xứ Nghệ vào năm 1490, đời vua Lê Thánh Tông, rồi trấn Nghệ An. Năm 1831, vua Minh Mệnh chia trấn Nghệ An thành 2 tỉnh: Nghệ An và Hà Tĩnh . Năm 1976 đến 1991, Nghệ An và Hà Tĩnh sáp nhập thành một tỉnh Nghệ Tĩnh. Từ năm 1991, lại tách ra thành 2 tỉnh là Nghệ An và Hà Tĩnh.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Cuộc khởi nghĩa Trần Ngỗi",
+    "namBatDau" : "1407",
+    "namKetThuc" : "1409"
+  }, {
+    "tenSuKien" : "Cuộc khởi nghĩa Trần Quý Khoáng",
+    "namBatDau" : "1409",
+    "namKetThuc" : "1414"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Lam Sơn",
+    "namBatDau" : "1418",
+    "namKetThuc" : "1427"
+  }, {
+    "tenSuKien" : "Quân Lam Sơn giải phóng Nghệ An",
+    "namBatDau" : "1424",
+    "namKetThuc" : "1424"
+  }, {
+    "tenSuKien" : "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc",
+    "namBatDau" : "1425",
+    "namKetThuc" : "1426"
+  }, {
+    "tenSuKien" : "Nhà Mạc sụp đổ",
+    "namBatDau" : "1592",
+    "namKetThuc" : "1592"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Nguyễn Hữu Cầu",
+    "namBatDau" : "1471",
+    "namKetThuc" : "1751"
+  }, {
+    "tenSuKien" : "Vua Quang Trung đại phá quân Thanh",
+    "namBatDau" : "1789",
+    "namKetThuc" : "1789"
+  } ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Chủ tịch Hồ Chí Minh",
+    "tenGoiKhac" : [ "Nguyễn Tất Thành", "Hồ Chí Minh", "Nguyễn Sinh Cung", "Nguyễn Ái Quốc", "Lý Thụy", "Anh Ba", "Vương Sơn Nhi", "Chàng Vương", "Tống Văn Sơ", "Hồ Quang", "Thầu Chín" ],
+    "namSinh" : "1890",
+    "namMat" : "1969",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Nguyễn Y Sơn",
+    "tenGoiKhac" : [ "Nguyễn Y Sơn" ],
+    "namSinh" : "1121",
+    "namMat" : "1213",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Bùi Tấn Diên",
+    "tenGoiKhac" : [ "Bùi Tấn Diên" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Cao Quýnh",
+    "tenGoiKhac" : [ "Cao Quýnh" ],
+    "namSinh" : "1449",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Nguyễn Đức Trung",
+    "tenGoiKhac" : [ "Nguyễn Đức Trung", "Nguyễn Văn Thường" ],
+    "namSinh" : "1404",
+    "namMat" : "1477",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Hoàng Nghĩa Thân",
+    "tenGoiKhac" : [ "Hoàng Nghĩa Thân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1591",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Lê Hân",
+    "tenGoiKhac" : [ "Lê Hân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1804",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Đinh Nhật Tân",
+    "tenGoiKhac" : [ "Đinh Nhật Tân" ],
+    "namSinh" : "1836",
+    "namMat" : "1887",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Đinh Nhật Thận",
+    "tenGoiKhac" : [ "Đinh Nhật Thận" ],
+    "namSinh" : "1815",
+    "namMat" : "1866",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Đinh Văn Chất",
+    "tenGoiKhac" : [ "Đinh Văn Chất" ],
+    "namSinh" : "1847",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Lê Nguyên Trung",
+    "tenGoiKhac" : [ "Lê Nguyên Trung", "Lê Nguyên Huệ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Nguyễn Văn Giao",
+    "tenGoiKhac" : [ "Nguyễn Văn Giao" ],
+    "namSinh" : "1812",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Nguyễn Văn Trắm",
+    "tenGoiKhac" : [ "Nguyễn Văn Trắm" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1835",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Nguyễn Xuân Ôn",
+    "tenGoiKhac" : [ "Nguyễn Xuân Ôn", "Ngọc Đường", "Lương Giang", "Hiến Đình" ],
+    "namSinh" : "1830",
+    "namMat" : "1889",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Cao Xuân Dục",
+    "tenGoiKhac" : [ "Cao Xuân Dục" ],
+    "namSinh" : "1842",
+    "namMat" : "1923",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Trần Đình Phong",
+    "tenGoiKhac" : [ "Trần Đình Phong", "Mã Sơn" ],
+    "namSinh" : "1847",
+    "namMat" : "1920",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Trần Quang Diêm",
+    "tenGoiKhac" : [ "Trần Quang Diêm" ],
+    "namSinh" : "1840",
+    "namMat" : "1907",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Phan Bội Châu",
+    "tenGoiKhac" : [ "Phan Bội Châu", "Phan Văn San", "Sào Nam", "Hải Thu", "Thị Hán", "Độc Tĩnh Tử", "Hãn Mạn Tử" ],
+    "namSinh" : "1867",
+    "namMat" : "1940",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Phan Đăng Lưu",
+    "tenGoiKhac" : [ "Phan Đăng Lưu" ],
+    "namSinh" : "1902",
+    "namMat" : "1941",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Phan Lại Lượng",
+    "tenGoiKhac" : [ "Phan Lại Lượng" ],
+    "namSinh" : "1890",
+    "namMat" : "1910",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Vương Thúc Mậu",
+    "tenGoiKhac" : [ "Vương Thúc Mậu" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Hồ Tùng Mậu",
+    "tenGoiKhac" : [ "Hồ Tùng Mậu" ],
+    "namSinh" : "1896",
+    "namMat" : "1951",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Nguyễn Đức Nguyên",
+    "tenGoiKhac" : [ "Nguyễn Đức Nguyên", "Hoài Thanh" ],
+    "namSinh" : "1909",
+    "namMat" : "1982",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Nguyễn Tất Thành",
+    "tenGoiKhac" : [ "Nguyễn Tất Thành", "Hồ Chí Minh", "Nguyễn Sinh Cung", "Nguyễn Ái Quốc", "Lý Thụy", "Anh Ba", "Vương Sơn Nhi", "Chàng Vương", "Tống Văn Sơ", "Hồ Quang", "Thầu Chín" ],
+    "namSinh" : "1890",
+    "namMat" : "1969",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Nguyễn Thức Canh",
+    "tenGoiKhac" : [ "Nguyễn Thức Canh", "Trần Hữu Công", "Trần Trọng Khắc" ],
+    "namSinh" : "1884",
+    "namMat" : "1965",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Tôn Quang Phiệt",
+    "tenGoiKhac" : [ "Tôn Quang Phiệt" ],
+    "namSinh" : "1900",
+    "namMat" : "1973",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Trần Hữu Thung",
+    "tenGoiKhac" : [ "Trần Hữu Thung" ],
+    "namSinh" : "1923",
+    "namMat" : "1999",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Vi Văn Định",
+    "tenGoiKhac" : [ "Vi Văn Định" ],
+    "namSinh" : "1878",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Hoàng Kiện",
+    "tenGoiKhac" : [ "Hoàng Kiện" ],
+    "namSinh" : "1921",
+    "namMat" : "2000",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Hoàng Trung Thông",
+    "tenGoiKhac" : [ "Hoàng Trung Thông" ],
+    "namSinh" : "1925",
+    "namMat" : "1993",
+    "queQuan" : "Nghệ An"
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Cuộc khởi nghĩa Trần Ngỗi", "Sự kiện: Cuộc khởi nghĩa Trần Quý Khoáng", "Sự kiện: Khởi nghĩa Lam Sơn", "Sự kiện: Quân Lam Sơn giải phóng Nghệ An", "Sự kiện: Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc", "Sự kiện: Nhà Mạc sụp đổ", "Sự kiện: Khởi nghĩa Nguyễn Hữu Cầu", "Sự kiện: Vua Quang Trung đại phá quân Thanh", "Nhân vật: Chủ tịch Hồ Chí Minh", "Nhân vật: Nguyễn Y Sơn", "Nhân vật: Bùi Tấn Diên", "Nhân vật: Cao Quýnh", "Nhân vật: Nguyễn Đức Trung", "Nhân vật: Hoàng Nghĩa Thân", "Nhân vật: Lê Hân", "Nhân vật: Đinh Nhật Tân", "Nhân vật: Đinh Nhật Thận", "Nhân vật: Đinh Văn Chất", "Nhân vật: Lê Nguyên Trung", "Nhân vật: Nguyễn Văn Giao", "Nhân vật: Nguyễn Văn Trắm", "Nhân vật: Nguyễn Xuân Ôn", "Nhân vật: Cao Xuân Dục", "Nhân vật: Trần Đình Phong", "Nhân vật: Trần Quang Diêm", "Nhân vật: Phan Bội Châu", "Nhân vật: Phan Đăng Lưu", "Nhân vật: Phan Lại Lượng", "Nhân vật: Vương Thúc Mậu", "Nhân vật: Hồ Tùng Mậu", "Nhân vật: Nguyễn Đức Nguyên", "Nhân vật: Nguyễn Tất Thành", "Nhân vật: Nguyễn Thức Canh", "Nhân vật: Tôn Quang Phiệt", "Nhân vật: Trần Hữu Thung", "Nhân vật: Vi Văn Định", "Nhân vật: Hoàng Kiện", "Nhân vật: Hoàng Trung Thông" ]
+}, {
+  "tenDiaDiem" : "Thanh Hóa",
+  "noiDung" : "Thanh Hóa là tỉnh thuốc miền Trung Việt Nam, cách thủ đô Hà Nội khoảng 140 km về phía Nam. Thanh Hoá là vùng đất có từ lâu đời, một trong những cái nôi của dân tộc Việt Nam. Ngay từ thời tiền sử vùng đất này đã có người sinh sống. Qua những công cụ thô sơ trong những xưởng chế tác đá công cụ Núi Ðọ (Thanh Hoá) cho thấy, người tiền sử đã sinh sống trên mảnh đất này từ thời đại đồ đá cũ. Ngoài ra, các nhà khảo cổ học còn tìm thấy nhiều công cụ đồ đá đẽo gọt tinh xảo ở Thiệu Dương (Thiệu Hoá), Ða Bút (Vĩnh Lộc),v.v.. Phát triển hơn nữa, nền văn hoá đồ đồng Ðông Sơn với trống đồng và các loại đồ đồng tinh xảo khác không chỉ nổi tiếng ở Việt Nam, ở Ðông Nam á mà còn được cả thế giới biết đến.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Bà Triệu",
+    "namBatDau" : "248",
+    "namKetThuc" : "248"
+  }, {
+    "tenSuKien" : "Cuộc khởi nghĩa Trần Quý Khoáng",
+    "namBatDau" : "1409",
+    "namKetThuc" : "1414"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Lam Sơn",
+    "namBatDau" : "1418",
+    "namKetThuc" : "1427"
+  }, {
+    "tenSuKien" : "Quân Lam Sơn giải phóng Nghệ An",
+    "namBatDau" : "1424",
+    "namKetThuc" : "1424"
+  }, {
+    "tenSuKien" : "Khởi Nghĩa Trần Cảo",
+    "namBatDau" : "1516",
+    "namKetThuc" : "1516"
+  }, {
+    "tenSuKien" : "Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều",
+    "namBatDau" : "1543",
+    "namKetThuc" : "1592"
+  }, {
+    "tenSuKien" : "Nhà Mạc sụp đổ",
+    "namBatDau" : "1592",
+    "namKetThuc" : "1592"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Nguyễn Hữu Cầu",
+    "namBatDau" : "1471",
+    "namKetThuc" : "1751"
+  } ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Tôn Thất Tùng",
+    "tenGoiKhac" : [ "Tôn Thất Tùng" ],
+    "namSinh" : "1912",
+    "namMat" : "1982",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Trịnh Cương",
+    "tenGoiKhac" : [ "Trịnh Cương", "An Đô Vương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1729",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Đinh Lễ",
+    "tenGoiKhac" : [ "Đinh Lễ", "Nguyên Sinh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "La Viện",
+    "tenGoiKhac" : [ "La Viện" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Châu Đạt",
+    "tenGoiKhac" : [ "Châu Đạt" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Bạch Hoa",
+    "tenGoiKhac" : [ "Bạch Hoa" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Đinh Lễ",
+    "tenGoiKhac" : [ "Đinh Lễ", "Nguyên Sinh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Ngô Chân Lưu",
+    "tenGoiKhac" : [ "Ngô Chân Lưu", "Khuông Việt" ],
+    "namSinh" : "933",
+    "namMat" : "1011",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trần Khát Chân",
+    "tenGoiKhac" : [ "Trần Khát Chân" ],
+    "namSinh" : "1370",
+    "namMat" : "1399",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Ngô Thị Ngọc Dao",
+    "tenGoiKhac" : [ "Ngô Thị Ngọc Dao" ],
+    "namSinh" : "1421",
+    "namMat" : "1496",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Ngô Từ",
+    "tenGoiKhac" : [ "Ngô Từ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Lí",
+    "tenGoiKhac" : [ "Nguyễn Lí" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Lại Thế Khanh",
+    "tenGoiKhac" : [ "Lại Thế Khanh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1597",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Lê Bá Ly",
+    "tenGoiKhac" : [ "Lê Bá Ly" ],
+    "namSinh" : "1476",
+    "namMat" : "1557",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Lương Hữu Khánh",
+    "tenGoiKhac" : [ "Lương Hữu Khánh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Đào Duy Từ",
+    "tenGoiKhac" : [ "Đào Duy Từ" ],
+    "namSinh" : "1572",
+    "namMat" : "1634",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Đào Tá Hán",
+    "tenGoiKhac" : [ "Đào Tá Hán" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Lê Hi",
+    "tenGoiKhac" : [ "Lê Hi" ],
+    "namSinh" : "1646",
+    "namMat" : "1702",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Hoản",
+    "tenGoiKhac" : [ "Nguyễn Hoản", "Nguyễn Hoàn" ],
+    "namSinh" : "1713",
+    "namMat" : "1792",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Hoàng",
+    "tenGoiKhac" : [ "Nguyễn Hoàng", "Gia Dũ Vương" ],
+    "namSinh" : "1524",
+    "namMat" : "1613",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Hữu Dật",
+    "tenGoiKhac" : [ "Nguyễn Hữu Dật" ],
+    "namSinh" : "1603",
+    "namMat" : "1681",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Hữu Hào",
+    "tenGoiKhac" : [ "Nguyễn Hữu Hào" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1713",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Hữu Kính",
+    "tenGoiKhac" : [ "Nguyễn Hữu Kính", "Nguyễn Hữu Cảnh" ],
+    "namSinh" : "1650",
+    "namMat" : "1700",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Hữu Tiến (I)",
+    "tenGoiKhac" : [ "Nguyễn Hữu Tiến (I)", "Nguyễn Hữu Tấn" ],
+    "namSinh" : "1602",
+    "namMat" : "1665",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Kim",
+    "tenGoiKhac" : [ "Nguyễn Kim" ],
+    "namSinh" : "1467",
+    "namMat" : "1545",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Lại",
+    "tenGoiKhac" : [ "Nguyễn Lại", "Nghè Bột" ],
+    "namSinh" : "1511",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Mậu Tuyên",
+    "tenGoiKhac" : [ "Nguyễn Mậu Tuyên" ],
+    "namSinh" : "1518",
+    "namMat" : "1599",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trịnh Cương",
+    "tenGoiKhac" : [ "Trịnh Cương", "An Đô Vương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1729",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trịnh Doanh",
+    "tenGoiKhac" : [ "Trịnh Doanh", "Minh Đô Vương" ],
+    "namSinh" : "1720",
+    "namMat" : "1767",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trịnh Giang",
+    "tenGoiKhac" : [ "Trịnh Giang", "Uy Nam Vương" ],
+    "namSinh" : "1729",
+    "namMat" : "1740",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trịnh Tạc",
+    "tenGoiKhac" : [ "Trịnh Tạc", "Tây Vương" ],
+    "namSinh" : "1657",
+    "namMat" : "1862",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trịnh Tráng",
+    "tenGoiKhac" : [ "Trịnh Tráng", "Thanh Đô Vương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1657",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trịnh Tùng",
+    "tenGoiKhac" : [ "Trịnh Tùng", "Bình An Vương" ],
+    "namSinh" : "1550",
+    "namMat" : "1623",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trương Phước Phan",
+    "tenGoiKhac" : [ "Trương Phước Phan" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Đào Duy Chung",
+    "tenGoiKhac" : [ "Đào Duy Chung" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nhữ Bá Sĩ",
+    "tenGoiKhac" : [ "Nhữ Bá Sĩ", "Nguyên Lập", "Nghi Am", "Đạm Trai" ],
+    "namSinh" : "1787",
+    "namMat" : "1867",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Cầm Bá Thước",
+    "tenGoiKhac" : [ "Cầm Bá Thước" ],
+    "namSinh" : "1858",
+    "namMat" : "1895",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Tống Duy Tân",
+    "tenGoiKhac" : [ "Tống Duy Tân" ],
+    "namSinh" : "1837",
+    "namMat" : "1892",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trần Lục",
+    "tenGoiKhac" : [ "Trần Lục", "Cha Sáu" ],
+    "namSinh" : "1825",
+    "namMat" : "1899",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Trần Xuân Soạn",
+    "tenGoiKhac" : [ "Trần Xuân Soạn" ],
+    "namSinh" : "1849",
+    "namMat" : "1923",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Phong Di",
+    "tenGoiKhac" : [ "Nguyễn Phong Di" ],
+    "namSinh" : "1889",
+    "namMat" : "1919",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Nguyễn Đức Giới",
+    "tenGoiKhac" : [ "Nguyễn Đức Giới", "Thôi Hữu", "Trần Văn Tấn", "Tân Sắc" ],
+    "namSinh" : "1919",
+    "namMat" : "1950",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Tô Vĩnh Diện",
+    "tenGoiKhac" : [ "Tô Vĩnh Diện" ],
+    "namSinh" : "1924",
+    "namMat" : "1954",
+    "queQuan" : "Thanh Hóa"
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Bà Triệu", "Sự kiện: Cuộc khởi nghĩa Trần Quý Khoáng", "Sự kiện: Khởi nghĩa Lam Sơn", "Sự kiện: Quân Lam Sơn giải phóng Nghệ An", "Sự kiện: Khởi Nghĩa Trần Cảo", "Sự kiện: Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều", "Sự kiện: Nhà Mạc sụp đổ", "Sự kiện: Khởi nghĩa Nguyễn Hữu Cầu", "Nhân vật: Tôn Thất Tùng", "Nhân vật: Trịnh Cương", "Nhân vật: Đinh Lễ", "Nhân vật: La Viện", "Nhân vật: Châu Đạt", "Nhân vật: Bạch Hoa", "Nhân vật: Đinh Lễ", "Nhân vật: Ngô Chân Lưu", "Nhân vật: Trần Khát Chân", "Nhân vật: Ngô Thị Ngọc Dao", "Nhân vật: Ngô Từ", "Nhân vật: Nguyễn Lí", "Nhân vật: Lại Thế Khanh", "Nhân vật: Lê Bá Ly", "Nhân vật: Lương Hữu Khánh", "Nhân vật: Đào Duy Từ", "Nhân vật: Đào Tá Hán", "Nhân vật: Lê Hi", "Nhân vật: Nguyễn Hoản", "Nhân vật: Nguyễn Hoàng", "Nhân vật: Nguyễn Hữu Dật", "Nhân vật: Nguyễn Hữu Hào", "Nhân vật: Nguyễn Hữu Kính", "Nhân vật: Nguyễn Hữu Tiến (I)", "Nhân vật: Nguyễn Kim", "Nhân vật: Nguyễn Lại", "Nhân vật: Nguyễn Mậu Tuyên", "Nhân vật: Trịnh Cương", "Nhân vật: Trịnh Doanh", "Nhân vật: Trịnh Giang", "Nhân vật: Trịnh Tạc", "Nhân vật: Trịnh Tráng", "Nhân vật: Trịnh Tùng", "Nhân vật: Trương Phước Phan", "Nhân vật: Đào Duy Chung", "Nhân vật: Nhữ Bá Sĩ", "Nhân vật: Cầm Bá Thước", "Nhân vật: Tống Duy Tân", "Nhân vật: Trần Lục", "Nhân vật: Trần Xuân Soạn", "Nhân vật: Nguyễn Phong Di", "Nhân vật: Nguyễn Đức Giới", "Nhân vật: Tô Vĩnh Diện" ]
+}, {
+  "tenDiaDiem" : "Quảng Bình",
+  "noiDung" : "Các tên gọi cũ của Quảng Bình này gồm: Lâm Bình, Tiên Bình, Tây Bình, Tân Bình, là một tỉnh duyên hải thuộc vùng Bắc Trung Bộ Việt Nam. Các khai quật khảo cổ ở khu vực đã chứng tỏ rằng đã có loài người sinh sống ở khu vực này từ thời kỳ đồ đá. Nhiều hiện vật như bình sử, sành, công cụ lao động đã được phát hiện ở đây",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc",
+    "namBatDau" : "1425",
+    "namKetThuc" : "1426"
+  }, {
+    "tenSuKien" : "Trận Tốt Động – Chúc Động",
+    "namBatDau" : "1426",
+    "namKetThuc" : "1426"
+  } ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Võ Nguyên Giáp",
+    "tenGoiKhac" : [ "Võ Nguyên Giáp" ],
+    "namSinh" : "1911",
+    "namMat" : "2013",
+    "queQuan" : "Quảng Bình"
+  }, {
+    "hoTen" : "Trần Đình Xu",
+    "tenGoiKhac" : [ "Trần Đình Xu" ],
+    "namSinh" : "1921",
+    "namMat" : "1969",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Hoàng Công Châu",
+    "tenGoiKhac" : [ "Hoàng Công Châu" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Bình"
+  }, {
+    "hoTen" : "Nguyễn Hàm Trực",
+    "tenGoiKhac" : [ "Nguyễn Hàm Trực", "Nguyễn Hàm Nghi" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Bình"
+  }, {
+    "hoTen" : "Lê Sĩ",
+    "tenGoiKhac" : [ "Lê Sĩ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1883",
+    "queQuan" : "Quảng Bình"
+  }, {
+    "hoTen" : "Võ Xuân Cẩn",
+    "tenGoiKhac" : [ "Võ Xuân Cẩn" ],
+    "namSinh" : "1778",
+    "namMat" : "1852",
+    "queQuan" : "Quảng Bình"
+  }, {
+    "hoTen" : "Trương Quang Ngọc",
+    "tenGoiKhac" : [ "Trương Quang Ngọc" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1889",
+    "queQuan" : "Quảng Bình"
+  }, {
+    "hoTen" : "Lê Trực",
+    "tenGoiKhac" : [ "Lê Trực" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Bình"
+  }, {
+    "hoTen" : "Võ Nguyên Giáp",
+    "tenGoiKhac" : [ "Võ Nguyên Giáp" ],
+    "namSinh" : "1911",
+    "namMat" : "2013",
+    "queQuan" : "Quảng Bình"
+  }, {
+    "hoTen" : "Hoàng Tuệ",
+    "tenGoiKhac" : [ "Hoàng Tuệ" ],
+    "namSinh" : "1921",
+    "namMat" : "1999",
+    "queQuan" : "Quảng Bình"
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc", "Sự kiện: Trận Tốt Động – Chúc Động", "Nhân vật: Võ Nguyên Giáp", "Nhân vật: Trần Đình Xu", "Nhân vật: Hoàng Công Châu", "Nhân vật: Nguyễn Hàm Trực", "Nhân vật: Lê Sĩ", "Nhân vật: Võ Xuân Cẩn", "Nhân vật: Trương Quang Ngọc", "Nhân vật: Lê Trực", "Nhân vật: Võ Nguyên Giáp", "Nhân vật: Hoàng Tuệ" ]
+}, {
+  "tenDiaDiem" : "Quảng Trị",
+  "noiDung" : "Quảng Trị là một tỉnh ven biển thuộc vùng Bắc Trung Bộ Việt Nam. Từ thời Hùng Vương - An Dương Vương, vùng Quảng Trị ngày nay được cho là thuộc lãnh địa bộ Việt Thường của Nhà nước Văn Lang - Âu Lạc. Đầu thời Hán thuộc (từ năm 179 Trước Công nguyên đến năm 192), Quảng Trị thuộc đất quận Nhật Nam.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc",
+    "namBatDau" : "1425",
+    "namKetThuc" : "1426"
+  }, {
+    "tenSuKien" : "Nhà Nguyễn sắp xếp lại đơn vị hành chính trong cả nước",
+    "namBatDau" : "1831",
+    "namKetThuc" : "1832"
+  } ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Bùi Dục Tài",
+    "tenGoiKhac" : [ "Bùi Dục Tài" ],
+    "namSinh" : "1477",
+    "namMat" : "1518",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Hoàng Bôi",
+    "tenGoiKhac" : [ "Hoàng Bôi" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Nguyễn Hữu Thận",
+    "tenGoiKhac" : [ "Nguyễn Hữu Thận", "Chân Nguyên", "Ý Trai" ],
+    "namSinh" : "1757",
+    "namMat" : "1831",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Đỗ Hải Thuận",
+    "tenGoiKhac" : [ "Đỗ Hải Thuận" ],
+    "namSinh" : "1806",
+    "namMat" : "1896",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Trần Đình Túc",
+    "tenGoiKhac" : [ "Trần Đình Túc" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1892",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Trần Viết Thọ",
+    "tenGoiKhac" : [ "Trần Viết Thọ" ],
+    "namSinh" : "1836",
+    "namMat" : "1898",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Lê Thế Hiếu",
+    "tenGoiKhac" : [ "Lê Thế Hiếu" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Hồ Xuân Lưu",
+    "tenGoiKhac" : [ "Hồ Xuân Lưu", "Trần Quốc Thảo" ],
+    "namSinh" : "1914",
+    "namMat" : "1957",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Nguyễn Hoàng",
+    "tenGoiKhac" : [ "Nguyễn Hoàng", "Vĩnh Mai" ],
+    "namSinh" : "1918",
+    "namMat" : "1981",
+    "queQuan" : "Quảng Trị"
+  }, {
+    "hoTen" : "Võ Chí Thâm",
+    "tenGoiKhac" : [ "Võ Chí Thâm", "Giác Nhiên" ],
+    "namSinh" : "1877",
+    "namMat" : "1979",
+    "queQuan" : "Quảng Trị"
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc", "Sự kiện: Nhà Nguyễn sắp xếp lại đơn vị hành chính trong cả nước", "Nhân vật: Bùi Dục Tài", "Nhân vật: Hoàng Bôi", "Nhân vật: Nguyễn Hữu Thận", "Nhân vật: Đỗ Hải Thuận", "Nhân vật: Trần Đình Túc", "Nhân vật: Trần Viết Thọ", "Nhân vật: Lê Thế Hiếu", "Nhân vật: Hồ Xuân Lưu", "Nhân vật: Nguyễn Hoàng", "Nhân vật: Võ Chí Thâm" ]
+}, {
+  "tenDiaDiem" : "Thuận Hóa",
+  "noiDung" : "Thuận Hóa là địa danh hành chính cũ của vùng đất bao gồm Quảng Bình, Quảng Trị, Thừa Thiên-Huế. Đây nguyên là đất các châu Bố Chính, Địa Lý, Ma Linh, Châu Ô, Châu Ri (hay Lý) của Chiêm Thành.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Lam Sơn",
+    "namBatDau" : "1418",
+    "namKetThuc" : "1427"
+  }, {
+    "tenSuKien" : "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc",
+    "namBatDau" : "1425",
+    "namKetThuc" : "1426"
+  }, {
+    "tenSuKien" : "Trận Tốt Động – Chúc Động",
+    "namBatDau" : "1426",
+    "namKetThuc" : "1426"
+  }, {
+    "tenSuKien" : "Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng",
+    "namBatDau" : "1627",
+    "namKetThuc" : "1672"
+  }, {
+    "tenSuKien" : "Nguyễn Ánh lên ngôi, triều đình nhà Nguyễn thành lập",
+    "namBatDau" : "1802",
+    "namKetThuc" : "1802"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Lam Sơn", "Sự kiện: Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc", "Sự kiện: Trận Tốt Động – Chúc Động", "Sự kiện: Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng", "Sự kiện: Nguyễn Ánh lên ngôi, triều đình nhà Nguyễn thành lập" ]
+}, {
+  "tenDiaDiem" : "Núi Chí Linh",
+  "noiDung" : "Chí Linh (hay Linh Sơn) là một ngọn núi thuộc huyện Lang Chánh, tỉnh Thanh Hóa. Chí Linh là một ngọn núi cao, hiểm yếu bậc nhất ở thượng du sông Chu (nay thuộc xã Giao An, giữa Lang Chánh và Thường Xuân).",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Lam Sơn",
+    "namBatDau" : "1418",
+    "namKetThuc" : "1427"
+  }, {
+    "tenSuKien" : "Quân Lam Sơn giải phóng Nghệ An",
+    "namBatDau" : "1424",
+    "namKetThuc" : "1424"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Lam Sơn", "Sự kiện: Quân Lam Sơn giải phóng Nghệ An" ]
+}, {
+  "tenDiaDiem" : "Ải Chi Lăng",
+  "noiDung" : "Ải Chi Lăng thuộc xã Chi Lăng, huyện Chi Lăng (Lạng Sơn) nằm trên đường 1A Hà Nội - Lạng Sơn, cách Hà Nội chừng 110km và cách biên giới Việt - Trung 60km. Ải Chi Lăng là một thung lũng hẹp hình bầu dục, xung quanh bốn bề núi cao, có sông Thương chảy qua và nhiều núi lô nhô giữa lòng thung lũng hẹp. Ải Chi Lăng có 2 cửa: cửa phía Bắc gọi là Quỷ môn quan tức là cửa ải con quỷ vì bọn giặc phương Bắc tràn sang nước ta thường qua cửa này. Cửa phía Nam gọi là Ngõ Thề vì ông cha ta xa kia đã thề xả thân giết giặc cứu nước, không cho chúng lọt qua cửa ải này.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Lam Sơn",
+    "namBatDau" : "1418",
+    "namKetThuc" : "1427"
+  }, {
+    "tenSuKien" : "Trận Chi Lăng – Xương Giang",
+    "namBatDau" : "1427",
+    "namKetThuc" : "1427"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Lam Sơn", "Sự kiện: Trận Chi Lăng – Xương Giang" ]
+}, {
+  "tenDiaDiem" : "Lạng Sơn",
+  "noiDung" : "Lạng Sơn là một trong 13 tỉnh được vua Minh Mạng thành lập đầu tiên ở Bắc Kỳ. Tỉnh có phía bắc giáp Cao Bằng, phía đông bắc giáp Sùng Tả (Quảng Tây, Trung Quốc), phía nam giáp Bắc Giang, phía đông nam giáp tỉnh Quảng Ninh, phía tây giáp Bắc Kạn, phía tây nam giáp tỉnh Thái Nguyên. Đây là nơi có Ải Chi Lăng được coi là bức tường thành của Thăng Long xưa kia trước những cuộc viễn chinh của quân xâm lược phương Bắc.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Trận Chi Lăng – Xương Giang",
+    "namBatDau" : "1427",
+    "namKetThuc" : "1427"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Trận Chi Lăng – Xương Giang" ]
+}, {
+  "tenDiaDiem" : "Tốt Động",
+  "noiDung" : "Tốt Động còn gọi là Tụy Động, là một xã nằm ở trung tâm huyện Chương Mỹ, Hà Nội, Việt Nam. Tốt Động là nơi diễn ra trận Tốt Động-Chúc Động chống quân nhà Minh tháng 11 năm 1426, chiến thắng có tính quyết định đến thắng lợi toàn cục của cuộc khởi nghĩa Lam Sơn do Lê Lợi lãnh đạo.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Lam Sơn",
+    "namBatDau" : "1418",
+    "namKetThuc" : "1427"
+  }, {
+    "tenSuKien" : "Trận Tốt Động – Chúc Động",
+    "namBatDau" : "1426",
+    "namKetThuc" : "1426"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Lam Sơn", "Sự kiện: Trận Tốt Động – Chúc Động" ]
+}, {
+  "tenDiaDiem" : "Chúc Động",
+  "noiDung" : "Chúc Động còn gọi là Ninh Kiều (nay là thị trấn Chúc Sơn, huyện Chương Mỹ Hà Nội), là nơi quân Lam Sơn mai phục chặn đánh hậu quân của quân Minh từ Đông Quan kéo ra.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Trận Chi Lăng – Xương Giang",
+    "namBatDau" : "1427",
+    "namKetThuc" : "1427"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Trận Chi Lăng – Xương Giang" ]
+}, {
+  "tenDiaDiem" : "Đàng Trong",
+  "noiDung" : "Đàng Trong còn gọi là Nam Hà là tên gọi bắt nguồn từ thời Trịnh-Nguyễn phân tranh vào thế kỷ 17, chỉ phần lãnh thổ Đại Việt từ sông Gianh (tỉnh Quảng Bình) trở vào Nam. Do đặc điểm cả hai vùng lãnh thổ tuy trên thực tế thuộc hai chính quyền khác nhau, nhưng về danh nghĩa vẫn cùng một quốc gia Đại Việt. Tên gọi Đàng Trong được dùng để chỉ vùng do chúa Nguyễn kiểm soát, vốn nằm xa Trung Quốc hơn nên mới có tên gọi này.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa nông dân Tây Sơn bùng nổ",
+    "namBatDau" : "1771",
+    "namKetThuc" : "1771"
+  }, {
+    "tenSuKien" : "Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong",
+    "namBatDau" : "1777",
+    "namKetThuc" : "1777"
+  }, {
+    "tenSuKien" : "Tây Sơn lật đổ chính quyền họ Trịnh",
+    "namBatDau" : "1786",
+    "namKetThuc" : "1786"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa nông dân Tây Sơn bùng nổ", "Sự kiện: Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong", "Sự kiện: Tây Sơn lật đổ chính quyền họ Trịnh" ]
+}, {
+  "tenDiaDiem" : "Đàng Ngoài",
+  "noiDung" : "Đàng Ngoài hay Bắc Hà, là tên gọi bắt nguồn từ thời Trịnh-Nguyễn phân tranh vào thế kỷ 17 đến cuối thế kỷ 18, chỉ phần lãnh thổ nước Đại Việt từ sông Gianh (tỉnh Quảng Bình) trở ra Bắc. Tên gọi Đàng Ngoài được dùng để chỉ vùng kiểm soát bởi vua Lê - chúa Trịnh, vốn nằm gần Trung Quốc hơn so với Đàng Trong hơn nên mới có tên gọi này. Kinh đô Đàng Ngoài là Thăng Long.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Hoàng Công Chất",
+    "namBatDau" : "1739",
+    "namKetThuc" : "1769"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Nguyễn Danh Phương",
+    "namBatDau" : "1740",
+    "namKetThuc" : "1751"
+  }, {
+    "tenSuKien" : "Khởi nghĩa Nguyễn Hữu Cầu",
+    "namBatDau" : "1471",
+    "namKetThuc" : "1751"
+  }, {
+    "tenSuKien" : "Tây Sơn lật đổ chính quyền họ Trịnh",
+    "namBatDau" : "1786",
+    "namKetThuc" : "1786"
+  }, {
+    "tenSuKien" : "Quân Thanh xâm lược nước ta",
+    "namBatDau" : "1788",
+    "namKetThuc" : "1788"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Hoàng Công Chất", "Sự kiện: Khởi nghĩa Nguyễn Danh Phương", "Sự kiện: Khởi nghĩa Nguyễn Hữu Cầu", "Sự kiện: Tây Sơn lật đổ chính quyền họ Trịnh", "Sự kiện: Quân Thanh xâm lược nước ta" ]
+}, {
+  "tenDiaDiem" : "Phú Xuân",
+  "noiDung" : "Sau khi giải phóng Thuận Hóa - Phú Xuân, Nguyễn Huệ tiếp tục tiến quân ra Bắc phò Lê diệt Trịnh. Khi trở về, Nguyễn Huệ được Nguyễn Nhạc phong làm Bắc Bình Vương, giữ trọng trách cai quản trực tiếp địa bàn từ đèo Hải Vân trở ra. Bắc Bình Vương Nguyễn Huệ chính thức lên ngôi Hoàng đế nhằm dẹp lực lượng của Nguyễn Phúc Ánh trỗi dậy ở phía Nam và quân Thanh tràn vào đất Bắc. Phú Xuân trở thành kinh đô của triều đại Tây Sơn. Phú Xuân thuộc huyện Hương Trà, tỉnh Thừa Thiên",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong",
+    "namBatDau" : "1777",
+    "namKetThuc" : "1777"
+  }, {
+    "tenSuKien" : "Tây Sơn lật đổ chính quyền họ Trịnh",
+    "namBatDau" : "1786",
+    "namKetThuc" : "1786"
+  }, {
+    "tenSuKien" : "Nguyễn Ánh lên ngôi, triều đình nhà Nguyễn thành lập",
+    "namBatDau" : "1802",
+    "namKetThuc" : "1802"
+  }, {
+    "tenSuKien" : "Nhà Nguyễn sắp xếp lại đơn vị hành chính trong cả nước",
+    "namBatDau" : "1831",
+    "namKetThuc" : "1832"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong", "Sự kiện: Tây Sơn lật đổ chính quyền họ Trịnh", "Sự kiện: Nguyễn Ánh lên ngôi, triều đình nhà Nguyễn thành lập", "Sự kiện: Nhà Nguyễn sắp xếp lại đơn vị hành chính trong cả nước" ]
+}, {
+  "tenDiaDiem" : "Huế",
+  "noiDung" : "Huế nằm ở dải đất hẹp của miền Trung Việt Nam và là thành phố tỉnh lỵ của Thừa Thiên - Huế. Thành phố là trung tâm về nhiều mặt của miền Trung như văn hoá, chính trị, kinh tế, giáo dục, y tế, du lịch, khoa học kỹ thuật, đào tạo. Có nhiều giả thuyết về lịch sử tên gọi Huế. Trong các tài liệu sử học cũ ngoại trừ Quốc Triều Chính Biên Toát Yếu khi nói tới Huế, đều dùng cái tên Phú Xuân hoặc Kinh đô, hoặc Kinh, chứ không dùng tên Huế. Theo học giả Thái Văn Kiểm chữ Huế đã xuất hiện trong thời kỳ Nam Bắc phân tranh, chữ Huế bắt nguồn từ chữ Hóa trong địa danh Thuận Hóa hoặc theo học giả Nguyễn Hy Vọng: Huế đã có tên riêng là Huế ngay từ trước 1651 là năm xuất bản tự điển Việt-Bồ-La và không dính gì đến Hóa của châu Hóa hay Thuận Hóa...",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong",
+    "namBatDau" : "1777",
+    "namKetThuc" : "1777"
+  }, {
+    "tenSuKien" : "Thực dân Pháp mở đầu cuộc xâm lược Việt Nam",
+    "namBatDau" : "1858",
+    "namKetThuc" : "1858"
+  }, {
+    "tenSuKien" : "Hiệp ước Patơnốt",
+    "namBatDau" : "1884",
+    "namKetThuc" : "1884"
+  } ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Đồng Khánh",
+    "tenGoiKhac" : [ "Nguyễn Phúc Ưng Ki", "Đồng Khánh" ],
+    "namSinh" : "1863",
+    "namMat" : "1888",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Duy Tân",
+    "tenGoiKhac" : [ "Lê Duy Tân", "Kính Tông" ],
+    "namSinh" : "1588",
+    "namMat" : "1619",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Nguyễn Khoa Đăng",
+    "tenGoiKhac" : [ "Nguyễn Khoa Đăng" ],
+    "namSinh" : "1691",
+    "namMat" : "1725",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Nguyễn Khoa Kiên",
+    "tenGoiKhac" : [ "Nguyễn Khoa Kiên" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1775",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Nguyễn Khoa Toàn",
+    "tenGoiKhac" : [ "Nguyễn Khoa Toàn", "Nguyễn Khoa Thuyên" ],
+    "namSinh" : "1724",
+    "namMat" : "1789",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Trần Văn Kỉ",
+    "tenGoiKhac" : [ "Trần Văn Kỉ", "Trần Chánh Kỉ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1801",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "An Thường",
+    "tenGoiKhac" : [ "An Thường", "Tam Xuân", "Lương Đức" ],
+    "namSinh" : "1817",
+    "namMat" : "1891",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Đẩu Nương",
+    "tenGoiKhac" : [ "Đẩu Nương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Lê Quang Định",
+    "tenGoiKhac" : [ "Lê Quang Định", "Tri Chỉ", "Cấn Trai" ],
+    "namSinh" : "1759",
+    "namMat" : "1813",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Tôn Thất Hân",
+    "tenGoiKhac" : [ "Tôn Thất Hân", "Lạc Chi", "Liên Đình" ],
+    "namSinh" : "1854",
+    "namMat" : "1943",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Tôn Thất Thuyết",
+    "tenGoiKhac" : [ "Tôn Thất Thuyết" ],
+    "namSinh" : "1835",
+    "namMat" : "1913",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Trương Như Cương",
+    "tenGoiKhac" : [ "Trương Như Cương" ],
+    "namSinh" : "1850",
+    "namMat" : "1926",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Đinh Phu Nhân",
+    "tenGoiKhac" : [ "Đinh Phu Nhân", "Đinh Thị Thoán" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Nguyễn Phúc Bửu Đảo",
+    "tenGoiKhac" : [ "Nguyễn Phúc Bửu Đảo", "Khải Định" ],
+    "namSinh" : "1882",
+    "namMat" : "1925",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Nguyễn Phúc Bửu Đình",
+    "tenGoiKhac" : [ "Nguyễn Phúc Bửu Đình", "Bửu Đình", "Hà Trì" ],
+    "namSinh" : "1898",
+    "namMat" : "1931",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Nguyễn Phúc Hồng Dật",
+    "tenGoiKhac" : [ "Nguyễn Phúc Hồng Dật", "Hiệp Hòa" ],
+    "namSinh" : "1847",
+    "namMat" : "1883",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Nguyễn Phúc Ưng Chân",
+    "tenGoiKhac" : [ "Nguyễn Phúc Ưng Chân", "Dục Đức" ],
+    "namSinh" : "1853",
+    "namMat" : "1883",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Nguyễn Phúc Ưng Đăng",
+    "tenGoiKhac" : [ "Nguyễn Phúc Ưng Đăng", "Kiến Phúc" ],
+    "namSinh" : "1869",
+    "namMat" : "1884",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Nguyễn Phúc Ưng Ki",
+    "tenGoiKhac" : [ "Nguyễn Phúc Ưng Ki", "Đồng Khánh" ],
+    "namSinh" : "1863",
+    "namMat" : "1888",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Nguyễn Phúc Ưng Lịch",
+    "tenGoiKhac" : [ "Nguyễn Phúc Ưng Lịch", "Hàm Nghi" ],
+    "namSinh" : "1872",
+    "namMat" : "1943",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Bùi Công Trừng",
+    "tenGoiKhac" : [ "Bùi Công Trừng" ],
+    "namSinh" : "1905",
+    "namMat" : "1986",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Hồ Đắc Hàm",
+    "tenGoiKhac" : [ "Hồ Đắc Hàm" ],
+    "namSinh" : "1879",
+    "namMat" : "1963",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Hồ Tá Khanh",
+    "tenGoiKhac" : [ "Hồ Tá Khanh" ],
+    "namSinh" : "1908",
+    "namMat" : "1996",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Hồ Thị Hạnh",
+    "tenGoiKhac" : [ "Hồ Thị Hạnh", "Diệu Không" ],
+    "namSinh" : "1905",
+    "namMat" : "1997",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Phạm Biểu Tâm",
+    "tenGoiKhac" : [ "Phạm Biểu Tâm" ],
+    "namSinh" : "1913",
+    "namMat" : "1999",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Tôn Thất Tùng",
+    "tenGoiKhac" : [ "Tôn Thất Tùng" ],
+    "namSinh" : "1912",
+    "namMat" : "1982",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Trần Đăng Khoa",
+    "tenGoiKhac" : [ "Trần Đăng Khoa" ],
+    "namSinh" : "1907",
+    "namMat" : "1989",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Trần Đình Xu",
+    "tenGoiKhac" : [ "Trần Đình Xu" ],
+    "namSinh" : "1921",
+    "namMat" : "1969",
+    "queQuan" : "Thừa Thiên-Huế"
+  }, {
+    "hoTen" : "Võ Bá Hạp",
+    "tenGoiKhac" : [ "Võ Bá Hạp", "Trúc Khê", "Nguyên Bích" ],
+    "namSinh" : "1876",
+    "namMat" : "1948",
+    "queQuan" : "Thừa Thiên-Huế"
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong", "Sự kiện: Thực dân Pháp mở đầu cuộc xâm lược Việt Nam", "Sự kiện: Hiệp ước Patơnốt", "Nhân vật: Đồng Khánh", "Nhân vật: Duy Tân", "Nhân vật: Nguyễn Khoa Đăng", "Nhân vật: Nguyễn Khoa Kiên", "Nhân vật: Nguyễn Khoa Toàn", "Nhân vật: Trần Văn Kỉ", "Nhân vật: An Thường", "Nhân vật: Đẩu Nương", "Nhân vật: Lê Quang Định", "Nhân vật: Tôn Thất Hân", "Nhân vật: Tôn Thất Thuyết", "Nhân vật: Trương Như Cương", "Nhân vật: Đinh Phu Nhân", "Nhân vật: Nguyễn Phúc Bửu Đảo", "Nhân vật: Nguyễn Phúc Bửu Đình", "Nhân vật: Nguyễn Phúc Hồng Dật", "Nhân vật: Nguyễn Phúc Ưng Chân", "Nhân vật: Nguyễn Phúc Ưng Đăng", "Nhân vật: Nguyễn Phúc Ưng Ki", "Nhân vật: Nguyễn Phúc Ưng Lịch", "Nhân vật: Bùi Công Trừng", "Nhân vật: Hồ Đắc Hàm", "Nhân vật: Hồ Tá Khanh", "Nhân vật: Hồ Thị Hạnh", "Nhân vật: Phạm Biểu Tâm", "Nhân vật: Tôn Thất Tùng", "Nhân vật: Trần Đăng Khoa", "Nhân vật: Trần Đình Xu", "Nhân vật: Võ Bá Hạp" ]
+}, {
+  "tenDiaDiem" : "Rạch Gầm - Xoài Mút",
+  "noiDung" : "Rạch Gầm-Xoài Mút là tên gọi một đoạn sông Tiền, giới hạn bởi 2 sông nhánh nhỏ là sông Rạch Gầm (phía thượng lưu) và sông Xoài Mút (phía hạ lưu). Đoạn sông này ngày nay nằm giữa địa phận thành phố Mỹ Tho và huyện Châu Thành, tỉnh Tiền Giang, Việt Nam. Tại đây, ngày 20 tháng 1 năm 1785, quân Tây Sơn do Long Nhương Tướng quân Nguyễn Huệ chỉ huy đã đánh bại 2 vạn quân thủy bộ của Xiêm La qua can thiệp giúp chúa Nguyễn Phúc Ánh, đồng thời đốt rụi 200 tháp thuyền to, chỉ còn sống sót được mấy nghìn quân trốn chạy về nước.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Chiến thắng Rạch Gầm – Xoài Mút",
+    "namBatDau" : "1785",
+    "namKetThuc" : "1785"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Chiến thắng Rạch Gầm – Xoài Mút" ]
+}, {
+  "tenDiaDiem" : "Thừa Thiên-Huế",
+  "noiDung" : "Thừa Thiên - Huế là một tỉnh ven biển nằm ở vùng Bắc Trung Bộ Việt Nam, phía bắc giáp tỉnh Quảng Trị, phía đông giáp biển Đông, phía đông nam giáp thành phố Đà Nẵng, phía nam giáp tỉnh Quảng Nam, phía tây giáp dãy Trường Sơn và các tỉnh Saravane và Sekong của Cộng hòa Dân chủ Nhân dân Lào. Thừa Thiên-Huế cách Hà Nội 654 km, Nha Trang 627 km và Thành phố Hồ Chí Minh 1.071 km.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Lê Quang Định",
+    "tenGoiKhac" : [ "Lê Quang Định", "Tri Chỉ", "Cấn Trai" ],
+    "namSinh" : "1759",
+    "namMat" : "1813",
+    "queQuan" : "Thừa Thiên-Huế"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Lê Quang Định" ]
+}, {
+  "tenDiaDiem" : "Đà Nẵng",
+  "noiDung" : "Đà Nẵng là một thành phố thuộc vùng Nam Trung Bộ, Việt Nam. Đây là trung tâm kinh tế, văn hoá, giáo dục, khoa học và công nghệ lớn của khu vực miền Trung - Tây Nguyên. Đà Nẵng hiện là một trong 13 đô thị loại 1 đồng thời là một trong 5 thành phố trực thuộc Trung ương ở Việt Nam",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Thực dân Pháp mở đầu cuộc xâm lược Việt Nam",
+    "namBatDau" : "1858",
+    "namKetThuc" : "1858"
+  }, {
+    "tenSuKien" : "Hiệp ước Nhâm Tuất",
+    "namBatDau" : "1862",
+    "namKetThuc" : "1862"
+  } ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Lê Văn Hiến",
+    "tenGoiKhac" : [ "Lê Văn Hiến" ],
+    "namSinh" : "1904",
+    "namMat" : "1996",
+    "queQuan" : "Đà Nẵng"
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Thực dân Pháp mở đầu cuộc xâm lược Việt Nam", "Sự kiện: Hiệp ước Nhâm Tuất", "Nhân vật: Lê Văn Hiến" ]
+}, {
+  "tenDiaDiem" : "Bán đảo Sơn Trà",
+  "noiDung" : "Bán đảo Sơn Trà nằm trong địa bàn phường Thọ Quang - Quận Sơn Trà - Đà Nẵng, có diện tích 4.439ha đất liền và biển, cách trung tâm thành phố 8km về phía Đông Bắc. Có đỉnh cao nhất là 696m so với mực nước biển và nhiều đỉnh cao trên 500m. Với chiều dài từ đông sang tây là 15km và chỗ rộng nhất là 6km, chỗ hẹp nhất là 2km. Thời xa xưa, Sơn Trà là một hòn đảo gồm 3 ngọn núi nhô cao. Ngọn phía Đông Nam trông như hình con Nghê chồm ra biển nên gọi là ngọn Nghê, ngọn phía tây hình dạng như cái mỏ con diều hâu nên gọi là ngọn Mỏ Diều và ngọn phía bắc vươn về phía của biển dài như cổ ngựa nên gọi là ngọn Cổ Ngựa. Qua thời gian dài, dòng nước biển chảy ven bờ đã tải phù sa đến bồi đắp dần hình thành dãy đất chạy từ đất liền ra đảo. Bán đảo Sơn Trà hình thành từ đó.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Thực dân Pháp mở đầu cuộc xâm lược Việt Nam",
+    "namBatDau" : "1858",
+    "namKetThuc" : "1858"
+  }, {
+    "tenSuKien" : "Quân Pháp đánh chiếm tỉnh thành Gia Định",
+    "namBatDau" : "1859",
+    "namKetThuc" : "1859"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Thực dân Pháp mở đầu cuộc xâm lược Việt Nam", "Sự kiện: Quân Pháp đánh chiếm tỉnh thành Gia Định" ]
+}, {
+  "tenDiaDiem" : "Định Tường",
+  "noiDung" : "Định Tường là một tỉnh cũ ở Tây Nam Bộ Việt Nam, trước đây thuộc nước Chân Lạp, nay thuộc địa bàn các tỉnh Tiền Giang, Bến Tre và Đồng Tháp ngày nay, Tỉnh Định Tường được thành lập năm Minh Mạng thứ 13 (1832) và là một trong 6 tỉnh của Nam Kỳ. Sau nhiều lần thay đổi, đến ngày 22-10-1956 lập lại trên địa bàn 2 tỉnh cũ Mỹ Tho và Gò Công. Tỉnh lỵ tỉnh Định Tường đặt tại Mỹ Tho và vẫn giữ nguyên tên là \"Mỹ Tho\", về mặt hành chánh thuộc xã Điều Hòa, quận Châu Thành. Định Tường là một trong 22 tỉnh của Nam Phần lúc đó và gồm 7 quận ban đầu: Bến Tranh, Cái Bè, Cai Lậy, Châu Thành, Chợ Gạo, Gò Công và Hòa Đồng.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Hiệp ước Nhâm Tuất",
+    "namBatDau" : "1862",
+    "namKetThuc" : "1862"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Hiệp ước Nhâm Tuất" ]
+}, {
+  "tenDiaDiem" : "Mỹ Tho",
+  "noiDung" : "Mỹ Tho là đô thị loại II và là tỉnh lỵ của tỉnh Tiền Giang (trước đó là tỉnh Mỹ Tho), vùng đồng bằng sông Cửu Long, Việt Nam. Vào thế kỷ 17, Mỹ Tho cùng với Cù Lao Phố, Đồng Nai là trong 2 trung tâm thương mại tấp nập nhất Nam Bộ.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa của Trương Định",
+    "namBatDau" : "1861",
+    "namKetThuc" : "1861"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa của Trương Định" ]
+}, {
+  "tenDiaDiem" : "Biên Hòa",
+  "noiDung" : "Biên Hòa là một tỉnh cũ ở Đông Nam Bộ Việt Nam, được thành lập năm Minh Mạng thứ 13 (1832) và là một trong 6 tỉnh của Nam Kỳ.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Hiệp ước Nhâm Tuất",
+    "namBatDau" : "1862",
+    "namKetThuc" : "1862"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Hiệp ước Nhâm Tuất" ]
+}, {
+  "tenDiaDiem" : "Vĩnh Long",
+  "noiDung" : "Vĩnh Long là một tỉnh nằm ở khu vực đồng bằng sông Cửu Long, thuộc miền Nam Việt Nam. Vĩnh Long cách thành phố Hồ Chí Minh 135 km về hướng bắc theo quốc lộ 1, cách thành phố Cần Thơ 33 km về hướng nam theo đường quốc lộ 1.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Hiệp ước Nhâm Tuất",
+    "namBatDau" : "1862",
+    "namKetThuc" : "1862"
+  } ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Đỗ Minh Tâm",
+    "tenGoiKhac" : [ "Đỗ Minh Tâm", "Đỗ Như Tâm", "Minh Giám" ],
+    "namSinh" : "1840",
+    "namMat" : "Không rõ",
+    "queQuan" : "Vĩnh Long"
+  }, {
+    "hoTen" : "Lê Quang Nhơn",
+    "tenGoiKhac" : [ "Lê Quang Nhơn", "Thường Tiên" ],
+    "namSinh" : "1883",
+    "namMat" : "Không rõ",
+    "queQuan" : "Vĩnh Long"
+  }, {
+    "hoTen" : "Phan Huấn Chương",
+    "tenGoiKhac" : [ "Phan Huấn Chương", "Phan Văn Tí" ],
+    "namSinh" : "1900",
+    "namMat" : "1943",
+    "queQuan" : "Vĩnh Long"
+  } ],
+  "thongTinLienQuan" : [ "Sự kiện: Hiệp ước Nhâm Tuất", "Nhân vật: Đỗ Minh Tâm", "Nhân vật: Lê Quang Nhơn", "Nhân vật: Phan Huấn Chương" ]
+}, {
+  "tenDiaDiem" : "Quảng yên",
+  "noiDung" : "Quảng Yên là một tỉnh cũ ở phía đông Bắc Bộ, Việt Nam. Tỉnh lị là thị xã Quảng Yên bên bờ sông Chanh, nay là thị xã Quảng Yên thuộc tỉnh Quảng Ninh. Tỉnh Quảng Yên được thành lập năm 1831, dưới thời Minh Mạng. Trước đó, nó là trấn An Bang thuộc Đông Đạo thời Lê, trấn An Quảng cuối thời Lê đầu thời Nguyễn. Còn gọi không chính thức là tỉnh Đông.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Vũng Tàu",
+  "noiDung" : "Vũng Tàu là thành phố thuộc tỉnh Bà Rịa - Vũng Tàu, ở vùng Đông Nam Bộ Việt Nam. Vũng Tàu từng là trung tâm kinh tế, tài chính, văn hóa và giáo dục của tỉnh Bà Rịa - Vũng Tàu và là một trong những trung tâm kinh tế của vùng Đông Nam Bộ. Từ ngày 2 tháng 5 năm 2012, tỉnh lỵ Bà Rịa-Vũng Tàu chuyển đến thành phố Bà Rịa. Vũng Tàu là một thành phố ven biển, một địa điểm du lịch của miền Nam Việt Nam. Vũng Tàu là khu vực hậu cần của ngành công nghiệp dầu khí Việt Nam. Đô thị loại I trực thuộc tỉnh đầu tiên của cả Nam bộ, được công nhận vào ngày 23/04/2013.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Hoàng Khương Ninh",
+    "tenGoiKhac" : [ "Hoàng Khương Ninh", "Huỳnh Khương Ninh" ],
+    "namSinh" : "1890",
+    "namMat" : "1950",
+    "queQuan" : "Bà Rịa - Vũng Tàu"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Hoàng Khương Ninh" ]
+}, {
+  "tenDiaDiem" : "Kiên Giang",
+  "noiDung" : "Kiên Giang là một tỉnh ven biển thuộc đồng bằng sông Cửu Long ở miền Nam Việt Nam, với phần lớn diện tích của tỉnh thuộc địa bàn tỉnh Rạch Giá trước đó. Tuy nhiên, cũng có thời kỳ toàn bộ diện tích tỉnh Kiên Giang ngày nay đều thuộc tỉnh Rạch Giá, bao gồm cả các vùng Hà Tiên và Phú Quốc. Trung tâm tỉnh là thành phố Rạch Giá, cách thành phố Hồ Chí Minh 250 km về phía Tây. Kiên Giang tiếp giáp Campuchia ở phía Bắc với đường biên giới dài 54 km và vịnh Thái Lan ở phía Tây có đường bờ biển dài hơn 200 km. Ngoài ra Kiên Giang có hơn 100 đảo lớn nhỏ ngoài biển.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Phú Quốc",
+  "noiDung" : "Phú Quốc, còn được mệnh danh là Đảo Ngọc, là hòn đảo lớn nhất của Việt Nam, cũng là đảo lớn nhất trong quần thể 22 đảo tại đây, nằm trong vịnh Thái Lan. Đảo Phú Quốc cùng với các đảo khác tạo thành huyện đảo Phú Quốc trực thuộc tỉnh Kiên Giang.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Yên Thế",
+  "noiDung" : "Yên Thế nằm ở phía tây bắc tỉnh Bắc Giang, có diện tích khoảng 40-50 km2, với đất đồi là chủ yếu. Phía bắc yên Thế có những cánh rừng rậm rạp. Từ đây có thể đi thông sang Thái Nguyên, Lạng Sơn hay Tam Đảo, xuống Vĩnh Yên, Phúc Yên, Hà Nội.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Yên Thế",
+    "namBatDau" : "1884",
+    "namKetThuc" : "1913"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Yên Thế" ]
+}, {
+  "tenDiaDiem" : "Bắc Giang",
+  "noiDung" : "Bắc Giang là một tỉnh thuộc vùng đông bắc Việt Nam. Về quy hoạch kinh tế trước đây Bắc Giang nằm trong vùng trung du và miền núi phía bắc, từ năm 2012 là tỉnh nằm trong quy hoạch vùng thủ đô Hà Nội. Bắc Giang giáp với nhiều tỉnh thành, phía bắc giáp Lạng Sơn, phía đông giáp Quảng Ninh, phía tây giáp Thái Nguyên và Hà Nội, phía nam giáp Bắc Ninh và Hải Dương. Tỉnh lỵ là thành phố Bắc Giang, cách trung tâm thủ đô Hà Nội 51 km.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Giáp Hải",
+    "tenGoiKhac" : [ "Giáp Hải", "Giáp Trưng", "Tiêm Phu", "Tuyết Trai" ],
+    "namSinh" : "1516",
+    "namMat" : "1588",
+    "queQuan" : "Hà Nội"
+  }, {
+    "hoTen" : "Nguyễn Xuân Oánh",
+    "tenGoiKhac" : [ "Nguyễn Xuân Oánh" ],
+    "namSinh" : "1921",
+    "namMat" : "2003",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Văn Tân",
+    "tenGoiKhac" : [ "Trần Đức Sắc", "Văn Tân" ],
+    "namSinh" : "1913",
+    "namMat" : "1988",
+    "queQuan" : "Hà Tây"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Giáp Hải", "Nhân vật: Nguyễn Xuân Oánh", "Nhân vật: Văn Tân" ]
+}, {
+  "tenDiaDiem" : "Bắc Ninh",
+  "noiDung" : "Bắc Ninh là một tỉnh có diện tích nhỏ nhất Việt Nam thuộc đồng bằng sông Hồng và nằm trên Vùng kinh tế trọng điểm Bắc bộ. Bắc Ninh tiếp giáp với vùng trung du Bắc bộ tại tỉnh Bắc Giang. Tỉnh lỵ là thành phố Bắc Ninh nằm cách trung tâm Hà Nội 30 km về phía đông bắc, phía tây và tây nam giáp thủ đô Hà Nội, phía bắc giáp tỉnh Bắc Giang, phía đông và đông nam giáp tỉnh Hải Dương, phía nam giáp tỉnh Hưng Yên.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Ỷ Lan",
+    "tenGoiKhac" : [ "Ỷ Lan", "Lê Thị Yến Loan" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1117",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nguyễn Giản Thanh",
+    "tenGoiKhac" : [ "Nguyễn Giản Thanh", "Nguyễn Giản Liêm", "Cự Nguyên", "Phác Hiên", "Trạng Me" ],
+    "namSinh" : "1481",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nguyễn Gia Thiều",
+    "tenGoiKhac" : [ "Nguyễn Gia Thiều", "Tân Trai", "Hi Tôn Tử", "Như Ý Thiền", "Siêu Chân" ],
+    "namSinh" : "1741",
+    "namMat" : "1789",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Cao Lỗ",
+    "tenGoiKhac" : [ "Cao Thông", "Cao Lỗ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "180 TrCN",
+    "queQuan" : "Không rõ"
+  }, {
+    "hoTen" : "Phù Đổng Thiên Vương",
+    "tenGoiKhac" : [ "Phù Đổng Thiên Vương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Vạn Hạnh",
+    "tenGoiKhac" : [ "Vạn Hạnh", "Nguyễn Vạn Hạnh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1018",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Âu Đạo Huệ",
+    "tenGoiKhac" : [ "Âu Đạo Huệ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1173",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nguyễn Nộn",
+    "tenGoiKhac" : [ "Nguyễn Nộn" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1229",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nguyễn Quảng Nghiêm",
+    "tenGoiKhac" : [ "Nguyễn Quảng Nghiêm", "Quảng Nghiêm" ],
+    "namSinh" : "1121",
+    "namMat" : "1190",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Phan Trường Nguyên",
+    "tenGoiKhac" : [ "Phan Trường Nguyên" ],
+    "namSinh" : "1110",
+    "namMat" : "1165",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Vạn Trì Bát",
+    "tenGoiKhac" : [ "Vạn Trì Bát" ],
+    "namSinh" : "1049",
+    "namMat" : "1117",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Viên Thông",
+    "tenGoiKhac" : [ "Viên Thông" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1151",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Vương Hải Thiềm",
+    "tenGoiKhac" : [ "Vương Hải Thiềm" ],
+    "namSinh" : "1046",
+    "namMat" : "1100",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Ỷ Lan",
+    "tenGoiKhac" : [ "Ỷ Lan", "Lê Thị Yến Loan" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1117",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Dương Như Châu",
+    "tenGoiKhac" : [ "Dương Như Châu" ],
+    "namSinh" : "1448",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Dương Tôn Hải",
+    "tenGoiKhac" : [ "Dương Tôn Hải" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Dương Tử Do",
+    "tenGoiKhac" : [ "Dương Tử Do" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Đàm Thận Huy",
+    "tenGoiKhac" : [ "Đàm Thận Huy" ],
+    "namSinh" : "1463",
+    "namMat" : "1528",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Đàm Văn Lễ",
+    "tenGoiKhac" : [ "Đàm Văn Lễ" ],
+    "namSinh" : "1452",
+    "namMat" : "1505",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nghiêm Bá Ký",
+    "tenGoiKhac" : [ "Nghiêm Bá Ký" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1530",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nghiêm Hiến",
+    "tenGoiKhac" : [ "Nghiêm Hiến" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nghiêm Ích Khiêm",
+    "tenGoiKhac" : [ "Nghiêm Ích Khiêm" ],
+    "namSinh" : "1459",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nghiêm Viến",
+    "tenGoiKhac" : [ "Nghiêm Viến" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nguyễn Giản Thanh",
+    "tenGoiKhac" : [ "Nguyễn Giản Thanh", "Nguyễn Giản Liêm", "Cự Nguyên", "Phác Hiên", "Trạng Me" ],
+    "namSinh" : "1481",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Hoàng Sĩ Khải",
+    "tenGoiKhac" : [ "Hoàng Sĩ Khải" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Đặng Chất",
+    "tenGoiKhac" : [ "Đặng Chất" ],
+    "namSinh" : "1622",
+    "namMat" : "1683",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nguyễn Gia Thiều",
+    "tenGoiKhac" : [ "Nguyễn Gia Thiều", "Tân Trai", "Hi Tôn Tử", "Như Ý Thiền", "Siêu Chân" ],
+    "namSinh" : "1741",
+    "namMat" : "1789",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Võ Miên",
+    "tenGoiKhac" : [ "Võ Miên" ],
+    "namSinh" : "1718",
+    "namMat" : "1782",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Lê Thị Ngọc Hân",
+    "tenGoiKhac" : [ "Lê Thị Ngọc Hân", "Ngọc Hân" ],
+    "namSinh" : "1771",
+    "namMat" : "1799",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "An Thiền",
+    "tenGoiKhac" : [ "An Thiền" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Bạch Công Trân",
+    "tenGoiKhac" : [ "Bạch Công Trân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1854",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nguyễn Thứ Lễ",
+    "tenGoiKhac" : [ "Nguyễn Thứ Lễ", "Thế Lữ", "Lê Ta" ],
+    "namSinh" : "1907",
+    "namMat" : "1989",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Nguyễn Xuân Oánh",
+    "tenGoiKhac" : [ "Nguyễn Xuân Oánh" ],
+    "namSinh" : "1921",
+    "namMat" : "2003",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Trần Đức Thảo",
+    "tenGoiKhac" : [ "Trần Đức Thảo" ],
+    "namSinh" : "1917",
+    "namMat" : "1993",
+    "queQuan" : "Bắc Ninh"
+  }, {
+    "hoTen" : "Vũ Đình Chí",
+    "tenGoiKhac" : [ "Vũ Đình Chí", "Tam Lang" ],
+    "namSinh" : "1901",
+    "namMat" : "1986",
+    "queQuan" : "Bắc Ninh"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Ỷ Lan", "Nhân vật: Nguyễn Giản Thanh", "Nhân vật: Nguyễn Gia Thiều", "Nhân vật: Cao Lỗ", "Nhân vật: Phù Đổng Thiên Vương", "Nhân vật: Vạn Hạnh", "Nhân vật: Âu Đạo Huệ", "Nhân vật: Nguyễn Nộn", "Nhân vật: Nguyễn Quảng Nghiêm", "Nhân vật: Phan Trường Nguyên", "Nhân vật: Vạn Trì Bát", "Nhân vật: Viên Thông", "Nhân vật: Vương Hải Thiềm", "Nhân vật: Ỷ Lan", "Nhân vật: Dương Như Châu", "Nhân vật: Dương Tôn Hải", "Nhân vật: Dương Tử Do", "Nhân vật: Đàm Thận Huy", "Nhân vật: Đàm Văn Lễ", "Nhân vật: Nghiêm Bá Ký", "Nhân vật: Nghiêm Hiến", "Nhân vật: Nghiêm Ích Khiêm", "Nhân vật: Nghiêm Viến", "Nhân vật: Nguyễn Giản Thanh", "Nhân vật: Hoàng Sĩ Khải", "Nhân vật: Đặng Chất", "Nhân vật: Nguyễn Gia Thiều", "Nhân vật: Võ Miên", "Nhân vật: Lê Thị Ngọc Hân", "Nhân vật: An Thiền", "Nhân vật: Bạch Công Trân", "Nhân vật: Nguyễn Thứ Lễ", "Nhân vật: Nguyễn Xuân Oánh", "Nhân vật: Trần Đức Thảo", "Nhân vật: Vũ Đình Chí" ]
+}, {
+  "tenDiaDiem" : "Hương Khê",
+  "noiDung" : "Hương Khê là một huyện miền núi nằm ở phía tây nam tỉnh Hà Tĩnh, diện tích: 1278,0909 km². Phía Tây giáp Lào, phía Nam giáp tỉnh Quảng Bình, phía Đông giáp huyện Cẩm Xuyên và Thạch Hà, phía Bắc giáp Vũ Quang và Can Lộc. Tại nơi đây có một đại bản doanh của một cuộc khởi nghĩa lớn, quy mô lan rộng cà 4 tỉnh Bắc Trung Kì, kéo dài từ năm 1885 đến 1896. Đó là cuộc khởi nghĩa Phan Đình Phùng.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Khởi nghĩa Hương Khê",
+    "namBatDau" : "1885",
+    "namKetThuc" : "1896"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Khởi nghĩa Hương Khê" ]
+}, {
+  "tenDiaDiem" : "Bến Nhà Rồng",
+  "noiDung" : "Bến Nhà Rồng, hay Bảo tàng Hồ Chí Minh, khởi đầu là một thương cảng lớn của Sài Gòn. Thương cảng này nằm trên sông Sài Gòn và được xây dựng từ 1864, trên khu vực gần cầu Khánh Hội, nay thuộc quận 4, thành phố Hồ Chí Minh. Tại nơi đây, vào ngày 5 tháng 6 năm 1911, người thanh niên Việt Nam yêu nước Nguyễn Tất Thành đã ra đi tìm đường cứu nước. Sau hơn 30 năm bôn ba ở nước ngoài Nguyễn Tất Thành trở thành nhà cách mạng lãnh đạo nhân dân Việt Nam đứng lên làm cuộc Cách mạng Tháng 8, lập ra nước Việt Nam Dân chủ Cộng hòa. Người thanh niên ra đi tìm đường cứu nước năm xưa chính là Chủ tịch Hồ Chí Minh sau này.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Yên Bái",
+  "noiDung" : "Yên Bái là một tỉnh được thành lập năm 1900, thuộc vùng trung du và miền núi phía Bắc Việt Nam, nằm ở vùng Tây Bắc tiếp giáp với Đông Bắc. Phía đông bắc giáp hai tỉnh Tuyên Quang và Hà Giang, phía đông nam giáp tỉnh Phú Thọ, phía tây nam giáp tỉnh Sơn La, phía tây bắc giáp hai tỉnh Lai Châu và Lào Cai. Yên Bái là một điểm sinh tụ của người Việt cổ, có nền văn hoá nhân bản, thể hiện ở những di vật, di chỉ phát hiện ở hang Hùm, công cụ bằng đá ở Thẩm Thoóng, thạp đồng Đào Thịnh, Hợp Minh, trống đồng Minh Xuân. Nhiều di chỉ khảo cổ được phát hiện, như đền, tháp, khu di tích lịch sử. Tỉnh Yên Bái được biết đến qua cuộc Khởi nghĩa Yên Bái của Việt Nam Quốc Dân Đảng vào thượng tuần tháng 2 năm 1930. Lãnh tụ là Nguyễn Thái Học đã bị thực dân Pháp bắt và đem hành quyết bằng máy chém ở Yên Bái cùng 12 đồng đội vào ngày 17 tháng 6 năm 1930.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Hoàng Trung Thông",
+    "tenGoiKhac" : [ "Hoàng Trung Thông" ],
+    "namSinh" : "1925",
+    "namMat" : "1993",
+    "queQuan" : "Nghệ An"
+  }, {
+    "hoTen" : "Phạm Lợi",
+    "tenGoiKhac" : [ "Phạm Lợi" ],
+    "namSinh" : "1912",
+    "namMat" : "1984",
+    "queQuan" : "Yên Bái"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Hoàng Trung Thông", "Nhân vật: Phạm Lợi" ]
+}, {
+  "tenDiaDiem" : "Nam Định",
+  "noiDung" : "Nam Định là một tỉnh lớn với hơn 2 triệu dân nằm ở phía Nam đồng bằng Bắc Bộ. Theo quy hoạch năm 2008 thì Nam Định thuộc vùng duyên hải Bắc Bộ. Với lịch sử lâu đời và trải qua nhiều thay đổi đến ngày nay tỉnh Nam Định có 10 đơn vị hành chính, bao gồm: 1 thành phố và 9 huyện. Nam Định cũng nổi tiếng với các truyền thống hiếu học, nhiều di tích lịch sử như Đền Trần, Đền An Lá, Hội Phủ Giầy...và nhiều đặc sản nổi tiếng như: Gạo tám xoan, Hải Hậu và Chuối ngự.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Cường Bạo Đại Vương",
+    "tenGoiKhac" : [ "Cường Bạo Đại Vương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Lê Hoàn",
+    "tenGoiKhac" : [ "Lê Hoàn" ],
+    "namSinh" : "941",
+    "namMat" : "1005",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Lê Long Cảnh",
+    "tenGoiKhac" : [ "Lê Long Cảnh", "Lê Long Kính" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Lê Long Đinh",
+    "tenGoiKhac" : [ "Lê Long Đinh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Lê Long Đĩnh",
+    "tenGoiKhac" : [ "Lê Long Đĩnh" ],
+    "namSinh" : "985",
+    "namMat" : "1009",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Lê Long Việt",
+    "tenGoiKhac" : [ "Lê Long Việt", "Lê Trung Tông" ],
+    "namSinh" : "983",
+    "namMat" : "1005",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Lê Ngân Tích",
+    "tenGoiKhac" : [ "Lê Ngân Tích" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Trần Anh Tông",
+    "tenGoiKhac" : [ "Trần Anh Tông", "Trần Thuyên" ],
+    "namSinh" : "1276",
+    "namMat" : "1320",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Trần Bình Trọng",
+    "tenGoiKhac" : [ "Trần Bình Trọng" ],
+    "namSinh" : "1259",
+    "namMat" : "1295",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Trần Cảnh",
+    "tenGoiKhac" : [ "Trần Cảnh", "Trần Thái Tông" ],
+    "namSinh" : "1218",
+    "namMat" : "1277",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Trần Hoảng",
+    "tenGoiKhac" : [ "Trần Hoảng", "Trần Thánh Tông" ],
+    "namSinh" : "1240",
+    "namMat" : "1290",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Trần Mạnh",
+    "tenGoiKhac" : [ "Trần Mạnh", "Trần Minh Tông" ],
+    "namSinh" : "1300",
+    "namMat" : "1357",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Võ Đình Dung",
+    "tenGoiKhac" : [ "Võ Đình Dung" ],
+    "namSinh" : "1699",
+    "namMat" : "1740",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Đỗ Huy Liêu",
+    "tenGoiKhac" : [ "Đỗ Huy Liêu", "Đỗ Đình Liêu" ],
+    "namSinh" : "1844",
+    "namMat" : "1891",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Đỗ Huy Uyển",
+    "tenGoiKhac" : [ "Đỗ Huy Uyển", "Tân Giang" ],
+    "namSinh" : "1816",
+    "namMat" : "1882",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Lữ Xuân Uy",
+    "tenGoiKhac" : [ "Lữ Xuân Uy", "Thúc Bào" ],
+    "namSinh" : "1838",
+    "namMat" : "1890",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Phạm Đăng Giảng",
+    "tenGoiKhac" : [ "Phạm Đăng Giảng" ],
+    "namSinh" : "1834",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Lê Trọng Hàm",
+    "tenGoiKhac" : [ "Lê Trọng Hàm", "Quốc Ninh", "Đồng Giang" ],
+    "namSinh" : "1872",
+    "namMat" : "1931",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Nguyễn Ngọc Tương",
+    "tenGoiKhac" : [ "Nguyễn Ngọc Tương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Vũ Văn Hiếu",
+    "tenGoiKhac" : [ "Vũ Văn Hiếu" ],
+    "namSinh" : "1907",
+    "namMat" : "1940",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Bùi Lâm",
+    "tenGoiKhac" : [ "Bùi Lâm" ],
+    "namSinh" : "1896",
+    "namMat" : "1984",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Bùi Phong Tư",
+    "tenGoiKhac" : [ "Bùi Phong Tư", "Nguyễn Đức Thuận" ],
+    "namSinh" : "1916",
+    "namMat" : "1985",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Hoàng Minh Giám",
+    "tenGoiKhac" : [ "Hoàng Minh Giám" ],
+    "namSinh" : "1913",
+    "namMat" : "1992",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Hoàng Phạm Trân",
+    "tenGoiKhac" : [ "Hoàng Phạm Trân", "Nhượng Tống", "Mạc Bảo Thần" ],
+    "namSinh" : "1904",
+    "namMat" : "1949",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Nguyễn Đức Thuận",
+    "tenGoiKhac" : [ "Nguyễn Đức Thuận", "Bùi Phong Tư" ],
+    "namSinh" : "1916",
+    "namMat" : "1985",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Phạm Đình Tân",
+    "tenGoiKhac" : [ "Phạm Đình Tân", "Từ Huệ", "Lĩnh Việt" ],
+    "namSinh" : "1913",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Phạm Đức Hạp",
+    "tenGoiKhac" : [ "Phạm Đức Hạp", "Đức Nhuận" ],
+    "namSinh" : "1897",
+    "namMat" : "1993",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Trần Dần",
+    "tenGoiKhac" : [ "Trần Dần", "Trần Văn Dần" ],
+    "namSinh" : "1926",
+    "namMat" : "1997",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Trần Huy Liệu",
+    "tenGoiKhac" : [ "Trần Huy Liệu", "Nam Kiều", "Đẩu Nam", "Hải Khánh", "Côi Vị", "Ẩm Hân", "Kiếm Bút" ],
+    "namSinh" : "1901",
+    "namMat" : "1969",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Hoàng Minh Tuynh",
+    "tenGoiKhac" : [ "Hoàng Minh Tuynh" ],
+    "namSinh" : "1916",
+    "namMat" : "1977",
+    "queQuan" : "Nam Định"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Cường Bạo Đại Vương", "Nhân vật: Lê Hoàn", "Nhân vật: Lê Long Cảnh", "Nhân vật: Lê Long Đinh", "Nhân vật: Lê Long Đĩnh", "Nhân vật: Lê Long Việt", "Nhân vật: Lê Ngân Tích", "Nhân vật: Trần Anh Tông", "Nhân vật: Trần Bình Trọng", "Nhân vật: Trần Cảnh", "Nhân vật: Trần Hoảng", "Nhân vật: Trần Mạnh", "Nhân vật: Võ Đình Dung", "Nhân vật: Đỗ Huy Liêu", "Nhân vật: Đỗ Huy Uyển", "Nhân vật: Lữ Xuân Uy", "Nhân vật: Phạm Đăng Giảng", "Nhân vật: Lê Trọng Hàm", "Nhân vật: Nguyễn Ngọc Tương", "Nhân vật: Vũ Văn Hiếu", "Nhân vật: Bùi Lâm", "Nhân vật: Bùi Phong Tư", "Nhân vật: Hoàng Minh Giám", "Nhân vật: Hoàng Phạm Trân", "Nhân vật: Nguyễn Đức Thuận", "Nhân vật: Phạm Đình Tân", "Nhân vật: Phạm Đức Hạp", "Nhân vật: Trần Dần", "Nhân vật: Trần Huy Liệu", "Nhân vật: Hoàng Minh Tuynh" ]
+}, {
+  "tenDiaDiem" : "Thanh Chương",
+  "noiDung" : "Thanh Chương là một huyện miền núi nằm ở phía tây nam thuộc tỉnh Nghệ An. phía tây nam giáp tỉnh Bolikhamxai của Lào; phía đông giáp huyện Đô Lương và Nam Đàn; phía tây bắc giáp huyện Anh Sơn; phía đông bắc giáp huyện Đô Lương; phía nam giáp huyện Hương Sơn. Huyện lỵ cách thành phố Vinh 50 km. Đây là huyện được UNESCO đưa vào danh sách các địa danh thuộc Khu dự trữ sinh quyển miền tây Nghệ An.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Nam Đàn",
+  "noiDung" : "Huyện Nam Đàn nằm ở hạ lưu sông Lam, phần lớn diện tích ở tả ngạn sông Lam và một phần ở hữu ngạn sông Lam. Diện tích khoảng 293,90 km2, phía đông giáp huyện Hưng Nguyên và huyện Nghi Lộc, phía Tây giáp huyện Thanh Chương, phía Bắc giáp huyện Đô Lương, phía Nam giáp huyện Hương Sơn và huyện Đức Thọ thuộc tỉnh Hà Tĩnh. Huyện lỵ của Nam Đàn đóng ở thị trấn Nam Đàn, trên đường quốc lộ 46 Vinh - Đô Lương, cách thành phố Vinh 21 km về phía Đông",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Dạ Trạch",
+  "noiDung" : "Dạ Trạch là một xã thuộc huyện Khoái Châu, tỉnh Hưng Yên nằm bên bờ sông Hồng. Tên xã lấy từ tên của đầm Dạ Trạch, xuất phát từ điển tích đầm một đêm (Nhất Dạ Trạch) của truyền thuyết Tiên Dung-Chử Đồng Tử trong dân gian. Thế kỉ thứ VI, Triệu Quang Phục đã ém binh trong vùng đầm lầy Dạ Trạch, đêm đêm tiến ra đánh tỉa quân xâm lược nhà Lương. Ở đây còn là căn cứ của nghĩa quân Nguyễn Thiện Thuật trong phong trào Cần Vương chống thực dân Pháp xâm lược của vua Hàm Nghi.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Nhật Nam",
+  "noiDung" : "Nhật Nam là một địa danh cũ của Việt Nam thời Bắc thuộc mà nhà Hán lập nên để cai quản Việt Nam. Quận Nhật Nam có vị trí bắt đầu từ đèo Ngang (tỉnh Quảng Bình) đến Quảng Ngãi, Bình Định. Theo Hán thư, quận này thành lập năm Nguyên Đỉnh thứ 6 (111 TCN) thời Hán Vũ Đế, bao gồm 15.400 hộ, 69.485 khẩu, chưa bằng nửa Cửu Chân (35.743 hộ, 166.013 khẩu) và chỉ bằng một phần sáu Giao Chỉ (92.440 hộ, 746.237 khẩu)",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Nhà Hán đánh bại nhà Triệu, đô hộ Âu Lạc",
+    "namBatDau" : "111",
+    "namKetThuc" : "111"
+  }, {
+    "tenSuKien" : "Hơn 2000 dân Tượng Lâm quận Nhật Nam khởi nghĩa chống chính quyền đô hộ nhà Hán",
+    "namBatDau" : "100",
+    "namKetThuc" : "100"
+  }, {
+    "tenSuKien" : "Khởi nghĩa ở quận Nhật Nam",
+    "namBatDau" : "137",
+    "namKetThuc" : "137"
+  }, {
+    "tenSuKien" : "Nhà nước Lâm Ấp được thành lập",
+    "namBatDau" : "190",
+    "namKetThuc" : "190"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Nhà Hán đánh bại nhà Triệu, đô hộ Âu Lạc", "Sự kiện: Hơn 2000 dân Tượng Lâm quận Nhật Nam khởi nghĩa chống chính quyền đô hộ nhà Hán", "Sự kiện: Khởi nghĩa ở quận Nhật Nam", "Sự kiện: Nhà nước Lâm Ấp được thành lập" ]
+}, {
+  "tenDiaDiem" : "Giao Chỉ",
+  "noiDung" : "Giao Chỉ là tên gọi địa danh một phần lãnh thổ Việt Nam trong lịch sử, từ thời Hùng Vương đến các kỳ thời Bắc thuộc. Giao Chỉ nguyên là tên gọi của một bộ trong số 15 bộ của nước Văn Lang thời xưa. Bộ Giao Chỉ thời Hùng Vương tương đương miền Hà Nội ngày nay và miền hữu ngạn sông Hồng.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Kháng chiến của nhân dân ta chống quân xâm lược Hán",
+    "namBatDau" : "42",
+    "namKetThuc" : "43"
+  }, {
+    "tenSuKien" : "Nhà Hán đánh bại nhà Triệu, đô hộ Âu Lạc",
+    "namBatDau" : "111",
+    "namKetThuc" : "111"
+  }, {
+    "tenSuKien" : "Nhà Hán lập Giao Chỉ Bộ",
+    "namBatDau" : "106",
+    "namKetThuc" : "106"
+  }, {
+    "tenSuKien" : "Tô Định làm Thái thú Giao Chỉ",
+    "namBatDau" : "34",
+    "namKetThuc" : "34"
+  }, {
+    "tenSuKien" : "Nhà Hán cử Mã Viện cùng với Đoàn Chí đem quân sang đánh Trưng Vương",
+    "namBatDau" : "41",
+    "namKetThuc" : "41"
+  }, {
+    "tenSuKien" : "Mã Viện đánh vào Giao Chỉ",
+    "namBatDau" : "42",
+    "namKetThuc" : "42"
+  }, {
+    "tenSuKien" : "Khởi nghĩa ở quận Nhật Nam",
+    "namBatDau" : "137",
+    "namKetThuc" : "137"
+  }, {
+    "tenSuKien" : "Nhà Hán suy yếu Nho giáo bắt đầu du nhập vào nước ta",
+    "namBatDau" : "187",
+    "namKetThuc" : "187"
+  }, {
+    "tenSuKien" : "Nhà Hán đặt Giao Chỉ thành Giao Châu",
+    "namBatDau" : "203",
+    "namKetThuc" : "203"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Kháng chiến của nhân dân ta chống quân xâm lược Hán", "Sự kiện: Nhà Hán đánh bại nhà Triệu, đô hộ Âu Lạc", "Sự kiện: Nhà Hán lập Giao Chỉ Bộ", "Sự kiện: Tô Định làm Thái thú Giao Chỉ", "Sự kiện: Nhà Hán cử Mã Viện cùng với Đoàn Chí đem quân sang đánh Trưng Vương", "Sự kiện: Mã Viện đánh vào Giao Chỉ", "Sự kiện: Khởi nghĩa ở quận Nhật Nam", "Sự kiện: Nhà Hán suy yếu Nho giáo bắt đầu du nhập vào nước ta", "Sự kiện: Nhà Hán đặt Giao Chỉ thành Giao Châu" ]
+}, {
+  "tenDiaDiem" : "Cửu Chân",
+  "noiDung" : "Quận Cửu Chân là địa danh cổ của Việt Nam gồm địa phận tỉnh Thanh Hóa và một phần tỉnh Ninh Bình vào thời Vua Hùng. Thời nhà Hán lập quận Cửu bao gồm vùng Thanh Hóa, Nghệ An, Hà Tĩnh và một phần Ninh Bình ngày nay. Trải qua thời nhà Đông Ngô thời Tam quốc, rồi Nhà Tấn, tiếp đến là Nam Bắc triều, quận Cửu Chân có nhiều thay đổi. Cho đến năm 1397, vua Trần Thuận Tông đổi làm trấn Thanh Đô, gồm 3 châu và 7 huyện",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Nhà Hán đánh bại nhà Triệu, đô hộ Âu Lạc",
+    "namBatDau" : "111",
+    "namKetThuc" : "111"
+  }, {
+    "tenSuKien" : "Khởi nghĩa ở quận Nhật Nam",
+    "namBatDau" : "137",
+    "namKetThuc" : "137"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Nhà Hán đánh bại nhà Triệu, đô hộ Âu Lạc", "Sự kiện: Khởi nghĩa ở quận Nhật Nam" ]
+}, {
+  "tenDiaDiem" : "Đồng Tháp",
+  "noiDung" : "Đồng Tháp là một tỉnh nằm ở miền Tây Nam Bộ, thuộc vùng Đồng bằng sông Cửu Long, Việt Nam. Diện tích khoảng 3.377,0 km², tỉnh lỵ là thành phố Cao Lãnh. Vùng đất Đồng Tháp được Chúa Nguyễn khai phá vào khoảng thế kỷ XVII, XVIII. Từ đầu thế kỷ XVII, đã có lưu dân Việt đến vùng Sa Đéc khẩn hoang, lập ấp.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Đỗ Công Tường",
+    "tenGoiKhac" : [ "Đỗ Công Tường" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Nguyễn Văn Linh",
+    "tenGoiKhac" : [ "Nguyễn Văn Linh" ],
+    "namSinh" : "1815",
+    "namMat" : "1861",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Trần Hữu Thường",
+    "tenGoiKhac" : [ "Trần Hữu Thường" ],
+    "namSinh" : "1844",
+    "namMat" : "1921",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Đinh Hữu Thuật",
+    "tenGoiKhac" : [ "Đinh Hữu Thuật" ],
+    "namSinh" : "1881",
+    "namMat" : "1942",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Phạm Nhân Thuần",
+    "tenGoiKhac" : [ "Phạm Nhân Thuần" ],
+    "namSinh" : "1871",
+    "namMat" : "1929",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Nguyễn Thành Giung",
+    "tenGoiKhac" : [ "Nguyễn Thành Giung" ],
+    "namSinh" : "1894",
+    "namMat" : "1959",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Phạm Hữu Lầu",
+    "tenGoiKhac" : [ "Phạm Hữu Lầu" ],
+    "namSinh" : "1905",
+    "namMat" : "1959",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Trần Chí Thành",
+    "tenGoiKhac" : [ "Trần Chí Thành", "Trần Tấn Quốc" ],
+    "namSinh" : "1914",
+    "namMat" : "1987",
+    "queQuan" : "Đồng Tháp"
+  }, {
+    "hoTen" : "Lê Quang Hương",
+    "tenGoiKhac" : [ "Lê Quang Hương", "Lê Hương" ],
+    "namSinh" : "1922",
+    "namMat" : "Không rõ",
+    "queQuan" : "Đồng Tháp"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Đỗ Công Tường", "Nhân vật: Nguyễn Văn Linh", "Nhân vật: Trần Hữu Thường", "Nhân vật: Đinh Hữu Thuật", "Nhân vật: Phạm Nhân Thuần", "Nhân vật: Nguyễn Thành Giung", "Nhân vật: Phạm Hữu Lầu", "Nhân vật: Trần Chí Thành", "Nhân vật: Lê Quang Hương" ]
+}, {
+  "tenDiaDiem" : "Thái Bình",
+  "noiDung" : "Thái Bình là một tỉnh ven biển ở đồng bằng sông Hồng, miền Bắc Việt Nam. Trung tâm tỉnh là thành phố Thái Bình cách thủ đô Hà Nội 110 km về phía đông nam, cách thành phố Hải Phòng 70 km về phía tây nam. Thái Bình tiếp giáp với 5 tỉnh, thành phố: Hải Dương ở phía bắc, Hưng Yên ở phía tây bắc, Hải Phòng ở phía đông bắc, Hà Nam ở phía tây, Nam Định ở phía tây và tây nam. Phía đông là biển Đông (vịnh Bắc Bộ). Theo quy hoạch phát triển kinh tế, Thái Bình thuộc vùng duyên hải Bắc Bộ.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Hoàng Văn Thái",
+    "tenGoiKhac" : [ "Hoàng Văn Thái" ],
+    "namSinh" : "1915",
+    "namMat" : "1986",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Nguyễn Bảo",
+    "tenGoiKhac" : [ "Nguyễn Bảo", "Châu Khê" ],
+    "namSinh" : "1452",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Hoàng Sầm",
+    "tenGoiKhac" : [ "Hoàng Sầm", "Trần Diệm" ],
+    "namSinh" : "1521",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Bùi Như Quảng",
+    "tenGoiKhac" : [ "Bùi Như Quảng", "Đốc Đen" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Đào Nguyên Phổ",
+    "tenGoiKhac" : [ "Đào Nguyên Phổ", "Đào Văn Mại" ],
+    "namSinh" : "1861",
+    "namMat" : "1907",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Phạm Tư Trực",
+    "tenGoiKhac" : [ "Phạm Tư Trực", "Phạm Đăng Thê", "Bang Phu", "Trọng Thăng Tử" ],
+    "namSinh" : "1869",
+    "namMat" : "1921",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Phạm Văn Tráng",
+    "tenGoiKhac" : [ "Phạm Văn Tráng", "Nguyễn Văn Tráng" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1913",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Nguyễn Thái Sơn",
+    "tenGoiKhac" : [ "Nguyễn Thái Sơn", "Bảy Bình" ],
+    "namSinh" : "1928",
+    "namMat" : "1970",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Nguyễn Thế Long",
+    "tenGoiKhac" : [ "Nguyễn Thế Long" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1951",
+    "queQuan" : "Thái Bình"
+  }, {
+    "hoTen" : "Hoàng Văn Thái",
+    "tenGoiKhac" : [ "Hoàng Văn Thái" ],
+    "namSinh" : "1915",
+    "namMat" : "1986",
+    "queQuan" : "Thái Bình"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Hoàng Văn Thái", "Nhân vật: Nguyễn Bảo", "Nhân vật: Hoàng Sầm", "Nhân vật: Bùi Như Quảng", "Nhân vật: Đào Nguyên Phổ", "Nhân vật: Phạm Tư Trực", "Nhân vật: Phạm Văn Tráng", "Nhân vật: Nguyễn Thái Sơn", "Nhân vật: Nguyễn Thế Long", "Nhân vật: Hoàng Văn Thái" ]
+}, {
+  "tenDiaDiem" : "Chợ Lớn",
+  "noiDung" : "Chợ Lớn là tên của khu vực đông người Hoa sinh sống nằm ven kênh Tẻ trải dài từ Quận 5 và Quận 6 ở Sài Gòn nay là Thành phố Hồ Chí Minh, miền Nam Việt Nam. Khu vực này trước kia lập thành một thành phố riêng biệt với Sài Gòn: thành phố Chợ Lớn. Trong những năm 1930-1950 do quá trình đô thị hóa, Sài Gòn và Chợ Lớn dần dần sáp nhập với nhau.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Liên bang Đông Dương",
+  "noiDung" : "Liên bang Đông Dương đôi khi gọi là Đông Dương thuộc Pháp hoặc Đông Pháp, là lãnh thổ nằm dưới quyền cai trị của thực dân Pháp nằm ở khu vực Đông Nam Á, được thành lập vào ngày 17 tháng 10 năm 1887",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Tượng Lâm",
+  "noiDung" : "Vùng đất Tượng Lâm các sử liệu Trung Hoa xưa xác nhận đó là phần đất ở vùng cực nam quận Nhật Nam, trực thuộc quyền cai trị của Giao Châu thời Bắc thuộc, ngày nay là các tỉnh Quảng Nam, Quảng Ngãi, Bình Định (có tài liệu cho là đến tận cửa Đại Lãnh, Phú Yên). Những nhà khảo cổ học phương Tây cho rằng Tượng Lâm có thể là phần đất chạy dọc theo bờ biển, từ đèo Ngang đến đèo Hải Vân, nằm trong lãnh thổ các tỉnh Hà Tĩnh, Quảng Bình, Quảng Trị và Thừa Thiên-Huế. Một số học giả Chăm học cho rằng lãnh thổ Tượng Lâm bao gồm: Indrapura (Quảng Bình, Quảng Trị, Thừa Thiên-Huế ngày nay), Amavarati (Quảng Nam) và Vijaya (Bình Định), sau này gọi chung là bắc Chiêm Thành.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Hơn 2000 dân Tượng Lâm quận Nhật Nam khởi nghĩa chống chính quyền đô hộ nhà Hán",
+    "namBatDau" : "100",
+    "namKetThuc" : "100"
+  }, {
+    "tenSuKien" : "Nhà nước Lâm Ấp được thành lập",
+    "namBatDau" : "190",
+    "namKetThuc" : "190"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Hơn 2000 dân Tượng Lâm quận Nhật Nam khởi nghĩa chống chính quyền đô hộ nhà Hán", "Sự kiện: Nhà nước Lâm Ấp được thành lập" ]
+}, {
+  "tenDiaDiem" : "Hà Tiên",
+  "noiDung" : "Hà Tiên là một trong sáu tỉnh đầu tiên ở Nam Kỳ Việt Nam, thành lập năm 1832. Tên gọi Hà Tiên do Mạc Cửu đặt, vì tương truyền xưa kia có tiên xuất hiện trên sông Giang Thành.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Bắc Sơn",
+  "noiDung" : "Bắc Sơn nằm ở phía Tây Nam tỉnh Lạng Sơn, với diện tích khoảng 700km2, phía Đông giáp huyện văn quán, phía Tây giáp huyện Võ Nhai, phía Nam giáp huyện Hữu Lũng và phía Bắc giáp huyện Bình Gia.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Pác Bó",
+  "noiDung" : "Khu di tích Pác Bó là một khu di tích lịch sử cách mạng hạng quốc gia - đặc biệt của Việt Nam, thuộc bản Pác Bó xã Trường Hà huyện Hà Quảng tỉnh Cao Bằng, cách thành phố Cao Bằng 55 km về phía Bắc. Khu di tích bao gồm: nhà tưởng niệm Bác Hồ, hang Cốc Pó (tên địa phương có nghĩa là \"đầu nguồn\"), hang Lũng Lạn, hang Ngườm Vài (đều trên núi Các Mác), suối Lê nin, bàn đá nơi Bác Hồ làm việc, nền nhà ông Lý Quốc Súng, nền nhà ông La Thành, v.v...",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Cao Bằng",
+  "noiDung" : "Cao Bằng là một tỉnh thuộc vùng Đông Bắc Việt Nam. Phía tây giáp tỉnh Tuyên Quang và Hà Giang, phía nam giáp Bắc Kạn và Lạng Sơn. Phía bắc và phía đông giáp các địa cấp thị Bách Sắc và Sùng Tả của Khu tự trị dân tộc Choang Quảng Tây (Trung Quốc). Đây là vùng có diện tích đất tự nhiên 6.690,72 km², là cao nguyên đá vôi xen lẫn núi đất, có độ cao trung bình trên 200 m, vùng sát biên có độ cao từ 600- 1.300 m so với mặt nước biển. Núi non trùng điệp. Rừng núi chiếm hơn 90% diện tích toàn tỉnh.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Nguyễn Văn Hoành",
+    "tenGoiKhac" : [ "Nguyễn Văn Hoành", "Nguyễn Hựu Hoành" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1835",
+    "queQuan" : "Cao Bằng"
+  }, {
+    "hoTen" : "Nông Văn Vân",
+    "tenGoiKhac" : [ "Nông Văn Vân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1835",
+    "queQuan" : "Cao Bằng"
+  }, {
+    "hoTen" : "Nông Văn Quỳnh",
+    "tenGoiKhac" : [ "Nông Văn Quỳnh", "Nông Quốc Chấn" ],
+    "namSinh" : "1923",
+    "namMat" : "2002",
+    "queQuan" : "Cao Bằng"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Nguyễn Văn Hoành", "Nhân vật: Nông Văn Vân", "Nhân vật: Nông Văn Quỳnh" ]
+}, {
+  "tenDiaDiem" : "Ba Tơ",
+  "noiDung" : "Ba Tơ là huyện miền núi nằm phía tây Nam và Nam tỉnh Quảng Ngãi, Việt Nam. Huyện nổi tiếng về đội du kích Ba Tơ và cuộc khởi nghĩa Ba Tơ. Di tích cuộc khởi nghĩa Ba Tơ đã được Bộ Văn hóa Thông tin Việt Nam xếp hạng. Bảo tàng Ba Tơ trưng bày những hiện vật liên quan đến cuộc khởi nghĩa. Huyện còn có làng dệt thổ cẩm nổi tiếng (làng Teng). Từ đây có quốc lộ 24A đi Tây Nguyên, Lào và Campuchia",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Quảng Ngãi",
+  "noiDung" : "Quảng Ngãi là tỉnh ven biển, nằm trong vùng kinh tế trọng điểm miền Trung (Thừa Thiên Huế - Đà Nẵng - Quảng Nam - Quảng Ngãi - Bình Định) và được Chính phủ chọn khu vực Dung Quất để xây dựng nhà máy lọc dầu đầu tiên của Việt Nam. Tổng diện tích đất tự nhiên toàn tỉnh là 5.136,88 km2. Quảng Ngãi có bờ biển dài khoảng 129 km, ngoài khơi có đảo Lý Sơn và một số đảo nhỏ khác",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Võ Đức Nghiêm",
+    "tenGoiKhac" : [ "Võ Đức Nghiêm", "Minh Giác" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Đỗ Đăng Đệ",
+    "tenGoiKhac" : [ "Đỗ Đăng Đệ" ],
+    "namSinh" : "1834",
+    "namMat" : "1888",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Lê Trung Đình",
+    "tenGoiKhac" : [ "Lê Trung Đình" ],
+    "namSinh" : "1863",
+    "namMat" : "1885",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Lê Văn Duyệt",
+    "tenGoiKhac" : [ "Lê Văn Duyệt" ],
+    "namSinh" : "1763",
+    "namMat" : "1832",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Võ Duy Ninh",
+    "tenGoiKhac" : [ "Võ Duy Ninh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1859",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Trương Quang Đản",
+    "tenGoiKhac" : [ "Trương Quang Đản", "Trương Đăng Đản", "Tử Minh", "Cúc Viên" ],
+    "namSinh" : "1833",
+    "namMat" : "1914",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Lê Khiết",
+    "tenGoiKhac" : [ "Lê Khiết", "An Ba", "Lê Thứu Khiết" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1908",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Lê Ngung",
+    "tenGoiKhac" : [ "Lê Ngung" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1916",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Nguyễn Nghiêm",
+    "tenGoiKhac" : [ "Nguyễn Nghiêm" ],
+    "namSinh" : "1903",
+    "namMat" : "1931",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Lê Văn Sĩ",
+    "tenGoiKhac" : [ "Lê Văn Sĩ", "Võ Sĩ" ],
+    "namSinh" : "1910",
+    "namMat" : "1948",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Nguyễn Đức Huy (Ii)",
+    "tenGoiKhac" : [ "Nguyễn Đức Huy (Ii)", "Hồng Tiêu" ],
+    "namSinh" : "1902",
+    "namMat" : "1985",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Võ Hóa",
+    "tenGoiKhac" : [ "Võ Hóa", "Khánh Anh", "Chơn Húy" ],
+    "namSinh" : "1895",
+    "namMat" : "1961",
+    "queQuan" : "Quảng Ngãi"
+  }, {
+    "hoTen" : "Võ Tùng",
+    "tenGoiKhac" : [ "Võ Tùng" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1955",
+    "queQuan" : "Quảng Ngãi"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Võ Đức Nghiêm", "Nhân vật: Đỗ Đăng Đệ", "Nhân vật: Lê Trung Đình", "Nhân vật: Lê Văn Duyệt", "Nhân vật: Võ Duy Ninh", "Nhân vật: Trương Quang Đản", "Nhân vật: Lê Khiết", "Nhân vật: Lê Ngung", "Nhân vật: Nguyễn Nghiêm", "Nhân vật: Lê Văn Sĩ", "Nhân vật: Nguyễn Đức Huy (Ii)", "Nhân vật: Võ Hóa", "Nhân vật: Võ Tùng" ]
+}, {
+  "tenDiaDiem" : "Việt Bắc",
+  "noiDung" : "Việt Bắc là một vùng phía Bắc Hà Nội thời kháng chiến chống Pháp (1945-1954) bao trùm nhiều tỉnh ở Bắc Bộ. Ngày nay nó thường được hiểu là khu vực gồm 6 tỉnh Cao Bằng, Bắc Kạn, Lạng Sơn, Hà Giang, Tuyên Quang, Thái Nguyên hay còn được gọi tắt là Cao - Bắc - Lạng - Thái - Tuyên - Hà.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Cầu Giấy",
+  "noiDung" : "Cầu Giấy là một quận của thủ đô Hà Nội, được lập theo nghị định của Chính phủ Việt Nam năm 1996. Quận Cầu Giấy hợp bởi 4 thị trấn: Nghĩa Đô, Nghĩa Tân, Mai Dịch, Cầu Giấy và 3 xã: Dịch Vọng, Yên Hòa, Trung Hòa thuộc huyện Từ Liêm. Vì trùng tên với quận nên thị trấn Cầu Giấy phải đổi tên thành phường Quan Hoa.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Chiến khu Tân Trào",
+  "noiDung" : "Tân Trào là khu di tích lịch sử của cách mạng Việt Nam thời kỳ Cách mạng tháng Tám. Hiện nay, nơi đây đã được thủ tướng chính phủ Việt Nam đưa vào danh sách xếp hạng 23 di tích quốc gia đặc biệt. Tân Trào là thủ đô lâm thời của khu giải phóng, nơi Ðảng Cộng sản Việt Nam tiến hành hội nghị toàn quốc ngày 13 tháng 8 năm 1945 để quyết định tổng khởi nghĩa. Ðại hội quốc dân cũng đã họp tại đây ngày 16 tháng 8 năm 1945, thông qua 10 chính sách lớn của Việt Minh, bầu ra một chính phủ lâm thời do Hồ Chí Minh làm chủ tịch và quân giải phóng Việt Nam làm lễ ra quân.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Tuyên Quang",
+  "noiDung" : "Tuyên Quang là một tỉnh thuộc vùng Đông Bắc Việt Nam, có diện tích 5.868 km² (đứng thứ 25 trên cả nước). Có tỉnh lỵ là Thành phố Tuyên Quang. Tỉnh có phía Bắc giáp tỉnh Hà Giang, phía Đông Bắc giáp Cao Bằng, phía Đông giáp Bắc Kạn và Thái Nguyên, phía Nam giáp Vĩnh Phúc, phía Tây-Nam giáp Phú Thọ, phía Tây giáp Yên Bái.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Nguyễn Lan Khai",
+    "tenGoiKhac" : [ "Nguyễn Lan Khai", "Nguyễn Đình Khải", "Lan Khai" ],
+    "namSinh" : "",
+    "namMat" : "1946",
+    "queQuan" : "Tuyên Quang"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Nguyễn Lan Khai" ]
+}, {
+  "tenDiaDiem" : "Tây Bắc",
+  "noiDung" : "Vùng Tây Bắc là vùng miền núi phía Tây của miền Bắc Việt Nam, bao gồm các tỉnh Lai Châu, Điện Biên, Sơn La, Hòa Bình, Yên Bái, Lào Cai. Vùng Tây Bắc có chung đường biên giới với Lào và Trung Quốc. Vùng này có khi được gọi là Tây Bắc Bắc Bộ và là một trong 3 tiểu vùng của Bắc Bộ Việt Nam. Vùng Tây Bắc là không gian văn hóa của dân tộc Thái, nổi tiếng với điệu múa xòe. Thái là dân tộc có dân số lớn nhất vùng. Ngoài ra, còn khoảng 20 dân tộc khác.",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Nhà nước Văn Lang ra đời",
+    "namBatDau" : "700",
+    "namKetThuc" : "700"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Nhà nước Văn Lang ra đời" ]
+}, {
+  "tenDiaDiem" : "Tây Nguyên",
+  "noiDung" : "Vùng Tây Nguyên, một thời gọi là Cao nguyên Trung phần Việt Nam là khu vực cao nguyên bao gồm 5 tỉnh, xếp theo thứ tự vị trí địa lý từ bắc xuống nam gồm Kon Tum, Gia Lai, Đắk Lắk, Đắk Nông và Lâm Đồng, với diện tích tự nhiên là 54.474 km2 chiếm 16,8% diện tích tự nhiên cả nước. Tây Nguyên là một tiểu vùng, cùng với vùng Duyên hải Nam Trung Bộ hợp thành vùng Nam Trung Bộ, thuộc Trung Bộ Việt Nam.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Điện Biên Phủ",
+  "noiDung" : "Điện Biên Phủ là thành phố tỉnh lỵ tỉnh Điện Biên ở tây bắc Việt Nam. Thành phố Điện Biên Phủ phía đông nam giáp huyện Điện Biên Đông, các phía còn lại giáp huyện Điện Biên. Điện Biên Phủ vốn được gọi là Mường Thanh, từ chữ Mường Then theo tiếng dân tộc Thái nghĩa là \"Xứ Trời\", gắn với truyền thuyết về sự phát sinh ra dân tộc Thái. Đây là \"đất tổ\" của nhiều ngành Thái ở Đông Nam Á. Tên gọi Điện Biên do vua Thiệu Trị đặt năm 1841 từ châu Ninh Biên; Điện nghĩa là \"kiến lập\", Biên nghĩa là vùng biên giới, biên ải.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Di tích Him Lam (Beatrice)",
+  "noiDung" : "Di tích Him Lam hiện nay nằm tại phường Him Lam - thành Phố Điện Biên Phủ. Từ trung tâm thành phố dọc theo quốc lộ 279(7/5) hướng đi Điện Biên Phủ - Hà Nội khoảng 3km rồi rẽ trái 100m là đến di tích Him Lam. Tên gọi Him Lam là bộ đội ta đặt tên vì đồi này cạnh bản Him Lam nên nhân dân thường gọi đồi Him Lam, ngoài ra còn có tên là đồi Phan Đình Giót vì anh hùng liệt sỹ Phan Đình Giót đã chiến đấu hy sinh anh dũng tại đây.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Di tích đồi Độc lập",
+  "noiDung" : "Đồi Độc Lập là tên gọi của bộ đội ta để chỉ một quả đồi, nằm ở phía Bắc cánh đồng Mường Thanh, thuộc xã Thanh Nưa, huyện Điện Biên. Trước đây, đồi Độc Lập là một cứ điểm quan trọng (thực dân Pháp đặt tên là Gabrien, tên một cô gái đẹp nước Pháp) thuộc Tập đoàn cứ điểm Điện Biên Phủ của Pháp năm xưa.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Đồi A1",
+  "noiDung" : "Di tích A1 (cứ điểm Elian 2) nằm cạnh quốc lộ 279 (đường7/5) thuộc phường Mường Thanh - thành phố Điện Biên Phủ, tỉnh Điện Biên. Cứ điểm này cao 32m so với mặt đường có diện tích 83.000 m2, cách Sở chỉ huy tập đoàn cứ điểm Điện Biên Phủ của thực dân Pháp khoảng 500m về phía Tây theo đường chim bay. A1 thuộc dãy đồi phía Đông cùng với C1, C2, D và E tạo thành bức tường thành vững chắc che chở cho phân khu trung tâm, là điểm cao cuối cùng trực tiếp che chở cho Sở chỉ huy quân Pháp và được ví như “chìa khóa” của cả tập đoàn cứ điểm Điện Biên Phủ.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Đồi C1",
+  "noiDung" : "Đồi C1 được quân Pháp đặt cho một cái tên thiếu nữ Pháp - Êlian 1, nằm trong dãy đồi liên hoàn phía Đông. C1 cùng với A1, C2, E1, D tạo thành tấm lá chắn bằng thép che chở cho phân khu trung tâm. Xét về địa thế, đồi C1 tuy không có độ cao như đồi E và đồi D, nhưng lại có vai trò quan trọng hơn rất nhiều bởi sự bố phòng liên hoàn cùng với A1. Di tích này nằm ở địa phận phường Mường Thanh - thành phố Điện Biên Phủ, tỉnh Điện Biên",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Bản kéo",
+  "noiDung" : "Đồi bản Kéo nằm ở phía Tây bắc của tập đoàn cứ điểm, thuộc thành phố Điện Biên Phủ, tỉnh Điện Biên. Thực dân Pháp đặt tên mới cho bản Kéo là trung tâm đề kháng Annơ Mari. Cứ điểm này nằm cạnh bản Kéo - một bản của đồng bào dân tộc Thái nên được gọi là đồi bản Kéo. Tiếng Thái Kéo là cái “Thung” nhỏ ở chân núi. Ở đây có một bãi rộng gần chân núi (Bộ đội hiện nay thường dùng làm bãi tập), đồi bản Kéo không cao lắm nhưng khá dài, hình vành trăng khuyết, chiều lõm quay về dãy núi phía Bắc. Cùng với đồi Độc Lập, bản Kéo có nhiệm vụ bảo vệ sân bay Mường Thanh, ngăn chặn sự tấn công của quân ta từ hướng Lai Châu vào Điện Biên Phủ",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Hồng Cúm",
+  "noiDung" : "Phân khu Hồng Cúm nằm ở phía Nam lòng chảo Điện Biên (còn gọi là phân khu Nam) cách Sở chỉ huy của tướng Đờ cát tơ ri 6km về phía Nam. Người Pháp gọi phân khu này với cái tên Isaben (tên một cô gái đẹp). Đồng bào địa phương gọi nơi này là Hoong Cúm. Và tên chính thức bây giờ là Hồng Cúm. Hồng cúm thuộc Thành phố Điện Biên Phủ, tỉnh Điện Biên.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "đồng bằng sông Cửu Long",
+  "noiDung" : "Vùng đồng bằng sông Cửu Long bao gồm các tỉnh Long An, Tiền Giang, Bến Tre, Vĩnh Long, Trà Vinh, Cần Thơ, Sóc Trăng, Bạc Liêu, Cà Mau, Kiên Giang, An Giang, Đồng Tháp, Hậu Giang với tổng diện tích tự nhiên 39.734 km2 chiếm 12,2 % diện tích tự nhiên của cả nước.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Đồng Bằng Sông Hồng",
+  "noiDung" : "Đồng bằng sông Hồng (hay châu thổ sông Hồng) là một vùng đất rộng lớn nằm quanh khu vực hạ lưu sông Hồng thuộc miền Bắc Việt Nam, vùng đất bao gồm 11 tỉnh và thành phố như: Vĩnh Phúc, Hà Nội, Bắc Ninh, Hà Nam, Hưng Yên, Hải Dương, Hải Phòng, Thái Bình, Nam Định, Ninh Bình, Quảng Ninh. Gần như đồng nghĩa với đồng bằng sông Hồng là vùng trung châu, khác với vùng chân núi trung du và núi cao thượng du. Không giống như vùng đồng bằng sông Cửu Long, các tỉnh trong vùng đồng bằng sông Hồng chỉ có 2 tỉnh Thái Bình và Hưng Yên là không có núi, do đó khu vực này thường được gọi là châu thổ sông Hồng. Toàn vùng có diện tích: 23.336 km², chiếm 7,1 % diện tích của cả nước.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Đông Bắc",
+  "noiDung" : "Vùng đông bắc là vùng lãnh thổ ở hướng Bắc vùng đồng bằng sông Hồng, Việt Nam. Gọi là đông bắc để phân biệt với vùng tây bắc, còn thực chất nó ở vào phía bắc và đông bắc của Hà Nội, rộng hơn vùng Việt Bắc. Vùng đông bắc là một trong 3 tiểu vùng địa lý tự nhiên của Bắc Bộ Việt Nam (2 tiểu vùng kia là Vùng tây bắc và Đồng bằng sông Hồng).",
+  "danhSachSuKien" : [ {
+    "tenSuKien" : "Nhà nước Văn Lang ra đời",
+    "namBatDau" : "700",
+    "namKetThuc" : "700"
+  } ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ "Sự kiện: Nhà nước Văn Lang ra đời" ]
+}, {
+  "tenDiaDiem" : "Đông Nam Bộ",
+  "noiDung" : "Vùng Đông Nam Bộ có 6 tỉnh và một thành phố: Bà Rịa-Vũng Tàu; Bình Dương; Bình Phước; Đồng Nai; Tây Ninh; Thành phố Hồ Chí Minh. Diện tích tự nhiên 23.564 km2, chiếm 7,3 % diện tích cả nước.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Bắc Trung Bộ",
+  "noiDung" : "Bắc Trung Bộ là phần phía bắc của Trung Bộ Việt Nam có địa bàn từ Nam dãy núi Tam Điệp tới Bắc đèo Hải Vân. Vùng Bắc Trung Bộ (BTB) là một trong 8 vùng kinh tế được Chính phủ giao lập quy hoạch tổng thể kinh tế xã hội. Viện Quy hoạch Đô thị Nông thôn được giao thực hiện trong 2 năm 1994-1995 với sự tham gia của gần 30 cơ quan, Viện Nghiên cứu ở Trung ương và 6 tỉnh thuộc vùng Bắc Trung Bộ cùng nhiều chuyên gia.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Nam Trung Bộ",
+  "noiDung" : "Duyên hải Nam Trung bộ có vị trí địa lý thuận lợi, gần TP. Hồ Chí Minh và khu tam giác kinh tế trọng điểm miền Đông Nam Bộ; là cửa ngõ của Tây Nguyên. Đặc điểm chung của các tỉnh trong khu vực này là lưng dựa vào dãy Trường Sơn hùng vĩ, mặt nhìn ra biển Đông bao la.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "An Giang",
+  "noiDung" : "An Giang là tỉnh có dân số đông nhất và diện tích đứng thứ 4 (sau tỉnh Kiên Giang, tỉnh Cà Mau và tỉnh Long An) ở đồng bằng sông Cửu Long, thuộc miền Nam Việt Nam. Một phần của An Giang nằm trong tứ giác Long Xuyên. Tháng 7/2013, An Giang là tỉnh đầu tiên ở Đồng bằng sông Cửu Long có 2 thành phố trực thuộc tỉnh (Long Xuyên và Châu Đốc). Thành phố Long Xuyên nằm bên bờ sông Hậu, có truyền thống văn hóa đặc trưng của một thành phố miền Tây với chợ nổi trên sông và nhiều di tích thắng cảnh khác. Thành phố Châu Đốc là thành phố biên giới, nổi tiếng với cụm di tích và thắng cảnh ở núi Sam.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Trần Bá Lộc",
+    "tenGoiKhac" : [ "Trần Bá Lộc" ],
+    "namSinh" : "1839",
+    "namMat" : "1899",
+    "queQuan" : "An Giang"
+  }, {
+    "hoTen" : "Hồ Huệ Bá",
+    "tenGoiKhac" : [ "Hồ Huệ Bá" ],
+    "namSinh" : "1894",
+    "namMat" : "1978",
+    "queQuan" : "An Giang"
+  }, {
+    "hoTen" : "Hoàng Phú Sổ",
+    "tenGoiKhac" : [ "Hoàng Phú Sổ", "Huỳnh Phú Sổ" ],
+    "namSinh" : "1919",
+    "namMat" : "1947",
+    "queQuan" : "An Giang"
+  }, {
+    "hoTen" : "Nguyễn Thành Tâm",
+    "tenGoiKhac" : [ "Nguyễn Thành Tâm", "Nguyễn Văn Hưởng" ],
+    "namSinh" : "1906",
+    "namMat" : "1998",
+    "queQuan" : "An Giang"
+  }, {
+    "hoTen" : "Tôn Đức Thắng",
+    "tenGoiKhac" : [ "Tôn Đức Thắng" ],
+    "namSinh" : "1888",
+    "namMat" : "1980",
+    "queQuan" : "An Giang"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Trần Bá Lộc", "Nhân vật: Hồ Huệ Bá", "Nhân vật: Hoàng Phú Sổ", "Nhân vật: Nguyễn Thành Tâm", "Nhân vật: Tôn Đức Thắng" ]
+}, {
+  "tenDiaDiem" : "Bạc Liêu",
+  "noiDung" : "Bạc Liêu là vùng đất trẻ, được hình thành chủ yếu do sự bồi lắng phù sa ở các cửa biển tạo nên. Bạc Liêu xưa kia nổi tiếng là đất ăn chơi với nhiều giai thoại về \"công tử Bạc Liêu\", bởi người dân xứ này có tư duy khoáng đạt, thích giao lưu tìm bạn qua hội hè và qua sinh hoạt văn hoá cộng đồng. Do cởi mở và có phần sành điệu nên đất Bạc Liêu không chỉ giữ được đôi chân phiêu lãng của cố nhạc sĩ Cao Văn Lầu, tác giả bài Dạ cổ hoài lang bất hủ, mà còn có sức hút mạnh mẽ đối với tầng lớp đại điền chủ.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Bến Tre",
+  "noiDung" : "Bến Tre là một tỉnh thuộc vùng đồng bằng sông Cửu Long[3], nằm cuối nguồn sông Cửu Long, tiếp giáp biển Đông với chiều dài đường biển khoảng 65 km và các tỉnh Tiền Giang, Trà Vinh, Vĩnh Long. Trung tâm của tỉnh Bến Tre cách Thành phố Hồ Chí Minh 87 km về phía Tây qua tỉnh Tiền Giang và Long An[4][5]. Địa hình của Bến Tre bằng phẳng, có độ cao trung bình từ 1 đến 2 mét so với mực nước biển, thấp dần từ tây bắc xuống đông nam, độ cao chênh lệch khá lớn, tối đa là 3,5 m. Khí hậu nhiệt đới gió mùa, mùa mưa thường kéo dài từ tháng 5 đến tháng 10, các tháng còn lại là mùa khô. Nhiệt độ trung bình năm từ 26oC - 27oC. Lượng mưa trung bình năm từ 1.250 - 1.500 mm[6].",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Nguyễn Thị Định",
+    "tenGoiKhac" : [ "Nguyễn Thị Định" ],
+    "namSinh" : "1920",
+    "namMat" : "1992",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Lê Quang Quan",
+    "tenGoiKhac" : [ "Lê Quang Quan", "Lê Tán Kế" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1875",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Lê Khánh Hòa",
+    "tenGoiKhac" : [ "Lê Khánh Hòa", "Khánh Hòa", "Như Trí" ],
+    "namSinh" : "1876",
+    "namMat" : "1947",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Lê Quang Trinh",
+    "tenGoiKhac" : [ "Lê Quang Trinh" ],
+    "namSinh" : "1883",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Lê Văn Đệ",
+    "tenGoiKhac" : [ "Lê Văn Đệ" ],
+    "namSinh" : "1906",
+    "namMat" : "1969",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Lê Văn Ngôn",
+    "tenGoiKhac" : [ "Lê Văn Ngôn", "Bảo Hương" ],
+    "namSinh" : "1908",
+    "namMat" : "1976",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Lê Văn Phúc",
+    "tenGoiKhac" : [ "Lê Văn Phúc", "Lê Thọ Xuân" ],
+    "namSinh" : "1904",
+    "namMat" : "1978",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Nguyễn Thị Định",
+    "tenGoiKhac" : [ "Nguyễn Thị Định" ],
+    "namSinh" : "1920",
+    "namMat" : "1992",
+    "queQuan" : "Bến Tre"
+  }, {
+    "hoTen" : "Nguyễn Xuân Khuê",
+    "tenGoiKhac" : [ "Nguyễn Xuân Khuê", "Sương Nguyệt Anh" ],
+    "namSinh" : "1864",
+    "namMat" : "1921",
+    "queQuan" : "Bến Tre"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Nguyễn Thị Định", "Nhân vật: Lê Quang Quan", "Nhân vật: Lê Khánh Hòa", "Nhân vật: Lê Quang Trinh", "Nhân vật: Lê Văn Đệ", "Nhân vật: Lê Văn Ngôn", "Nhân vật: Lê Văn Phúc", "Nhân vật: Nguyễn Thị Định", "Nhân vật: Nguyễn Xuân Khuê" ]
+}, {
+  "tenDiaDiem" : "Cần Thơ",
+  "noiDung" : "Thành phố Cần Thơ nằm trong vùng trung - hạ lưu và ở vị trí trung tâm châu thổ sông Cửu Long, trải dài trên 55 km dọc bờ tây sông Hậu, tổng diện tích tự nhiên 1.400,96 km2, chiếm 3,49% diện tích toàn vùng. Phía bắc giáp tỉnh An Giang; phía đông giáp tỉnh Đồng Tháp, Vĩnh Long; phía tây giáp tỉnh Kiên Giang; phía nam giáp tỉnh Hậu Giang. Tọa độ địa lý, TP Cần Thơ nằm trong giới hạn 105 độ13'38\" - 105 độ 50'35\" kinh độ Đông và 9 độ 55'08\" - 10 độ 19'38\" vĩ độ Bắc. Về tổ chức hành chính, Tp. Cần Thơ gồm 5 quận (Ninh Kiều, Cái Răng, Bình Thủy, Ô Môn và Thốt Nốt) và 4 huyện (Phong Điền, Cờ Đỏ, Vĩnh Thạnh, Thới Lai) với 85 đơn vị hành chính cấp xã, phường, thị trấn (5 thị trấn, 36 xã, 44 phường).",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Lê Quang Chiếu",
+    "tenGoiKhac" : [ "Lê Quang Chiếu" ],
+    "namSinh" : "1853",
+    "namMat" : "1924",
+    "queQuan" : "Cần Thơ"
+  }, {
+    "hoTen" : "Phan Ngọc Hiển",
+    "tenGoiKhac" : [ "Phan Ngọc Hiển", "Giáo Hiền" ],
+    "namSinh" : "1910",
+    "namMat" : "1941",
+    "queQuan" : "Cần Thơ"
+  }, {
+    "hoTen" : "Hồ Hữu Tường",
+    "tenGoiKhac" : [ "Hồ Hữu Tường" ],
+    "namSinh" : "1910",
+    "namMat" : "1980",
+    "queQuan" : "Cần Thơ"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Lê Quang Chiếu", "Nhân vật: Phan Ngọc Hiển", "Nhân vật: Hồ Hữu Tường" ]
+}, {
+  "tenDiaDiem" : "Cà Mau",
+  "noiDung" : "Cà Mau là tỉnh ven biển ở cực nam của Việt Nam, nằm trong khu vực Đồng bằng sông Cửu Long. Cà Mau là một vùng đất trẻ, mới được khai phá khoảng trên 300 năm. Vùng đất Cà Mau ngày xưa được Mạc Cửu dẫn người hoa đến khai phá. Sau khi Mạc Cửu dâng toàn đất này thần phục nhà Nguyễn, Mạc Thiên Tứ con của Mạc Cửu đã vâng lệnh triều đình chúa Nguyễn lập ra đạo Long Xuyên. Qua nhiều lần thay đổi về hành chính, mãi đến ngày 1 tháng 1 năm 1997, tỉnh Cà Mau được tái lập theo Nghị quyết của Quốc hội khóa IX, kỳ họp thứ 10. Ngày 6 tháng 11 năm 1996 về việc điều chỉnh địa giới hành chính, chia tách tỉnh Minh Hải thành tỉnh Cà Mau và tỉnh Bạc Liêu.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Nguyễn Ngọc Tư",
+    "tenGoiKhac" : [ "Nguyễn Ngọc Tương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Nam Định"
+  }, {
+    "hoTen" : "Bông Văn Dĩa",
+    "tenGoiKhac" : [ "Bông Văn Dĩa" ],
+    "namSinh" : "1905",
+    "namMat" : "1996",
+    "queQuan" : "Cà Mau"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Nguyễn Ngọc Tư", "Nhân vật: Bông Văn Dĩa" ]
+}, {
+  "tenDiaDiem" : "Hậu Giang",
+  "noiDung" : "Hậu Giang là một tỉnh ở đồng bằng sông Cửu Long, cách Thành phố Hồ Chí Minh 240 km về phía Tây Nam. Theo kết quả điều tra ngày 01/04/2009, dân số tỉnh Hậu Giang là 756.625 người.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Sóc Trăng",
+  "noiDung" : "Tỉnh Sóc Trăng nằm trong vùng đồng bằng sông Cửu Long, giáp các tỉnh Trà Vinh, Vĩnh Long, Hậu Giang, Bạc Liêu và biển Đông.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Tiền Giang",
+  "noiDung" : "Tiền Giang là một tỉnh ven biển đồng bằng sông Cửu Long, miền Nam Việt Nam, với phần lớn diện tích của tỉnh thuộc địa bàn tỉnh Mỹ Tho trước đó",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Âu Dương Lân",
+    "tenGoiKhac" : [ "Âu Dương Lân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1875",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Âu Dương Lân",
+    "tenGoiKhac" : [ "Âu Dương Lân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1875",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Mai Đằng Phương",
+    "tenGoiKhac" : [ "Mai Đằng Phương", "Nhiêu Phang" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Lê Sum",
+    "tenGoiKhac" : [ "Lê Sum", "Trường Mậu" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1931",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Hồ Văn Hiến",
+    "tenGoiKhac" : [ "Hồ Văn Hiến" ],
+    "namSinh" : "1900",
+    "namMat" : "1957",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Hồ Văn Trung",
+    "tenGoiKhac" : [ "Hồ Văn Trung", "Hồ Biểu Chánh", "Thứ Tiên" ],
+    "namSinh" : "1884",
+    "namMat" : "1958",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Lê Văn Năng",
+    "tenGoiKhac" : [ "Lê Văn Năng", "Lê Văn Quới" ],
+    "namSinh" : "1893",
+    "namMat" : "1963",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Lương Tri",
+    "tenGoiKhac" : [ "Lương Tri", "Lê Văn Quới", "Lê Văn Năng" ],
+    "namSinh" : "1893",
+    "namMat" : "1963",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Nguyễn Thành Châu",
+    "tenGoiKhac" : [ "Nguyễn Thành Châu", "Năm Châu" ],
+    "namSinh" : "1906",
+    "namMat" : "1978",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Nguyễn Thành Vĩnh",
+    "tenGoiKhac" : [ "Nguyễn Thành Vĩnh" ],
+    "namSinh" : "1905",
+    "namMat" : "1950",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Nguyễn Thị Kiêm",
+    "tenGoiKhac" : [ "Nguyễn Thị Kiêm", "Nguyễn Thị Manh Manh", "Myn", "Nguyễn Văn Myn", "Lệ Thủy" ],
+    "namSinh" : "1914",
+    "namMat" : "Không rõ",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Nguyễn Thị Thập",
+    "tenGoiKhac" : [ "Nguyễn Thị Thập" ],
+    "namSinh" : "1908",
+    "namMat" : "1996",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Nguyễn Thị Trừ",
+    "tenGoiKhac" : [ "Nguyễn Thị Trừ", "Huỳnh Liên" ],
+    "namSinh" : "1923",
+    "namMat" : "1987",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Phạm Kỳ Ngỡl",
+    "tenGoiKhac" : [ "Phạm Kỳ Ngỡl", "Khổng Nghi" ],
+    "namSinh" : "1920",
+    "namMat" : "Không rõ",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Trần Hữu Trang",
+    "tenGoiKhac" : [ "Trần Hữu Trang", "Tư Trang" ],
+    "namSinh" : "1906",
+    "namMat" : "1966",
+    "queQuan" : "Tiền Giang"
+  }, {
+    "hoTen" : "Hoàng Tố Nguyên",
+    "tenGoiKhac" : [ "Hoàng Tố Nguyên" ],
+    "namSinh" : "1929",
+    "namMat" : "1975",
+    "queQuan" : "Tiền Giang"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Âu Dương Lân", "Nhân vật: Âu Dương Lân", "Nhân vật: Mai Đằng Phương", "Nhân vật: Lê Sum", "Nhân vật: Hồ Văn Hiến", "Nhân vật: Hồ Văn Trung", "Nhân vật: Lê Văn Năng", "Nhân vật: Lương Tri", "Nhân vật: Nguyễn Thành Châu", "Nhân vật: Nguyễn Thành Vĩnh", "Nhân vật: Nguyễn Thị Kiêm", "Nhân vật: Nguyễn Thị Thập", "Nhân vật: Nguyễn Thị Trừ", "Nhân vật: Phạm Kỳ Ngỡl", "Nhân vật: Trần Hữu Trang", "Nhân vật: Hoàng Tố Nguyên" ]
+}, {
+  "tenDiaDiem" : "Trà Vinh",
+  "noiDung" : "Trà Vinh là tỉnh Duyên hải Đồng bằng sông Cửu Long, tiếp giáp với các tỉnh Bến Tre, Vĩnh Long, Sóc Trăng; nằm giữa sông Tiền và sông Hậu. Trung tâm tỉnh lỵ Trà Vinh cách thành phố Hồ Chí Minh 130 km và thành phố Cần Thơ 100 km. Tỉnh Trà Vinh có 01 thành phố và 07 huyện gồm: Thành phố Trà Vinh và các huyện Càng Long, Châu Thành, Tiểu Cần, Cầu Kè, Trà Cú, Cầu Ngang, Duyên Hải. Diện tích tự nhiên 2.341 km2, dân số 1,1 triệu người với 03 dân tộc chính là Kinh, Khmer, Hoa, trong đó dân tộc Khmer chiếm 30% dân số.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Nguyễn Đức Nhuận",
+    "tenGoiKhac" : [ "Nguyễn Đức Nhuận" ],
+    "namSinh" : "1900",
+    "namMat" : "1968",
+    "queQuan" : "Trà Vinh"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Nguyễn Đức Nhuận" ]
+}, {
+  "tenDiaDiem" : "Hải Phòng",
+  "noiDung" : "Hải Phòng, còn được gọi là Thành phố Hoa phượng đỏ, là một thành phố cảng lớn nhất phía Bắc (Cảng Hải Phòng) và công nghiệp ở miền Bắc Việt Nam và là trung tâm kinh tế, văn hoá, giáo dục, khoa học và công nghệ Vùng duyên hải Bắc Bộ. Hải Phòng là thành phố lớn thứ 3của Việt Nam sau Thành phố Hồ Chí Minh, Hà Nội. Hải Phòng còn là 1 trong 5 thành phố trực thuộc trung ương, đô thị loại 1 trung tâm cấp quốc gia, cùng với Đà Nẵng và Cần Thơ. Tính đến tháng 12/2011, dân số Hải Phòng là 1.907.705 người, trong đó dân cư thành thị chiếm 46,1% và dân cư nông thôn chiếm 53,9%, là thành phố đông dân thứ 3 ở Việt Nam.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Vi Huyền Đắc",
+    "tenGoiKhac" : [ "Vi Huyền Đắc", "Giới Chi" ],
+    "namSinh" : "1899",
+    "namMat" : "1976",
+    "queQuan" : "Hải Phòng"
+  }, {
+    "hoTen" : "Hoàng Đình Tí",
+    "tenGoiKhac" : [ "Hoàng Đình Tí", "Hoàng Phương" ],
+    "namSinh" : "1924",
+    "namMat" : "2001",
+    "queQuan" : "Hải Phòng"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Vi Huyền Đắc", "Nhân vật: Hoàng Đình Tí" ]
+}, {
+  "tenDiaDiem" : "Hưng Yên",
+  "noiDung" : "Hưng Yên là một tỉnh nằm ở trung tâm đồng bằng sông Hồng Việt Nam. Trung tâm hành chính của tỉnh là thành phố Hưng Yên nằm cách thủ đô Hà Nội 64 km về phía đông nam, cách thành phố Hải Dương 50 km về phía tây nam. Phía bắc giáp tỉnh Bắc Ninh, phía đông giáp tỉnh Hải Dương, phía tây và tây bắc giáp thủ đô Hà Nội, phía nam giáp tỉnh Thái Bình và phía tây nam giáp tỉnh Hà Nam. Trong quy hoạch xây dựng, tỉnh này thuộc vùng Hà Nội",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Phạm Ngũ Lão",
+    "tenGoiKhac" : [ "Phạm Ngũ Lão" ],
+    "namSinh" : "1255",
+    "namMat" : "1320",
+    "queQuan" : "Hải Dương"
+  }, {
+    "hoTen" : "Chử Đồng Tử",
+    "tenGoiKhac" : [ "Chử Đồng Tử" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Bản Tịch",
+    "tenGoiKhac" : [ "Bản Tịch", "Pháp Mật" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1139",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Nguyễn Trung Ngạn",
+    "tenGoiKhac" : [ "Nguyễn Trung Ngạn", "Bang Trực", "Giới Hiên" ],
+    "namSinh" : "1289",
+    "namMat" : "1370",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Bùi Công Phụ",
+    "tenGoiKhac" : [ "Bùi Công Phụ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Cái Phùng",
+    "tenGoiKhac" : [ "Cái Phùng" ],
+    "namSinh" : "1440",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Lưu Xuân Tín",
+    "tenGoiKhac" : [ "Lưu Xuân Tín" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Lê Nhu Hổ",
+    "tenGoiKhac" : [ "Lê Nhu Hổ" ],
+    "namSinh" : "1511",
+    "namMat" : "1581",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Dương Trọng Khiêm",
+    "tenGoiKhac" : [ "Dương Trọng Khiêm" ],
+    "namSinh" : "1727",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Châu Mạnh Trinh",
+    "tenGoiKhac" : [ "Châu Mạnh Trinh", "Chu Mạnh Trinh" ],
+    "namSinh" : "1862",
+    "namMat" : "1905",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Trương Văn Thám",
+    "tenGoiKhac" : [ "Trương Văn Thám", "Hoàng Hoa Thám", "Trương Văn Nghĩa" ],
+    "namSinh" : "1858",
+    "namMat" : "1913",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Đỗ Huy Nam",
+    "tenGoiKhac" : [ "Đỗ Huy Nam" ],
+    "namSinh" : "1883",
+    "namMat" : "1914",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Phan Mạnh Danh",
+    "tenGoiKhac" : [ "Phan Mạnh Danh", "Thế Vọng", "Phù Giang" ],
+    "namSinh" : "1866",
+    "namMat" : "1942",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Nguyễn Đức Quỳnh",
+    "tenGoiKhac" : [ "Nguyễn Đức Quỳnh", "Hà Việt Phương", "Hoài Đồng Vọng" ],
+    "namSinh" : "1909",
+    "namMat" : "1974",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Nguyễn Xuân Bái",
+    "tenGoiKhac" : [ "Nguyễn Xuân Bái" ],
+    "namSinh" : "1895",
+    "namMat" : "1972",
+    "queQuan" : "Hưng Yên"
+  }, {
+    "hoTen" : "Phạm Huy Thông",
+    "tenGoiKhac" : [ "Phạm Huy Thông" ],
+    "namSinh" : "1916",
+    "namMat" : "1988",
+    "queQuan" : "Hưng Yên"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Phạm Ngũ Lão", "Nhân vật: Chử Đồng Tử", "Nhân vật: Bản Tịch", "Nhân vật: Nguyễn Trung Ngạn", "Nhân vật: Bùi Công Phụ", "Nhân vật: Cái Phùng", "Nhân vật: Lưu Xuân Tín", "Nhân vật: Lê Nhu Hổ", "Nhân vật: Dương Trọng Khiêm", "Nhân vật: Châu Mạnh Trinh", "Nhân vật: Trương Văn Thám", "Nhân vật: Đỗ Huy Nam", "Nhân vật: Phan Mạnh Danh", "Nhân vật: Nguyễn Đức Quỳnh", "Nhân vật: Nguyễn Xuân Bái", "Nhân vật: Phạm Huy Thông" ]
+}, {
+  "tenDiaDiem" : "Hà Nam",
+  "noiDung" : "Hà Nam là một tỉnh nằm ở vùng đồng bằng sông Hồng Việt Nam. phía bắc tiếp giáp với Hà Nội, phía đông giáp với tỉnh Hưng Yên và Thái Bình, phía nam giáp tỉnh Ninh Bình, đông nam giáp tỉnh Nam Định và phía tây giáp tỉnh Hòa Bình. Trong quy hoạch xây dựng, tỉnh này thuộc vùng Hà Nội Cách đây 225 triệu năm toàn bộ vùng đất của Hà Nam, Nam Định, Thái Bình và Ninh Bình còn nằm sâu dưới đáy biển. Cuối kỷ Jurat hay đầu kỷ Bạch phấn, một vận động tạo sơn đã tạo nên vùng đá vôi của 3 tỉnh Hà Nam, Nam Định và Ninh Bình hiện nay. Đa số các núi đá phân bố dọc hữu ngạn sông Đáy, có rất ít ngọn nằm ở tả ngạn. Theo kết quả khảo cổ thì người nguyên thuỷ đã xuất hiện ở Hà Nam trên dưới 1 vạn năm vào buổi đầu thời kỳ đồ đá mới và đồ gốm thuộc nền văn hóa Hoà Bình, văn hóa Bắc Sơn. Cũng có thể do sự bùng nổ dân số từ sơ thời kỳ đại kim khí nên bắt đầu đã có cư dân xuống trồng lúa nước ở vùng chiêm trũng. Họ được xem như những người tiên phong khai thác châu thổ Bắc bộ.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Nam Cao",
+    "tenGoiKhac" : [ "Trần Hữu Trí", "Nam Cao", "Thủy Rư", "Xuân Du", "Nhiêu Khê", "Nguyệt" ],
+    "namSinh" : "1917",
+    "namMat" : "1951",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Nguyễn Hữu Tiến",
+    "tenGoiKhac" : [ "Nguyễn Hữu Tiến (I)", "Nguyễn Hữu Tấn" ],
+    "namSinh" : "1602",
+    "namMat" : "1665",
+    "queQuan" : "Thanh Hóa"
+  }, {
+    "hoTen" : "Bùi Đạt",
+    "tenGoiKhac" : [ "Bùi Đạt" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Bùi Dị",
+    "tenGoiKhac" : [ "Bùi Dị", "Bùi Văn Dị" ],
+    "namSinh" : "1832",
+    "namMat" : "1895",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Đinh Công Tráng",
+    "tenGoiKhac" : [ "Đinh Công Tráng" ],
+    "namSinh" : "1842",
+    "namMat" : "1887",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Bàng Bá Lân",
+    "tenGoiKhac" : [ "Bàng Bá Lân" ],
+    "namSinh" : "1916",
+    "namMat" : "1989",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Bùi Kỷ",
+    "tenGoiKhac" : [ "Bùi Kỷ" ],
+    "namSinh" : "1887",
+    "namMat" : "1960",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Nguyễn Thanh Tích",
+    "tenGoiKhac" : [ "Nguyễn Thanh Tích", "Phả Minh" ],
+    "namSinh" : "1881",
+    "namMat" : "1964",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Trần Hữu Trí",
+    "tenGoiKhac" : [ "Trần Hữu Trí", "Nam Cao", "Thủy Rư", "Xuân Du", "Nhiêu Khê", "Nguyệt" ],
+    "namSinh" : "1917",
+    "namMat" : "1951",
+    "queQuan" : "Hà Nam"
+  }, {
+    "hoTen" : "Hoàng Văn Thiệu",
+    "tenGoiKhac" : [ "Hoàng Văn Thiệu", "Hoàng Văn Khánh" ],
+    "namSinh" : "1923",
+    "namMat" : "2002",
+    "queQuan" : "Hà Nam"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Nam Cao", "Nhân vật: Nguyễn Hữu Tiến", "Nhân vật: Bùi Đạt", "Nhân vật: Bùi Dị", "Nhân vật: Đinh Công Tráng", "Nhân vật: Bàng Bá Lân", "Nhân vật: Bùi Kỷ", "Nhân vật: Nguyễn Thanh Tích", "Nhân vật: Trần Hữu Trí", "Nhân vật: Hoàng Văn Thiệu" ]
+}, {
+  "tenDiaDiem" : "Hà Tây",
+  "noiDung" : "Hà Tây là một tỉnh cũ của Việt Nam trong giai đoạn từ 1991-2008, về sau được xáp nhập vào thành phố Hà Nội (01/08/2008). Tỉnh nằm ở vùng trung tâm của đồng bằng Bắc Bộ, giáp hai bờ sông Hồng và sông Đà.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Lý Tử Tấn",
+    "tenGoiKhac" : [ "Lý Tử Tấn", "Chuyết Am" ],
+    "namSinh" : "1378",
+    "namMat" : "1454",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Ngô Sĩ Liên",
+    "tenGoiKhac" : [ "Ngô Sĩ Liên" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Anh Võ",
+    "tenGoiKhac" : [ "Nguyễn Anh Võ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Bá Kí",
+    "tenGoiKhac" : [ "Nguyễn Bá Kí" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1465",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Địch Tâm",
+    "tenGoiKhac" : [ "Nguyễn Địch Tâm" ],
+    "namSinh" : "1461",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Lê Vô Cương",
+    "tenGoiKhac" : [ "Lê Vô Cương" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Đặng Đình Đông",
+    "tenGoiKhac" : [ "Đặng Đình Đông", "Đặng Tiến Đông" ],
+    "namSinh" : "1738",
+    "namMat" : "1787",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Đặng Đình Gián",
+    "tenGoiKhac" : [ "Đặng Đình Gián" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Đặng Đình Tướng",
+    "tenGoiKhac" : [ "Đặng Đình Tướng" ],
+    "namSinh" : "1649",
+    "namMat" : "1736",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Đặng Thế Khoa",
+    "tenGoiKhac" : [ "Đặng Thế Khoa" ],
+    "namSinh" : "1593",
+    "namMat" : "1656",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Đặng Tiến Thự",
+    "tenGoiKhac" : [ "Đặng Tiến Thự" ],
+    "namSinh" : "1627",
+    "namMat" : "1697",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Võ Công Tuấn",
+    "tenGoiKhac" : [ "Võ Công Tuấn", "Vũ Công Tuấn" ],
+    "namSinh" : "1685",
+    "namMat" : "Không rõ",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Văn Giáp",
+    "tenGoiKhac" : [ "Nguyễn Văn Giáp", "Bố Giáp" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1887",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Lê Thanh",
+    "tenGoiKhac" : [ "Lê Thanh", "Nguyễn Văn Thanh", "Khiết Phủ" ],
+    "namSinh" : "1913",
+    "namMat" : "1944",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Nam Thông",
+    "tenGoiKhac" : [ "Nguyễn Nam Thông" ],
+    "namSinh" : "1893",
+    "namMat" : "1945",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Nhuận",
+    "tenGoiKhac" : [ "Nguyễn Nhuận" ],
+    "namSinh" : "1879",
+    "namMat" : "1915",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Vũ Phạm Hàm",
+    "tenGoiKhac" : [ "Vũ Phạm Hàm", "Mộng Hải", "Thư Trì" ],
+    "namSinh" : "1864",
+    "namMat" : "1906",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Bùi Huy Phồn",
+    "tenGoiKhac" : [ "Bùi Huy Phồn", "Đỗ Phồn", "Bùi Như Lạc" ],
+    "namSinh" : "1912",
+    "namMat" : "1990",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Hoàng Minh Giám",
+    "tenGoiKhac" : [ "Hoàng Minh Giám" ],
+    "namSinh" : "1904",
+    "namMat" : "1995",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Lê Văn Hòe",
+    "tenGoiKhac" : [ "Lê Văn Hòe", "Lê Văn Hạc" ],
+    "namSinh" : "1911",
+    "namMat" : "1968",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Đỗ Mục",
+    "tenGoiKhac" : [ "Nguyễn Đỗ Mục", "Trọng Hữu" ],
+    "namSinh" : "1866",
+    "namMat" : "1949",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Đôn Phục",
+    "tenGoiKhac" : [ "Nguyễn Đôn Phục", "Hi Cán", "Tùng Vân" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1954",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Giang",
+    "tenGoiKhac" : [ "Nguyễn Giang" ],
+    "namSinh" : "1910",
+    "namMat" : "1969",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Hiến Lê",
+    "tenGoiKhac" : [ "Nguyễn Hiến Lê", "Lộc Đình" ],
+    "namSinh" : "1912",
+    "namMat" : "1984",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Nguyễn Tiến Chung",
+    "tenGoiKhac" : [ "Nguyễn Tiến Chung" ],
+    "namSinh" : "1914",
+    "namMat" : "1976",
+    "queQuan" : "Hà Tây"
+  }, {
+    "hoTen" : "Trần Đức Sắc",
+    "tenGoiKhac" : [ "Trần Đức Sắc", "Văn Tân" ],
+    "namSinh" : "1913",
+    "namMat" : "1988",
+    "queQuan" : "Hà Tây"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Lý Tử Tấn", "Nhân vật: Ngô Sĩ Liên", "Nhân vật: Nguyễn Anh Võ", "Nhân vật: Nguyễn Bá Kí", "Nhân vật: Nguyễn Địch Tâm", "Nhân vật: Lê Vô Cương", "Nhân vật: Đặng Đình Đông", "Nhân vật: Đặng Đình Gián", "Nhân vật: Đặng Đình Tướng", "Nhân vật: Đặng Thế Khoa", "Nhân vật: Đặng Tiến Thự", "Nhân vật: Võ Công Tuấn", "Nhân vật: Nguyễn Văn Giáp", "Nhân vật: Lê Thanh", "Nhân vật: Nguyễn Nam Thông", "Nhân vật: Nguyễn Nhuận", "Nhân vật: Vũ Phạm Hàm", "Nhân vật: Bùi Huy Phồn", "Nhân vật: Hoàng Minh Giám", "Nhân vật: Lê Văn Hòe", "Nhân vật: Nguyễn Đỗ Mục", "Nhân vật: Nguyễn Đôn Phục", "Nhân vật: Nguyễn Giang", "Nhân vật: Nguyễn Hiến Lê", "Nhân vật: Nguyễn Tiến Chung", "Nhân vật: Trần Đức Sắc" ]
+}, {
+  "tenDiaDiem" : "Ninh Bình",
+  "noiDung" : "Ninh Bình là một tỉnh nằm ở cửa ngõ cực nam miền Bắc và khu vực đồng bằng Bắc Bộ, Việt Nam. Theo quy hoạch xây dựng phát triển kinh tế thì tỉnh này thuộc vùng duyên hải Bắc Bộ. Mặc dù được xếp vào khu vực đồng bằng Bắc Bộ nhưng Ninh Bình chỉ có 2 huyện duyên hải là Yên Khánh và Kim Sơn không thuộc miền núi. Vùng đất này từng là kinh đô của Việt Nam ở thế kỷ X, là địa bàn quan trọng về quân sự qua các thời kỳ Đinh, Tiền Lê, Lý, Trần, Tây Sơn. Với vị trí đặc biệt về giao thông, địa hình và lịch sử văn hóa, Ninh Bình là tỉnh có tiềm năng du lịch phong phú và đa dạng.[2] Ninh Bình được ví như một Việt Nam thu nhỏ.[3]",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Đinh Duệ",
+    "tenGoiKhac" : [ "Đinh Duệ", "Đinh Tuệ", "Đinh Toàn" ],
+    "namSinh" : "974",
+    "namMat" : "1001",
+    "queQuan" : "Ninh Bình"
+  }, {
+    "hoTen" : "Đinh Văn Điển",
+    "tenGoiKhac" : [ "Đinh Văn Điển" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Ninh Bình"
+  }, {
+    "hoTen" : "Võ Duy Đề",
+    "tenGoiKhac" : [ "Võ Duy Đề" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1849",
+    "queQuan" : "Ninh Bình"
+  }, {
+    "hoTen" : "Võ Duy Thanh",
+    "tenGoiKhac" : [ "Võ Duy Thanh", "Trạng Bồng" ],
+    "namSinh" : "1807",
+    "namMat" : "1861",
+    "queQuan" : "Ninh Bình"
+  }, {
+    "hoTen" : "Vũ Phạm Khải",
+    "tenGoiKhac" : [ "Vũ Phạm Khải", "Đông Dương", "Phương Trì" ],
+    "namSinh" : "1807",
+    "namMat" : "1872",
+    "queQuan" : "Ninh Bình"
+  }, {
+    "hoTen" : "Đinh Gia Thuyết",
+    "tenGoiKhac" : [ "Đinh Gia Thuyết" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1953",
+    "queQuan" : "Ninh Bình"
+  }, {
+    "hoTen" : "Phan Đình Phùng",
+    "tenGoiKhac" : [ "Phan Đình Phùng" ],
+    "namSinh" : "1891",
+    "namMat" : "1944",
+    "queQuan" : "Ninh Bình"
+  }, {
+    "hoTen" : "Nguyễn Thế Truyền",
+    "tenGoiKhac" : [ "Nguyễn Thế Truyền" ],
+    "namSinh" : "1898",
+    "namMat" : "1969",
+    "queQuan" : "Ninh Bình"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Đinh Duệ", "Nhân vật: Đinh Văn Điển", "Nhân vật: Võ Duy Đề", "Nhân vật: Võ Duy Thanh", "Nhân vật: Vũ Phạm Khải", "Nhân vật: Đinh Gia Thuyết", "Nhân vật: Phan Đình Phùng", "Nhân vật: Nguyễn Thế Truyền" ]
+}, {
+  "tenDiaDiem" : "Vĩnh Phúc",
+  "noiDung" : "Vĩnh Phúc thuộc Vùng đồng bằng sông Hồng, Vùng kinh tế trọng điểm Bắc bộ và Vùng Thủ đô, phía Bắc giáp tỉnh Thái Nguyên và Tuyên Quang, phía Tây giáp Phú Thọ, phía Đông và phía Nam giáp thủ đô Hà Nội.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Bát Nàn Công Chúa",
+    "tenGoiKhac" : [ "Bát Nạn", "Bát Nàn", "Bát Não" ],
+    "namSinh" : "17",
+    "namMat" : "43",
+    "queQuan" : "Vĩnh Phúc"
+  }, {
+    "hoTen" : "An Bình Lý",
+    "tenGoiKhac" : [ "An Bình Lý" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Vĩnh Phúc"
+  }, {
+    "hoTen" : "Bát Nạn",
+    "tenGoiKhac" : [ "Bát Nạn", "Bát Nàn", "Bát Não" ],
+    "namSinh" : "17",
+    "namMat" : "43",
+    "queQuan" : "Vĩnh Phúc"
+  }, {
+    "hoTen" : "Hà Nhậm Đại",
+    "tenGoiKhac" : [ "Hà Nhậm Đại" ],
+    "namSinh" : "1525",
+    "namMat" : "Không rõ",
+    "queQuan" : "Vĩnh Phúc"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Bát Nàn Công Chúa", "Nhân vật: An Bình Lý", "Nhân vật: Bát Nạn", "Nhân vật: Hà Nhậm Đại" ]
+}, {
+  "tenDiaDiem" : "Bắc Kạn",
+  "noiDung" : "Bắc Kạn là một tỉnh thuộc vùng Đông Bắc Việt Nam. phía bắc giáp tỉnh Cao Bằng, phía đông giáp tỉnh Lạng Sơn, phía nam giáp tỉnh Thái Nguyên và phía tây giáp tỉnh Tuyên Quang. Dân số tỉnh theo điều tra dân số ngày 01/04/2009 là 294.660 người, là tỉnh ít dân nhất cả nước. Đôi khi tên tỉnh được viết là Bắc Cạn, tuy nhiên tên Bắc Kạn được coi là chính thức và tỉnh Bắc Kạn có con dấu khắc chữ \"Bắc Kạn\" để chỉ đơn vị tỉnh.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Hà Giang",
+  "noiDung" : "Hà Giang là tỉnh miền núi cao nằm ở cực bắc tổ quốc, phía Bắc giáp các tỉnh Vân Nam và Quảng Tây – Trung Quốc, phía Nam giáp tỉnh Tuyên Quang, phía Đông giáp tỉnh Cao Bằng, phía Tây giáp tỉnh Yên Bái và Lào Cai. Diện tích tự nhiên là 7.884,37 km².",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Phú Thọ",
+  "noiDung" : "Phú Thọ là một tỉnh Trung du miền núi phía Bắc của Việt Nam, có vị trí trung tâm vùng và là cửa ngõ phía Tây Bắc của Thủ đô Hà Nội. Tỉnh Phú Thọ nằm trên trục hành lang kinh tế Hải Phòng – Hà Nội – Côn Minh (Trung Quốc), phía Đông giáp tỉnh Vĩnh Phúc, phía Tây tiếp giáp thành phố Hà Nội, phía Nam giáp tỉnh Hoà Bình, phía Bắc giáp tỉnh Yên Bái và Tuyên Quang. Phú Thọ cách sân bay quốc tế Nội Bài 50km, cách Trung tâm thành phố Hà Nội 80km, cách cảng Hải Phòng 170km, cách cửa khẩu quốc tế Hà Khẩu (giữa Lào Cai - Việt Nam và Vân Nam - Trung Quốc) và cửa khẩu Thanh Thủy – Lạng Sơn 200km và là nơi hợp lưu của ba con sông lớn: sông Hồng, sông Đà và sông Lô",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Phạm Thường Chiếu",
+    "tenGoiKhac" : [ "Phạm Thường Chiếu", "Thường Chiếu" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1203",
+    "queQuan" : "Phú Thọ"
+  }, {
+    "hoTen" : "Nguyễn Hãng",
+    "tenGoiKhac" : [ "Nguyễn Hãng", "Nại Hiên" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Phú Thọ"
+  }, {
+    "hoTen" : "Trần Trọng Khiêm",
+    "tenGoiKhac" : [ "Trần Trọng Khiêm" ],
+    "namSinh" : "1821",
+    "namMat" : "1886",
+    "queQuan" : "Phú Thọ"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Phạm Thường Chiếu", "Nhân vật: Nguyễn Hãng", "Nhân vật: Trần Trọng Khiêm" ]
+}, {
+  "tenDiaDiem" : "Quảng Ninh",
+  "noiDung" : "Quảng Ninh được thành lập năm 1963 với nền tảng là khu Hồng Quảng và tỉnh Hải Ninh. Tên tỉnh là ghép tên của hai tỉnh Quảng Yên và Hải Ninh cũ. Diện tích của toàn tỉnh Quảng Ninh là 8.239,243 km².",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Ngô Đức Chính",
+    "tenGoiKhac" : [ "Ngô Đức Chính" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Ninh"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Ngô Đức Chính" ]
+}, {
+  "tenDiaDiem" : "Thái Nguyên",
+  "noiDung" : "Tỉnh Thái Nguyên nằm ở phía Bắc tiếp giáp với thủ đô Hà Nội, phía Tây tiếp giáp với tỉnh Vĩnh Phúc và tỉnh Tuyên Quang.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Đồng Nai",
+  "noiDung" : "Đồng Nai là tỉnh thuộc Miền Đông Nam Bộ nước Cộng hòa Xã hội chủ nghĩa Việt Nam, có diện tích 5.894,73 km2, chiếm 1,76% diện tích tự nhiên cả nước và chiếm 25,5% diện tích tự nhiên của vùng Đông Nam Bộ. Dân số toàn tỉnh theo số liệu thống kê năm 2005 là 2.218.900 người, mật độ dân số: 365 người/km2. Tỷ lệ tăng dân số tự nhiên của toàn tỉnh năm 2005 là 1,28%. Tỉnh có 11 đơn vị hành chính trực thuộc gồm: Thành phố Biên Hòa - là trung tâm chính trị kinh tế văn hóa của tỉnh; Thị xã Long Khánh và 9 huyện: Long Thành;Nhơn Trạch; Trảng Bom; Thống Nhất; Cẩm Mỹ; Vĩnh Cửu; Xuân Lộc; Định Quán; Tân Phú.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Lê Văn Gẫm",
+    "tenGoiKhac" : [ "Lê Văn Gẫm" ],
+    "namSinh" : "1813",
+    "namMat" : "1847",
+    "queQuan" : "Đồng Nai"
+  }, {
+    "hoTen" : "Lương Văn Nho",
+    "tenGoiKhac" : [ "Lương Văn Nho" ],
+    "namSinh" : "1916",
+    "namMat" : "1984",
+    "queQuan" : "Đồng Nai"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Lê Văn Gẫm", "Nhân vật: Lương Văn Nho" ]
+}, {
+  "tenDiaDiem" : "Bà Rịa - Vung Tàu",
+  "noiDung" : "Tỉnh Bà Rịa – Vũng Tàu : Diện tích: 1.987,4 km² Dân số: 1.012,0 nghìn người (2010) Tỉnh lỵ: Thành phố Bà Rịa Các huyện, thị: - Thành phố: Vũng Tàu - Huyện: Châu Đức, Xuyên Mộc, Tân Thành, Long Điền, Đất Đỏ, Côn Đảo. Dân tộc: Việt (Kinh), Hoa, Khmer, Chơ Ro...",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Bình Duong",
+  "noiDung" : "h Dương thuộc miền Đông Nam Bộ, nằm trong vùng kinh tế trọng điểm phía Nam (gồm 8 tỉnh thành, thành phố Hồ Chí Minh, Đồng Nai, Bình Dương, Bà Rịa - Vũng Tàu, Bình Phước, Tây Ninh, Long An và tỉnh Tiền Giang), là một trong những tỉnh có tốc độ tăng trưởng kinh tế cao, phát triển công nghiệp năng động của cả nước.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Bình Phuớc",
+  "noiDung" : "Bình Phước là một tỉnh thuộc vùng Đông Nam Bộ, Việt Nam. Bình Phước là tỉnh ở Miền Đông Nam Bộ, nằm trong Vùng kinh tế trọng điểm phía Nam có 240 km đường biên giới với Vương quốc Campuchia trong đó 3 tỉnh biên giới gồm Tbong Khmum, Kratie, Mundulkiri, tỉnh là cửa ngõ đồng thời là cầu nối của vùng với Tây Nguyên và Campuchia. Bình Phước là nơi định cư và sinh sống của nhiều dân tộc khác nhau, trong đó dân tộc ít người chiếm 17,9%, đa số là người Xtiêng, một số ít người Hoa, Khmer, Nùng, Tày,... vì vậy Bình Phước có nhiều nét văn hóa của người Xtiêng. Ngoài ra tỉnh còn có nhiều lễ hội truyền thống đặc sắc như Liên hoan văn hóa các dân tộc thiểu số vào tháng 12 hàng năm, lễ hội cầu mưa của người Xtiêng, lễ bỏ mả, lễ hội đánh bạc bầu cua, đánh liêng tố xả láng ở điểm 2, lễ mừng lúa mới của người Khmer. Địa hình vùng lãnh thổ Bình Phước là cao nguyên ở phía Bắc và Đông Bắc, dạng địa hình đồi núi, thấp dần về phía Tây và Tây Nam, nằm trong vùng mang đặc trưng khí hậu nhiệt đới cận xích đạo gió cáI mùa với 2 mùa là mùa mưa và mùa khô. Nhiệt độ bình quân trong năm cao đều và ổn định từ 25,8 ⁰C - 26,2 °C. Khu du lịch chính chủ yếu là Xã Bù Nho Huyện Bù Gia Mập với nhiều loại ăn chơi nổi tiếng",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Bình Thuận",
+  "noiDung" : "Bình Thuận nằm trong vùng duyên hải cực Nam Trung Bộ, có mối liên hệ chặt chẽ với vùng Đông Nam Bộ và nằm trong khu vực ảnh hưởng cuả Địa Bàn Kinh tế trọng điểm phía Nam. Nằm cách thành phố Hồ Chí Minh 200 km, cách Thành phố Nha Trang 250 km. Có quốc lộ IA, đường sắt Bắc nam chạy qua; quốc lộ 28 nối liền Bình Thuận với các tỉnh Nam Tây Nguyên; quốc lộ 55 nối liền với Trung tâm dịch vụ dầu khí và du lịch Vũng Tàu. Diện tích tự nhiên 7.828 km2, dân số 1,3 triệu người, lực lượng lao động 734.500 người. Gồm 10 đơn vị hành chính: Thành phố Phan Thiết (Trung tâm tỉnh lỵ), thị xã Lagi và 8 huyện; trong đó có 1 huyện đảo Phú Quý. Những năm qua, kinh tế Bình Thuận tăng trưởng đạt mức bình quân 12%/năm. Tiềm năng tài nguyên thiên nhiên phong phú, đa dạng",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Đặng Đức Thuật",
+    "tenGoiKhac" : [ "Đặng Đức Thuật" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Bình Thuận"
+  }, {
+    "hoTen" : "Vũ Anh Khanh",
+    "tenGoiKhac" : [ "Vũ Anh Khanh", "Nguyễn Năm" ],
+    "namSinh" : "1926",
+    "namMat" : "1956",
+    "queQuan" : "Bình Thuận"
+  }, {
+    "hoTen" : "Hoàng Văn Lễ",
+    "tenGoiKhac" : [ "Hoàng Văn Lễ" ],
+    "namSinh" : "1940",
+    "namMat" : "1963",
+    "queQuan" : "Bình Thuận"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Đặng Đức Thuật", "Nhân vật: Vũ Anh Khanh", "Nhân vật: Hoàng Văn Lễ" ]
+}, {
+  "tenDiaDiem" : "Ninh Thuận",
+  "noiDung" : "Ninh Thuận thuộc vùng vuyên hải Nam Trung Bộ, là một tỉnh có vị trí địa lý quan trọng nằm trên ngã ba nối liền vùng kinh tế trọng điểm Đông Nam Bộ với Nam Trung Bộ và Tây Nguyên trong chuỗi liên kết các tỉnh duyên hải miền Trung.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Tây Ninh",
+  "noiDung" : "Tây Ninh là một tỉnh thuộc miền Đông Nam Bộ, nằm trong Vùng kinh tế trọng điểm phía Nam, có diện tích tự nhiên 4.035,9 km², tọa độ địa lý từ 10057’08’’ đến 11046’36’’ vĩ độ Bắc và từ 105048’43” đến 106022’48’’ kinh độ Đông. Phía Đông giáp tỉnh Bình Dương và Bình Phước, phía Nam và Đông Nam giáp thành phố Hồ Chí Minh và tỉnh Long An, phía Bắc và Tây Bắc giáp 2 tỉnh Svay Riêng và Kampong Cham của Campuchia với 1 Cửa khẩu Quốc tế Mộc Bài, hai cửa khẩu quốc gia (Sa Mát và Phước Tân) và nhiều cửa khẩu tiểu ngạch Việt Nam.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Lê Văn Thới",
+    "tenGoiKhac" : [ "Lê Văn Thới" ],
+    "namSinh" : "1917",
+    "namMat" : "1983",
+    "queQuan" : "Tây Ninh"
+  }, {
+    "hoTen" : "Lê Văn Thới",
+    "tenGoiKhac" : [ "Lê Văn Thới" ],
+    "namSinh" : "1917",
+    "namMat" : "1983",
+    "queQuan" : "Tây Ninh"
+  }, {
+    "hoTen" : "Hoàng Lệ Kha",
+    "tenGoiKhac" : [ "Hoàng Lệ Kha" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1960",
+    "queQuan" : "Tây Ninh"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Lê Văn Thới", "Nhân vật: Lê Văn Thới", "Nhân vật: Hoàng Lệ Kha" ]
+}, {
+  "tenDiaDiem" : "Phú Yên",
+  "noiDung" : "Phú Yên là một tỉnh duyên hải miền Trung. Phía Bắc giáp tỉnh Bình Định, phía Nam giáp tỉnh Khánh Hoà, phía Tây giáp tỉnh Đắk Lắk và tỉnh Gia Lai, phía Đông giáp biển Đông. Phú Yên có lực lượng lao động tại chỗ dồi dào, cần cù lao động, có học vấn khá và được đào tạo tốt. Phú Yên có đường quốc lộ 1A và quốc lộ 25 đi qua. Thị xã Tuy Hoà nằm cách Thủ đô Hà Nội 1.160 km, cách thành phố Hồ Chí Minh 561 km, cách khu du lịch quốc tế Văn Phong (Khánh Hoà) 40 km. Từ các thành phố của Việt Nam có thể đến Phú Yên thuận tiện bằng đường sắt, đường bộ, đường hàng không và đường biển.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Đào Trí",
+    "tenGoiKhac" : [ "Đào Trí" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Phú Yên"
+  }, {
+    "hoTen" : "Lê Thành Phương",
+    "tenGoiKhac" : [ "Lê Thành Phương" ],
+    "namSinh" : "1825",
+    "namMat" : "1887",
+    "queQuan" : "Phú Yên"
+  }, {
+    "hoTen" : "Võ Đông Giang",
+    "tenGoiKhac" : [ "Võ Đông Giang", "Phan Bá" ],
+    "namSinh" : "1923",
+    "namMat" : "1998",
+    "queQuan" : "Phú Yên"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Đào Trí", "Nhân vật: Lê Thành Phương", "Nhân vật: Võ Đông Giang" ]
+}, {
+  "tenDiaDiem" : "Quảng Nam",
+  "noiDung" : "Quảng Nam là một tỉnh ven biển thuộc vùng phát triển kinh tế trọng điểm của miền Trung, phía Bắc giáp thành phố Đà Nẵng, phía Đông giáp biển Đông với trên 125 km bờ biển, phía Tây giáp tỉnh Kon Tum và nước cộng hoà Dân chủ Nhân dân Lào, phía Nam giáp tỉnh Quảng Ngãi.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ {
+    "hoTen" : "Đào Bí",
+    "tenGoiKhac" : [ "Đào Bí" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Lê Văn Long",
+    "tenGoiKhac" : [ "Lê Văn Long", "Đô Đốc Long" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Lê Văn Thủ",
+    "tenGoiKhac" : [ "Lê Văn Thủ" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Lê Vĩnh Khanh",
+    "tenGoiKhac" : [ "Lê Vĩnh Khanh" ],
+    "namSinh" : "1819",
+    "namMat" : "1884",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Văn Dục",
+    "tenGoiKhac" : [ "Nguyễn Văn Dục", "Nguyễn Dục" ],
+    "namSinh" : "1807",
+    "namMat" : "1877",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Văn Xán",
+    "tenGoiKhac" : [ "Nguyễn Văn Xán", "Nguyễn Văn Thước" ],
+    "namSinh" : "1822",
+    "namMat" : "1881",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Phạm Hữu Nghi",
+    "tenGoiKhac" : [ "Phạm Hữu Nghi", "Trọng Vũ", "Đạm Trai", "Phạm Hồng Nghi" ],
+    "namSinh" : "1797",
+    "namMat" : "1862",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Võ Đăng Xuân",
+    "tenGoiKhac" : [ "Võ Đăng Xuân", "Võ Tấn Thượng" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "1872",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Châu Thuợng Văn",
+    "tenGoiKhac" : [ "Châu Thuợng Văn" ],
+    "namSinh" : "1856",
+    "namMat" : "1908",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Trần Thuyết",
+    "tenGoiKhac" : [ "Trần Thuyết" ],
+    "namSinh" : "1857",
+    "namMat" : "1908",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Trương Trọng Hữu",
+    "tenGoiKhac" : [ "Trương Trọng Hữu", "Tố Trai" ],
+    "namSinh" : "1852",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Lê Lượng",
+    "tenGoiKhac" : [ "Lê Lượng" ],
+    "namSinh" : "1870",
+    "namMat" : "1908",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Lê Quang Sung",
+    "tenGoiKhac" : [ "Lê Quang Sung" ],
+    "namSinh" : "1905",
+    "namMat" : "1935",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Minh Hòe",
+    "tenGoiKhac" : [ "Nguyễn Minh Hòe" ],
+    "namSinh" : "1866",
+    "namMat" : "1942",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Ngọc Bích",
+    "tenGoiKhac" : [ "Nguyễn Ngọc Bích" ],
+    "namSinh" : "1921",
+    "namMat" : "1940",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Nhu",
+    "tenGoiKhac" : [ "Nguyễn Nhu", "Nguyễn Văn Sử" ],
+    "namSinh" : "1876",
+    "namMat" : "1905",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Nhự",
+    "tenGoiKhac" : [ "Nguyễn Nhự" ],
+    "namSinh" : "1865",
+    "namMat" : "1922",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Phan Vinh",
+    "tenGoiKhac" : [ "Nguyễn Phan Vinh" ],
+    "namSinh" : "Không rõ",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Phan Châu Trinh",
+    "tenGoiKhac" : [ "Phan Châu Trinh", "Phan Chu Trinh", "Tây Hồ", "Tử Cán", "Hi Mã" ],
+    "namSinh" : "1872",
+    "namMat" : "1926",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Phan Thanh",
+    "tenGoiKhac" : [ "Phan Thanh", "Trạc Anh" ],
+    "namSinh" : "1908",
+    "namMat" : "1939",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Bùi Biên",
+    "tenGoiKhac" : [ "Bùi Biên" ],
+    "namSinh" : "1891",
+    "namMat" : "1952",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Bùi Giáng",
+    "tenGoiKhac" : [ "Bùi Giáng" ],
+    "namSinh" : "1926",
+    "namMat" : "1998",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Bùi Kiến Tín",
+    "tenGoiKhac" : [ "Bùi Kiến Tín", "Bùi Thử" ],
+    "namSinh" : "1912",
+    "namMat" : "1994",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Bùi Thị Hậu",
+    "tenGoiKhac" : [ "Bùi Thị Hậu" ],
+    "namSinh" : "1881",
+    "namMat" : "1967",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Hồ Liên",
+    "tenGoiKhac" : [ "Hồ Liên", "Hoàng Bích Sơn" ],
+    "namSinh" : "1924",
+    "namMat" : "2000",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Lê Võ Đài",
+    "tenGoiKhac" : [ "Lê Võ Đài", "Minh Hương" ],
+    "namSinh" : "1924",
+    "namMat" : "2002",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Lương Trọng Hối",
+    "tenGoiKhac" : [ "Lương Trọng Hối" ],
+    "namSinh" : "1888",
+    "namMat" : "1969",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Lương Vĩnh Thuật",
+    "tenGoiKhac" : [ "Lương Vĩnh Thuật", "Thanh Long", "Hành Sơn" ],
+    "namSinh" : "1918",
+    "namMat" : "1982",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Đóa",
+    "tenGoiKhac" : [ "Nguyễn Đóa" ],
+    "namSinh" : "1896",
+    "namMat" : "1993",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Đức Nhuận",
+    "tenGoiKhac" : [ "Nguyễn Đức Nhuận", "Bút Trà" ],
+    "namSinh" : "1900",
+    "namMat" : "1982",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Thành Long",
+    "tenGoiKhac" : [ "Nguyễn Thành Long", "Lưu Quỳnh", "Phan Minh Thảo" ],
+    "namSinh" : "1925",
+    "namMat" : "1991",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Nguyễn Xuân Nhí",
+    "tenGoiKhac" : [ "Nguyễn Xuân Nhí", "Nguyễn Công Tâm" ],
+    "namSinh" : "1912",
+    "namMat" : "1983",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Phạm Đình Ái",
+    "tenGoiKhac" : [ "Phạm Đình Ái" ],
+    "namSinh" : "1907",
+    "namMat" : "1993",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Phạm Đình Bách",
+    "tenGoiKhac" : [ "Phạm Đình Bách", "Họa Sơn" ],
+    "namSinh" : "1909",
+    "namMat" : "1968",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Phạm Hoanh",
+    "tenGoiKhac" : [ "Phạm Hoanh" ],
+    "namSinh" : "1880",
+    "namMat" : "1960",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Trần Đình Đàn",
+    "tenGoiKhac" : [ "Trần Đình Đàn" ],
+    "namSinh" : "1903",
+    "namMat" : "2002",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Trần Đình Nam",
+    "tenGoiKhac" : [ "Trần Đình Nam" ],
+    "namSinh" : "1896",
+    "namMat" : "1974",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Trần Đình Tri",
+    "tenGoiKhac" : [ "Trần Đình Tri" ],
+    "namSinh" : "1915",
+    "namMat" : "1997",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Võ Quảng",
+    "tenGoiKhac" : [ "Võ Quảng" ],
+    "namSinh" : "1920",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Võ Toàn",
+    "tenGoiKhac" : [ "Võ Toàn", "Võ Chí Công" ],
+    "namSinh" : "1913",
+    "namMat" : "Không rõ",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Hoàng Phê",
+    "tenGoiKhac" : [ "Hoàng Phê" ],
+    "namSinh" : "1919",
+    "namMat" : "2005",
+    "queQuan" : "Quảng Nam"
+  }, {
+    "hoTen" : "Lê Khâm",
+    "tenGoiKhac" : [ "Lê Khâm", "Phan Tứ" ],
+    "namSinh" : "1930",
+    "namMat" : "1995",
+    "queQuan" : "Quảng Nam"
+  } ],
+  "thongTinLienQuan" : [ "Nhân vật: Đào Bí", "Nhân vật: Lê Văn Long", "Nhân vật: Lê Văn Thủ", "Nhân vật: Lê Vĩnh Khanh", "Nhân vật: Nguyễn Văn Dục", "Nhân vật: Nguyễn Văn Xán", "Nhân vật: Phạm Hữu Nghi", "Nhân vật: Võ Đăng Xuân", "Nhân vật: Châu Thuợng Văn", "Nhân vật: Trần Thuyết", "Nhân vật: Trương Trọng Hữu", "Nhân vật: Lê Lượng", "Nhân vật: Lê Quang Sung", "Nhân vật: Nguyễn Minh Hòe", "Nhân vật: Nguyễn Ngọc Bích", "Nhân vật: Nguyễn Nhu", "Nhân vật: Nguyễn Nhự", "Nhân vật: Nguyễn Phan Vinh", "Nhân vật: Phan Châu Trinh", "Nhân vật: Phan Thanh", "Nhân vật: Bùi Biên", "Nhân vật: Bùi Giáng", "Nhân vật: Bùi Kiến Tín", "Nhân vật: Bùi Thị Hậu", "Nhân vật: Hồ Liên", "Nhân vật: Lê Võ Đài", "Nhân vật: Lương Trọng Hối", "Nhân vật: Lương Vĩnh Thuật", "Nhân vật: Nguyễn Đóa", "Nhân vật: Nguyễn Đức Nhuận", "Nhân vật: Nguyễn Thành Long", "Nhân vật: Nguyễn Xuân Nhí", "Nhân vật: Phạm Đình Ái", "Nhân vật: Phạm Đình Bách", "Nhân vật: Phạm Hoanh", "Nhân vật: Trần Đình Đàn", "Nhân vật: Trần Đình Nam", "Nhân vật: Trần Đình Tri", "Nhân vật: Võ Quảng", "Nhân vật: Võ Toàn", "Nhân vật: Hoàng Phê", "Nhân vật: Lê Khâm" ]
+}, {
+  "tenDiaDiem" : "Điện Biên",
+  "noiDung" : "Điện Biên là một tỉnh miền núi biên giới phía Tây Bắc Việt Nam, có diện tích tự nhiên 9.542,289 km2 chiếm 2,89% diện tích cả nước. . Phía Bắc giáp tỉnh Lai Châu, phía Đông và Đông Bắc giáp tỉnh Sơn La, phía Tây Bắc giáp tỉnh Vân Nam (Trung Quốc), phía Tây và Tây Nam giáp với nước Cộng hòa Dân chủ Nhân dân Lào. Cách thủ đô Hà Nội khoảng 500km đường bộ. Điện Biên là tỉnh duy nhất có chung đường biên giới với 2 quốc gia Trung Quốc và Lào, trong đó biên giới với Lào dài 360 km và biên giới với Trung Quốc dài 38,5 km. Điện Biên có 9 đơn vị hành chính (01 Thành phố, 01 Thị xã và 07 huyện) với 21 dân tộc sinh sống",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Hòa Bình",
+  "noiDung" : "Hòa Bình là một tỉnh miền núi phía tây bắc Việt Nam, nằm ở tọa độ 200°19' - 210°08' vĩ độ Bắc, 104°48' - 105°40' kinh độ Đông, tỉnh lỵ là thành phố Hòa Bình nằm cách trung tâm thủ đô Hà Nội 73km. Diện tích tự nhiên toàn tỉnh là 4.662.5 km², chiếm 1,41% tổng diện tích tự nhiên của Việt Nam.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Lai Châu",
+  "noiDung" : "Lai Châu là một tỉnh biên giới thuộc vùng tây bắc Việt Nam, phía bắc giáp nước Cộng hòa Nhân dân Trung Hoa, phía tây và phía tây nam giáp tỉnh Điện Biên, phía đông giáp tỉnh Lào Cai, phía đông nam giáp tỉnh Yên Bái, và phía nam giáp tỉnh Sơn La. Tỉnh Lai Châu có 9.068,78 km2 diện tích tự nhiên. Dân số toàn tỉnh có 403,20 nghìn người, gồm 20 dân tộc cùng sinh sống trong đó dân tộc Thái 131.822 người, chiếm 34%; dân tộc Mông 86.467 người, chiếm 22,30%; dân tộc Kinh 54.027 người, chiếm 13,94%",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Đắk Nông",
+  "noiDung" : "Đắk Nông nằm ở cửa ngõ phía tây nam của Tây Nguyên. Trung tâm tỉnh Đắk Nông nằm cách thành phố Buôn Ma Thuột với chiều dài 125 km theo đường quốc lộ 14, cách thành phố Hồ Chí Minh khoảng 250 km về phía nam. Phía bắc và đông bắc của Đắc Nông giáp với địa phận tỉnh Đắk Lắk, phía đông và đông Nam giáp tỉnh Lâm Đồng, phía nam giáp tỉnh Bình Phước, đồng thời phía tây tỉnh Đắk Nông giáp với Vương Quốc Campuchia với đường biên giới dài khoảng 120 km, qua hai cửa khẩu là cửa khẩu Đắk Per thuộc huyện Đắk Mil và Bup'rang thuộc địa phận Tuy Đức",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Gia Lai",
+  "noiDung" : "Gia Lai là một tỉnh miền núi nằm ở khu vực phía Bắc cao nguyên Trung Bộ; phía Bắc giáp tỉnh Kon Tum, phía Nam giáp tỉnh Đắk Lắk, phía Đông giáp tỉnh Quảng Ngãi, Bình Định và Phú Yên, phía Tây giáp tỉnh Ratanakiri (Campuchia) với đường biên giới chạy dài khoảng 90 km.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Kon Tum",
+  "noiDung" : "Kon Tum, còn viết là Kontum, là một tỉnh thuộc vùng Tây Nguyên của Việt Nam. Đây là tỉnh nằm về phía cực Bắc của Tây Nguyên, có vị trí địa lý nằm ở ngã ba Đông Dương, phần lớn nằm ở phía Tây dãy Trường Sơn.",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+}, {
+  "tenDiaDiem" : "Lâm Ðồng",
+  "noiDung" : "Lâm Đồng là tỉnh miền núi phía Nam Tây Nguyên có độ cao trung bình từ 800 - 1.000 m so với mặt nước biển với diện tích tự nhiên 9.772,19 km2; địa hình tương đối phức tạp chủ yếu, là bình sơn nguyên, núi cao đồng thời cũng có những thung lũng nhỏ bằng phẳng đã tạo nên những yếu tố tự nhiên khác nhau về khí hậu, thổ nhưỡng, thực động vật ... và những cảnh quan kỳ thú cho Lâm Đồng. - Phía đông giáp các tỉnh Khánh Hoà và Ninh Thuận - Phía tây nam giáp tỉnh Đồng Nai - Phía nam – đông nam gáp tỉnh Bình Thuận - Phía bắc giáp tỉnh Đắc Lắc",
+  "danhSachSuKien" : [ ],
+  "danhSachNhanVat" : [ ],
+  "thongTinLienQuan" : [ ]
+} ]
